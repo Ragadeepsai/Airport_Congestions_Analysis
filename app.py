@@ -2,118 +2,135 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# --- PAGE CONFIGURATION ---
-st.set_page_config(page_title="Flight Padding Analysis", page_icon="✈️", layout="wide")
+# --- Config & Constants ---
+st.set_page_config(page_title="Airport Congestion Analysis", page_icon="✈️", layout="wide")
 
-st.title("✈️ Airport Congestion & Schedule Padding Analysis")
-st.markdown("Investigating if airlines artificially pad their flight schedules to improve on-time performance metrics.")
+EARLY_THRESHOLD = -5  # Flights arriving more than 5 minutes early are considered "Padded"
 
-# --- AIRPORT SELECTION ---
-airport_selection = st.selectbox(
-    "Select an Airport to Analyze:",
-    options=["Chennai (MAA)", "Mumbai (BOM)"]
-)
+def classify_flight(delta):
+    if delta < EARLY_THRESHOLD:
+        return 'Early (Padding)'
+    elif delta <= 15:
+        return 'On Time'
+    else:
+        return 'Delayed'
 
-# Map the selection to the correct CSV file
-if airport_selection == "Chennai (MAA)":
-    csv_file = "data/flights_data_maa.csv"
-else:
-    csv_file = "data/flights_data_bom.csv"
-
-# --- DATA LOADING ---
-@st.cache_data(ttl=1)
-def load_data(filepath):
+# --- Data Loading & Caching ---
+@st.cache_data
+def load_data():
+    """Loads both CSVs, combines them, and caches the result for performance."""
     try:
-        df = pd.read_csv(filepath)
-        # Safely drop the origin_code column if it exists in historical data
-        if 'origin_code' in df.columns:
-            df = df.drop(columns=['origin_code'])
-        return df
+        df_bom = pd.read_csv("data/flights_data_bom_adb.csv")
     except FileNotFoundError:
-        # Just in case the file hasn't been generated yet
-        return pd.DataFrame()
+        df_bom = pd.DataFrame()
+        
+    try:
+        df_maa = pd.read_csv("data/flights_data_maa.csv")
+    except FileNotFoundError:
+        df_maa = pd.DataFrame()
+        
+    df_combined = pd.concat([df_bom, df_maa], ignore_index=True)
+    
+    if not df_combined.empty:
+        # Convert date column to datetime objects for filtering
+        df_combined['date'] = pd.to_datetime(df_combined['date'])
+        # Apply the classification logic
+        df_combined['classification'] = df_combined['delta_minutes'].apply(classify_flight)
+        
+    return df_combined
 
-df = load_data(csv_file)
+df = load_data()
 
-st.header(f"Live Data: {airport_selection}")
+# --- UI Setup & Sidebar ---
+st.title("✈️ Airport Congestion & Schedule Padding Dashboard")
 
-# Halt execution if no data is found yet
 if df.empty:
-    st.warning(f"No data found for {airport_selection} yet. Check your data folder or run the scraper first!")
+    st.warning("No data found! Please run your scraper scripts to generate the CSV files.")
     st.stop()
 
-# --- METRICS CALCULATIONS ---
-total_flights = len(df)
-early_flights = len(df[df['classification'] == 'Early'])
-average_delta = round(df['delta_minutes'].mean(), 1)
+st.sidebar.header("Dashboard Filters")
 
-# --- UI: METRICS ROW ---
-col1, col2, col3 = st.columns(3)
+# 1. Airport Filter
+airports = df['airport_code'].unique().tolist()
+selected_airport = st.sidebar.selectbox("Select Airport View", ["All Airports"] + airports)
 
-with col1:
-    st.metric(label="Total Flights Tracked", value=total_flights)
-with col2:
-    st.metric(label="Flights Arrived Early (>10 mins)", value=early_flights)
-with col3:
-    st.metric(label="Average Delta (Minutes)", value=average_delta)
+# 2. Date Filter
+min_date = df['date'].min().date()
+max_date = df['date'].max().date()
 
-st.divider()
+# Handle edge case where there is only one day of data
+if min_date == max_date:
+    date_range = st.sidebar.date_input("Select Date Range", min_date)
+    start_date, end_date = date_range, date_range
+else:
+    date_selection = st.sidebar.date_input("Select Date Range", [min_date, max_date])
+    if len(date_selection) == 2:
+        start_date, end_date = date_selection
+    else:
+        start_date, end_date = date_selection[0], date_selection[0]
 
-# --- UI: RAW DATA TABLE ---
+# --- Apply Filters ---
+mask = (df['date'].dt.date >= start_date) & (df['date'].dt.date <= end_date)
+if selected_airport != "All Airports":
+    mask = mask & (df['airport_code'] == selected_airport)
+
+filtered_df = df[mask]
+
+st.markdown(f"### Analyzing: {selected_airport} | {start_date} to {end_date}")
+
+if filtered_df.empty:
+    st.info("No flights match the selected criteria.")
+    st.stop()
+
+# --- Executive KPIs ---
+col1, col2, col3, col4 = st.columns(4)
+col1.metric("Verified Arrivals Tracked", len(filtered_df))
+col2.metric(f"Early / Padded (<-{abs(EARLY_THRESHOLD)}m)", len(filtered_df[filtered_df['delta_minutes'] < EARLY_THRESHOLD]))
+col3.metric("Delayed (>15m)", len(filtered_df[filtered_df['delta_minutes'] > 15]))
+col4.metric("Average Delta (Minutes)", round(filtered_df['delta_minutes'].mean(), 1))
+
+st.markdown("---")
+
+# --- Visualizations ---
+chart_col1, chart_col2 = st.columns(2)
+
+with chart_col1:
+    st.subheader("Average Padding by Airline")
+    st.markdown("Negative values indicate early arrivals (potential schedule padding).")
+    
+    # Group by airline and calculate mean delta
+    airline_df = filtered_df.groupby('airline')['delta_minutes'].mean().reset_index()
+    # Filter out airlines with very few flights to keep the chart clean (optional, keeping all for now)
+    airline_df = airline_df.sort_values(by='delta_minutes', ascending=True)
+
+    fig_bar = px.bar(
+        airline_df, x='airline', y='delta_minutes',
+        color='delta_minutes', color_continuous_scale='RdBu_r', text_auto='.1f'
+    )
+    fig_bar.update_layout(xaxis_title="Airline", yaxis_title="Average Delta (mins)", template="plotly_dark")
+    st.plotly_chart(fig_bar, use_container_width=True)
+
+with chart_col2:
+    st.subheader("Flight Status Distribution")
+    st.markdown("Proportion of padded vs on-time vs delayed flights.")
+    
+    status_counts = filtered_df['classification'].value_counts().reset_index()
+    status_counts.columns = ['classification', 'count']
+    
+    # Fixed color mapping so Early is always Green, Delayed is always Red
+    color_map = {'Early (Padding)': '#2ca02c', 'On Time': '#1f77b4', 'Delayed': '#d62728'}
+    
+    fig_pie = px.pie(
+        status_counts, names='classification', values='count',
+        color='classification', color_discrete_map=color_map, hole=0.4
+    )
+    fig_pie.update_layout(template="plotly_dark")
+    st.plotly_chart(fig_pie, use_container_width=True)
+
+# --- Raw Data Table ---
+st.markdown("---")
 st.subheader("Raw Flight Records")
-# Display the dataframe cleanly across the screen
-st.dataframe(df, use_container_width=True)
-
-st.divider()
-
-# --- UI: VISUALIZATIONS ---
-st.subheader("Arrival Classification Breakdown")
-
-# 1. Overall Classification Chart (Upgraded to a colorful Donut Chart)
-classification_counts = df['classification'].value_counts().reset_index()
-classification_counts.columns = ['Classification', 'Flight Count']
-
-# Assign specific colors (Green for Early, Blue for On-Time, Red for Late)
-color_map = {'Early': '#00CC96', 'On-Time': '#636EFA', 'Late': '#EF553B', 'Cancelled': '#555555'}
-
-fig1 = px.pie(
-    classification_counts, 
-    values='Flight Count', 
-    names='Classification',
-    color='Classification', 
-    color_discrete_map=color_map,
-    hole=0.4 # Makes it a donut chart!
+st.dataframe(
+    filtered_df[['date', 'airport_code', 'airline', 'flight_number', 'origin_city', 'scheduled_time', 'actual_time', 'delta_minutes', 'classification']].sort_values(by=['date', 'scheduled_time'], ascending=[False, False]),
+    use_container_width=True
 )
-# Update layout for a cleaner look
-fig1.update_traces(textposition='inside', textinfo='percent+label')
-st.plotly_chart(fig1, use_container_width=True)
-
-st.divider()
-
-# 2. Airline Comparison Chart
-st.subheader("Average Padding by Airline")
-st.markdown("A negative number means the airline arrives early on average (potential schedule padding).")
-
-# 1. Clean the data: drop rows with missing airlines and convert to string
-df_clean = df.dropna(subset=['airline']).copy()
-df_clean['airline'] = df_clean['airline'].astype(str).str.strip()
-
-# 2. Group by airline and calculate the mean delta
-airline_padding = df_clean.groupby('airline')['delta_minutes'].mean().reset_index()
-
-# 3. Sort
-airline_padding = airline_padding.sort_values(by='delta_minutes')
-
-# 4. Create the chart
-fig2 = px.bar(
-    airline_padding, 
-    x='airline', 
-    y='delta_minutes', 
-    color='delta_minutes',
-    color_continuous_scale='RdBu',  # Red for late (positive), Blue for early (negative)
-    text_auto='.1f', 
-    labels={'airline': 'Airline', 'delta_minutes': 'Average Delta (mins)'}
-)
-
-fig2.update_layout(showlegend=False)
-st.plotly_chart(fig2, use_container_width=True)

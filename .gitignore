@@ -1,0 +1,15 @@
+# Environments
+.venv/
+env/
+venv/
+
+# Security (NEVER UPLOAD THESE)
+.env
+*.key
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store

@@ -1,38 +1,50 @@
-name: Chennai Flight Scraper
+name: Dual Airport Data Scraper
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
+    # Runs at minute 0 past every 6th hour (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  
+  # Allows you to manually trigger the workflow from the GitHub website
   workflow_dispatch: 
 
-permissions:
-  contents: write
-
 jobs:
-  scrape-and-save:
+  scrape-and-update:
     runs-on: ubuntu-latest
+    
+    # Grants the bot permission to push the updated CSVs back to your repo
+    permissions:
+      contents: write 
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-            
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-                
-      - name: Install libraries
-        run: pip install -r requirements.txt
-              
-      - name: Run Scrapers
-        run: |
-          python scraper_maa.py
-          python scraper_bom.py
+          python-version: '3.10'
 
-      - name: Commit and Push
+      - name: Install Dependencies
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/flights_data_maa.csv data/flights_data_bom.csv
-          # Only commit if there are actual changes to the files
-          git commit -m "Automated data fetch: Updated flight CSVs" || echo "No changes to commit"
-          git push
+          python -m pip install --upgrade pip
+          pip install requests pandas tzdata cloudscraper python-dotenv
+
+      - name: Run Scrapers
+        # Injects the secret from your GitHub repository settings into the environment
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: |
+          python scraper_bom_adb.py
+          python scraper_maa.py
+
+      - name: Commit and Push Updated CSVs
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Stage the entire data folder so both CSVs are tracked
+          git add data/
+          
+          # Check for changes; if changes exist, commit and push them
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update BOM and MAA flight data via cron" && git push)
