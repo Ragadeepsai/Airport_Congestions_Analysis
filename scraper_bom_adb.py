@@ -90,6 +90,13 @@ def process_flight_data(raw_arrivals):
             
             delta_minutes = int((act_dt_utc - sched_dt_utc).total_seconds() / 60)
             
+            # --- Midnight Crossing Bug Fix ---
+            # If a flight lands early the night before, the API accidentally adds 24 hours
+            if delta_minutes > 1000:
+                delta_minutes -= 1440
+            elif delta_minutes < -1000:
+                delta_minutes += 1440
+            
             sched_dt_ist = sched_dt_utc.astimezone(ist_tz)
             act_dt_ist = act_dt_utc.astimezone(ist_tz)
             
