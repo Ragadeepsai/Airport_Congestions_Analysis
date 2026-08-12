@@ -81,3 +81,12 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-12,MAA,IndiGo,Jaipur,6E0694,16:50,16:48,-2,Arrived
 2026-08-12,MAA,IndiGo,Coimbatore,6E0848,17:05,16:51,-14,Arrived
 2026-08-12,MAA,IndiGo,Mumbai,6E5196,17:30,17:07,-23,Arrived
+2026-08-12,MAA,IndiGo,Dhaka,6E1114,17:00,17:15,15,Arrived
+2026-08-12,MAA,IndiGo,Trichy,6E7242,17:45,17:17,-28,Arrived
+2026-08-12,MAA,IndiGo,Madurai,6E7684,17:35,17:21,-14,Arrived
+2026-08-12,MAA,IndiGo,Hyderabad,6E0668,17:40,17:24,-16,Arrived
+2026-08-12,MAA,IndiGo,Kolkata,6E0892,17:20,17:28,8,Arrived
+2026-08-12,MAA,IndiGo,Shirdi Airport,6E0726,17:35,17:31,-4,Arrived
+2026-08-12,MAA,IndiGo,Surat,6E0995,18:00,17:39,-21,Arrived
+2026-08-12,MAA,IndiGo,Thoothukudi,6E7188,17:50,17:49,-1,Arrived
+2026-08-12,MAA,IndiGo,Delhi,6E6091,18:05,18:02,-3,Arrived
