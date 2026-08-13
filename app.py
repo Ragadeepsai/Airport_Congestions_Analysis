@@ -16,7 +16,7 @@ def classify_flight(delta):
         return 'Delayed'
 
 # --- Data Loading & Caching ---
-@st.cache_data
+@st.cache_data(ttl=600)
 def load_data():
     """Loads both CSVs, combines them, and caches the result for performance."""
     try:
