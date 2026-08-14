@@ -253,3 +253,34 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-13,MAA,IndiGo,Trichy,6E7242,17:45,17:38,-7,Arrived
 2026-08-13,MAA,IndiGo,Indore,6E0995,18:00,17:43,-17,Arrived
 2026-08-13,MAA,IndiGo,Bengaluru,6E0356,18:10,17:51,-19,Arrived
+2026-08-14,MAA,Air India,Mumbai,AI2821,08:55,08:46,-9,Arrived
+2026-08-14,MAA,Emirates,Dubai,EK0544,08:05,08:49,44,Arrived
+2026-08-14,MAA,IndiGo,Navi Mumbai International Airport,6E2128,08:50,08:54,4,Arrived
+2026-08-14,MAA,IndiGo,Penang International Airport,6E1046,09:25,09:10,-15,Arrived
+2026-08-14,MAA,Sri Lankan Airlines,Colombo,UL0121,08:50,09:13,23,Arrived
+2026-08-14,MAA,IndiGo,Ahmedabad,6E0479,09:15,09:16,1,Arrived
+2026-08-14,MAA,Singapore Airlines,Singapore,SQ0524,09:20,09:19,-1,Arrived
+2026-08-14,MAA,Etihad Airways,Abu Dhabi,EY0342,08:25,09:22,57,Arrived
+2026-08-14,MAA,IndiGo,Port Blair,6E0581,09:35,09:26,-9,Arrived
+2026-08-14,MAA,IndiGo,Thoothukudi,6E7186,09:45,09:29,-16,Arrived
+2026-08-14,MAA,IndiGo,Trichy,6E7101,09:30,09:32,2,Arrived
+2026-08-14,MAA,IndiGo,Mangalore,6E7345,09:40,09:40,0,Arrived
+2026-08-14,MAA,IndiGo,Cochin/Kochi,6E2622,09:45,09:44,-1,Arrived
+2026-08-14,MAA,IndiGo,Madurai,6E7194,10:10,09:47,-23,Arrived
+2026-08-14,MAA,IndiGo,Delhi,6E2368,10:05,09:49,-16,Arrived
+2026-08-14,MAA,Air India,Delhi,AI2833,10:25,09:53,-32,Arrived
+2026-08-14,MAA,IndiGo,Trivandrum,6E0343,10:25,10:18,-7,Arrived
+2026-08-14,MAA,IndiGo,Cochin/Kochi,6E0539,10:40,10:22,-18,Arrived
+2026-08-14,MAA,IndiGo,Abu Dhabi,6E1412,10:25,10:25,0,Arrived
+2026-08-14,MAA,IndiGo,Kolkata,6E0563,10:55,10:37,-18,Arrived
+2026-08-14,MAA,Malaysia Airlines,Kuala Lumpur,MH0182,10:45,10:42,-3,Arrived
+2026-08-14,MAA,IndiGo,Colombo,6E1174,11:05,10:46,-19,Arrived
+2026-08-14,MAA,Air India,Mumbai,AI2739,11:10,10:53,-17,Arrived
+2026-08-14,MAA,IndiGo,Bangkok,6E1062,11:10,11:04,-6,Arrived
+2026-08-14,MAA,IndiGo,Guwahati,6E0927,11:30,11:12,-18,Arrived
+2026-08-14,MAA,IndiGo,Hyderabad,6E6151,11:20,11:21,1,Arrived
+2026-08-14,MAA,IndiGo,Mumbai,6E5313,12:00,11:38,-22,Arrived
+2026-08-14,MAA,IndiGo,Bengaluru,6E0904,11:45,11:41,-4,Arrived
+2026-08-14,MAA,IndiGo,Trichy,6E7365,12:10,11:45,-25,Arrived
+2026-08-14,MAA,IndiGo,Delhi,6E0940,12:05,11:56,-9,Arrived
+2026-08-14,MAA,IndiGo,Coimbatore,6E0725,12:40,12:29,-11,Arrived
