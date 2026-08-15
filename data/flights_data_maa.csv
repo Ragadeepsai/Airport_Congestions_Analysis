@@ -386,3 +386,24 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-14,MAA,IndiGo,Madurai,6E7253,23:10,23:46,36,Arrived
 2026-08-15,MAA,IndiGo,Ahmedabad,6E0348,00:05,23:53,-12,Arrived
 2026-08-14,MAA,Thai Airways,Bangkok,TG0337,23:45,00:00,15,Arrived
+2026-08-15,MAA,Air India,Delhi,AI2895,00:20,00:30,10,Arrived
+2026-08-15,MAA,IndiGo,Pune,6E0238,00:35,00:33,-2,Arrived
+2026-08-15,MAA,Jazeera Airways,Kuwait,J90427,00:55,00:39,-16,Arrived
+2026-08-15,MAA,Air India,Mumbai,AI0639,01:05,00:49,-16,Arrived
+2026-08-15,MAA,IndiGo,Mumbai,6E6137,01:05,01:09,4,Arrived
+2026-08-15,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0143,00:45,01:13,28,Arrived
+2026-08-15,MAA,IndiGo,Delhi,6E6061,01:50,01:29,-21,Arrived
+2026-08-15,MAA,Ethiopian Airlines,Addis Ababa,ET0696,01:10,01:41,31,Arrived
+2026-08-15,MAA,Air India Express,Pune,IX2660,02:10,02:08,-2,Arrived
+2026-08-15,MAA,IndiGo,Pune,6E6745,02:35,02:22,-13,Arrived
+2026-08-15,MAA,IndiGo,Doha International,6E1322,02:40,02:25,-15,Arrived
+2026-08-15,MAA,IndiGo,Dubai,6E1472,02:35,02:38,3,Arrived
+2026-08-15,MAA,Royal Brunei Airlines,Brunei,BI0121,03:30,03:01,-29,Arrived
+2026-08-15,MAA,Qatar Airways,Doha International,QR0528,02:50,03:04,14,Arrived
+2026-08-15,MAA,Emirates,Dubai,EK0542,03:00,03:08,8,Arrived
+2026-08-15,MAA,British Airways,London Heathrow,BA0035,03:30,03:21,-9,Arrived
+2026-08-15,MAA,Air Arabia,Sharjah,G90471,03:25,03:37,12,Arrived
+2026-08-15,MAA,Etihad Airways,Abu Dhabi,EY0340,03:10,04:20,70,Arrived
+2026-08-15,MAA,Kuwait Airways,Kuwait,KU0341,05:15,05:08,-7,Arrived
+2026-08-15,MAA,IndiGo,Mumbai,6E0136,06:05,05:40,-25,Arrived
+2026-08-15,MAA,Air India,Delhi,AI2496,06:00,05:45,-15,Arrived
