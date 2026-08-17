@@ -739,3 +739,12 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-17,MAA,Air India,Delhi,AI2496,06:00,05:29,-31,Arrived
 2026-08-17,MAA,IndiGo,Mumbai,6E0136,06:05,05:44,-21,Arrived
 2026-08-17,MAA,IndiGo,Singapore,6E1002,06:15,06:01,-14,Arrived
+2026-08-17,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0141,04:25,06:08,103,Arrived
+2026-08-17,MAA,IndiGo,Kuala Lumpur,6E1032,06:55,06:41,-14,Arrived
+2026-08-17,MAA,Akasa Air,Mumbai,QP1145,07:00,06:45,-15,Arrived
+2026-08-17,MAA,IndiGo,Coimbatore,6E0339,07:15,06:58,-17,Arrived
+2026-08-17,MAA,IndiGo,Kolkata,6E0344,07:20,07:01,-19,Arrived
+2026-08-17,MAA,IndiGo,Pune,6E0159,07:20,07:06,-14,Arrived
+2026-08-17,MAA,Airasia,Kuala Lumpur,AK0011,07:25,07:10,-15,Arrived
+2026-08-17,MAA,Oman Air,Muscat,WY0251,07:25,07:24,-1,Arrived
+2026-08-17,MAA,Air India,Mumbai,AI2718,08:00,07:51,-9,Arrived
