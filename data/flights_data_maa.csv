@@ -748,3 +748,33 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-17,MAA,Airasia,Kuala Lumpur,AK0011,07:25,07:10,-15,Arrived
 2026-08-17,MAA,Oman Air,Muscat,WY0251,07:25,07:24,-1,Arrived
 2026-08-17,MAA,Air India,Mumbai,AI2718,08:00,07:51,-9,Arrived
+2026-08-18,MAA,IndiGo,Trichy,6E7101,09:30,15:00,330,Arrived
+2026-08-18,MAA,IndiGo,Coimbatore,6E0571,15:05,15:12,7,Arrived
+2026-08-18,MAA,Air India,Madurai,AI2740,15:15,15:15,0,Arrived
+2026-08-18,MAA,Akasa Air,Abu Dhabi,QP0587,15:05,15:21,16,Arrived
+2026-08-18,MAA,IndiGo,Trivandrum,6E6011,15:10,15:27,17,Arrived
+2026-08-18,MAA,IndiGo,Trichy,6E7268,15:20,15:30,10,Arrived
+2026-08-18,MAA,Sri Lankan Airlines,Colombo,UL0127,15:00,15:33,33,Arrived
+2026-08-18,MAA,Air India,Delhi,AI2877,15:35,15:36,1,Arrived
+2026-08-18,MAA,IndiGo,Pune,6E0625,15:30,15:38,8,Arrived
+2026-08-18,MAA,IndiGo,Hyderabad,6E0514,15:30,15:41,11,Arrived
+2026-08-18,MAA,IndiGo,Mumbai,6E5337,15:50,15:44,-6,Arrived
+2026-08-18,MAA,IndiGo,Mopa,6E6975,15:50,15:46,-4,Arrived
+2026-08-18,MAA,Air India,Mumbai,AI2780,15:20,15:49,29,Arrived
+2026-08-18,MAA,IndiGo,Delhi,6E6115,16:00,15:52,-8,Arrived
+2026-08-18,MAA,Air India Express,Bengaluru,IX2505,15:55,15:55,0,Arrived
+2026-08-18,MAA,IndiGo,Port Blair,6E2698,15:45,15:56,11,Arrived
+2026-08-18,MAA,IndiGo,Bengaluru,6E0182,16:15,16:04,-11,Arrived
+2026-08-18,MAA,IndiGo,Salem,6E7112,16:50,16:35,-15,Arrived
+2026-08-18,MAA,IndiGo,Coimbatore,6E0848,17:05,16:40,-25,Arrived
+2026-08-18,MAA,IndiGo,Hindon Air Force Station,6E2579,17:05,16:43,-22,Arrived
+2026-08-18,MAA,IndiGo,Patna,6E0597,17:05,16:47,-18,Arrived
+2026-08-18,MAA,IndiGo,Dhaka,6E1114,17:00,16:57,-3,Arrived
+2026-08-18,MAA,IndiGo,Jaipur,6E0694,16:50,17:01,11,Arrived
+2026-08-18,MAA,IndiGo,Kolkata,6E0892,17:20,17:09,-11,Arrived
+2026-08-18,MAA,IndiGo,Mumbai,6E5196,17:30,17:12,-18,Arrived
+2026-08-18,MAA,IndiGo,Trichy,6E7242,17:45,17:20,-25,Arrived
+2026-08-18,MAA,IndiGo,Shirdi Airport,6E0726,17:35,17:31,-4,Arrived
+2026-08-18,MAA,IndiGo,Hyderabad,6E0668,17:40,17:34,-6,Arrived
+2026-08-18,MAA,IndiGo,Thoothukudi,6E7188,17:50,17:37,-13,Arrived
+2026-08-18,MAA,IndiGo,Indore,6E0995,18:00,17:41,-19,Arrived
