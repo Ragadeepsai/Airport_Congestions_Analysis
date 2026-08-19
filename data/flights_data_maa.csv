@@ -834,3 +834,23 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-19,MAA,IndiGo,Ahmedabad,6E0348,00:05,23:42,-23,Arrived
 2026-08-18,MAA,Air India Express,Bengaluru,IX2787,23:20,23:45,25,Arrived
 2026-08-18,MAA,IndiGo,Singapore,6E1344,23:55,23:48,-7,Arrived
+2026-08-19,MAA,Lufthansa,Frankfurt,LH0758,00:10,00:03,-7,Arrived
+2026-08-18,MAA,IndiGo,Madurai,6E7253,23:10,00:07,57,Arrived
+2026-08-19,MAA,IndiGo,Pune,6E0238,00:35,00:27,-8,Arrived
+2026-08-19,MAA,Air India,Delhi,AI2895,00:20,00:31,11,Arrived
+2026-08-19,MAA,Air India,Mumbai,AI0639,01:05,00:40,-25,Arrived
+2026-08-19,MAA,IndiGo,Mumbai,6E6137,01:05,00:45,-20,Arrived
+2026-08-19,MAA,IndiGo,Delhi,6E6061,01:50,01:20,-30,Arrived
+2026-08-19,MAA,Air India Express,Pune,IX2660,02:10,02:18,8,Arrived
+2026-08-19,MAA,IndiGo,Pune,6E6745,02:35,02:22,-13,Arrived
+2026-08-19,MAA,Kuwait Airways,Kuwait,KU0343,02:25,02:25,0,Arrived
+2026-08-19,MAA,Qatar Airways,Doha International,QR0528,02:50,02:52,2,Arrived
+2026-08-19,MAA,IndiGo,Dubai,6E1472,02:35,02:55,20,Arrived
+2026-08-19,MAA,British Airways,London Heathrow,BA0035,03:30,02:59,-31,Arrived
+2026-08-19,MAA,IndiGo,Doha International,6E1322,03:05,03:22,17,Arrived
+2026-08-19,MAA,Emirates,Dubai,EK0542,03:00,03:45,45,Arrived
+2026-08-19,MAA,Etihad Airways,Abu Dhabi,EY0340,02:50,03:56,66,Arrived
+2026-08-19,MAA,Air Arabia,Sharjah,G90471,03:25,04:28,63,Arrived
+2026-08-19,MAA,Gulf Air,Bahrain,GF0068,05:20,05:12,-8,Arrived
+2026-08-19,MAA,Air India,Delhi,AI2496,06:00,05:31,-29,Arrived
+2026-08-19,MAA,IndiGo,Mumbai,6E0136,06:05,05:38,-27,Arrived
