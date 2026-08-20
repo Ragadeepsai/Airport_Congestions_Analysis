@@ -997,3 +997,27 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-19,MAA,IndiGo,Trichy,6E7052,23:00,23:32,32,Arrived
 2026-08-19,MAA,IndiGo,Singapore,6E1344,23:55,23:41,-14,Arrived
 2026-08-19,MAA,Thai Airways,Bangkok,TG0337,23:45,23:44,-1,Arrived
+2026-08-20,MAA,IndiGo,Ahmedabad,6E0348,00:05,23:51,-14,Arrived
+2026-08-19,MAA,IndiGo,Trivandrum,6E6959,22:20,23:54,94,Arrived
+2026-08-20,MAA,Lufthansa,Frankfurt,LH0758,00:10,23:57,-13,Arrived
+2026-08-20,MAA,Air India,Delhi,AI2895,00:20,00:20,0,Arrived
+2026-08-20,MAA,IndiGo,Pune,6E0238,00:35,00:24,-11,Arrived
+2026-08-20,MAA,IndiGo,Mumbai,6E6137,01:05,00:42,-23,Arrived
+2026-08-20,MAA,Air India,Mumbai,AI0639,01:05,00:50,-15,Arrived
+2026-08-20,MAA,IndiGo,Delhi,6E6061,01:50,01:42,-8,Arrived
+2026-08-20,MAA,IndiGo,St Denis,6E1872,02:10,01:47,-23,Arrived
+2026-08-20,MAA,Air India Express,Pune,IX2660,02:10,02:14,4,Arrived
+2026-08-20,MAA,Kuwait Airways,Kuwait,KU0343,02:25,02:18,-7,Arrived
+2026-08-20,MAA,IndiGo,Doha International,6E1322,03:05,02:25,-40,Arrived
+2026-08-20,MAA,IndiGo,Pune,6E6745,02:35,02:30,-5,Arrived
+2026-08-20,MAA,British Airways,London Heathrow,BA0035,03:30,02:57,-33,Arrived
+2026-08-20,MAA,IndiGo,Dubai,6E1472,02:35,03:03,28,Arrived
+2026-08-20,MAA,Qatar Airways,Doha International,QR0528,02:50,03:17,27,Arrived
+2026-08-20,MAA,Emirates,Dubai,EK0542,03:00,03:30,30,Arrived
+2026-08-19,MAA,Spicejet,Delhi,SG9300,17:25,03:45,620,Arrived
+2026-08-19,MAA,IndiGo,Chandigarh,6E0971,22:25,03:50,325,Arrived
+2026-08-20,MAA,Air Arabia,Sharjah,G90471,03:25,04:03,38,Arrived
+2026-08-20,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0141,04:25,05:11,46,Arrived
+2026-08-20,MAA,Gulf Air,Bahrain,GF0068,05:20,05:32,12,Arrived
+2026-08-20,MAA,Air India,Delhi,AI2496,06:00,05:41,-19,Arrived
+2026-08-20,MAA,IndiGo,Mumbai,6E0136,06:05,05:45,-20,Arrived
