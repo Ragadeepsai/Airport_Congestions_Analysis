@@ -1495,3 +1495,26 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-22,MAA,IndiGo,Coimbatore,6E6315,22:45,23:19,34,Arrived
 2026-08-22,MAA,IndiGo,Madurai,6E7253,23:10,23:32,22,Arrived
 2026-08-22,MAA,Thai Airways,Bangkok,TG0337,23:45,23:38,-7,Arrived
+2026-08-22,MAA,IndiGo,Singapore,6E1344,23:55,23:51,-4,Arrived
+2026-08-22,MAA,Cathay Pacific Airways,Hong Kong International,CX0651,23:35,23:54,19,Arrived
+2026-08-23,MAA,IndiGo,Ahmedabad,6E0348,00:05,23:57,-8,Arrived
+2026-08-23,MAA,Lufthansa,Frankfurt,LH0758,00:10,00:14,4,Arrived
+2026-08-23,MAA,IndiGo,Pune,6E0238,00:35,00:19,-16,Arrived
+2026-08-23,MAA,Air India,Delhi,AI2895,00:20,00:23,3,Arrived
+2026-08-23,MAA,IndiGo,Mumbai,6E6137,01:05,00:33,-32,Arrived
+2026-08-23,MAA,Air India,Mumbai,AI0639,01:05,00:45,-20,Arrived
+2026-08-23,MAA,IndiGo,Delhi,6E6061,01:50,01:28,-22,Arrived
+2026-08-23,MAA,Kuwait Airways,Kuwait,KU0343,02:25,02:08,-17,Arrived
+2026-08-23,MAA,Air India Express,Pune,IX2660,02:10,02:11,1,Arrived
+2026-08-23,MAA,IndiGo,Pune,6E6745,02:35,02:23,-12,Arrived
+2026-08-23,MAA,IndiGo,Doha International,6E1322,03:05,02:34,-31,Arrived
+2026-08-23,MAA,IndiGo,Dubai,6E1472,02:35,02:40,5,Arrived
+2026-08-23,MAA,Qatar Airways,Doha International,QR0528,02:50,02:58,8,Arrived
+2026-08-23,MAA,British Airways,London Heathrow,BA0035,03:30,03:05,-25,Arrived
+2026-08-23,MAA,Emirates,Dubai,EK0542,03:00,03:28,28,Arrived
+2026-08-23,MAA,Etihad Airways,Abu Dhabi,EY0340,02:50,03:50,60,Arrived
+2026-08-23,MAA,Air Arabia,Sharjah,G90471,03:25,03:53,28,Arrived
+2026-08-23,MAA,Air India,Delhi,AI2496,06:00,05:33,-27,Arrived
+2026-08-23,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0141,04:25,05:36,71,Arrived
+2026-08-23,MAA,IndiGo,Mumbai,6E0136,06:05,05:43,-22,Arrived
+2026-08-23,MAA,IndiGo,Singapore,6E1002,06:15,05:56,-19,Arrived
