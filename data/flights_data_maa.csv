@@ -1757,3 +1757,4 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-24,MAA,IndiGo,Shirdi Airport,6E0726,17:35,17:41,6,Arrived
 2026-08-24,MAA,IndiGo,Trichy,6E7242,17:45,17:43,-2,Arrived
 2026-08-24,MAA,IndiGo,Thoothukudi,6E7188,17:50,17:49,-1,Arrived
+2026-08-24,MAA,IndiGo,Dhaka,6E1114,17:00,17:59,59,Arrived
