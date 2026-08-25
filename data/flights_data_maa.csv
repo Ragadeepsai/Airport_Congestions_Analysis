@@ -1758,3 +1758,22 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-24,MAA,IndiGo,Trichy,6E7242,17:45,17:43,-2,Arrived
 2026-08-24,MAA,IndiGo,Thoothukudi,6E7188,17:50,17:49,-1,Arrived
 2026-08-24,MAA,IndiGo,Dhaka,6E1114,17:00,17:59,59,Arrived
+2026-08-25,MAA,Sri Lankan Airlines,Colombo,UL0121,08:50,08:53,3,Arrived
+2026-08-25,MAA,Singapore Airlines,Singapore,SQ0524,09:20,09:23,3,Arrived
+2026-08-25,MAA,IndiGo,Thoothukudi,6E7186,09:45,09:34,-11,Arrived
+2026-08-25,MAA,IndiGo,Trichy,6E7101,09:30,09:43,13,Arrived
+2026-08-25,MAA,IndiGo,Cochin/Kochi,6E2622,09:45,09:55,10,Arrived
+2026-08-25,MAA,Spicejet,Cochin/Kochi,SG9102,09:05,10:02,57,Arrived
+2026-08-25,MAA,IndiGo,Trivandrum,6E0343,10:25,10:06,-19,Arrived
+2026-08-25,MAA,IndiGo,Delhi,6E2368,10:05,10:09,4,Arrived
+2026-08-25,MAA,IndiGo,Kolkata,6E0563,10:55,10:25,-30,Arrived
+2026-08-25,MAA,IndiGo,Abu Dhabi,6E1412,10:25,10:29,4,Arrived
+2026-08-25,MAA,IndiGo,Colombo,6E1174,11:05,10:41,-24,Arrived
+2026-08-25,MAA,Air India,Delhi,AI2833,10:25,10:44,19,Arrived
+2026-08-25,MAA,IndiGo,Cochin/Kochi,6E0539,10:40,10:51,11,Arrived
+2026-08-25,MAA,Air India,Mumbai,AI2739,11:10,11:02,-8,Arrived
+2026-08-25,MAA,IndiGo,Hyderabad,6E6151,11:20,11:05,-15,Arrived
+2026-08-25,MAA,IndiGo,Guwahati,6E0927,11:30,11:11,-19,Arrived
+2026-08-25,MAA,IndiGo,Mumbai,6E5313,12:00,11:24,-36,Arrived
+2026-08-25,MAA,IndiGo,Bengaluru,6E0904,11:45,11:33,-12,Arrived
+2026-08-25,MAA,IndiGo,Delhi,6E0940,12:05,11:45,-20,Arrived
