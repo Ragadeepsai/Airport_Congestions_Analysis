@@ -6131,3 +6131,10 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-08-30,BOM,Virgin Atlantic,London,VS 358,02:10,02:44,34,Arrived
 2026-08-30,BOM,Air India Express,Kochi,IX 1802,02:15,02:53,38,Arrived
 2026-08-30,BOM,Etihad,Abu Dhabi,EY 206,02:05,03:24,79,Arrived
+2026-08-30,BOM,IndiGo,New Delhi,6E 395,00:05,23:33,-32,Arrived
+2026-08-30,BOM,Air India,Hyderabad,AI 2699,00:15,23:36,-39,Arrived
+2026-08-30,BOM,IndiGo,Bangalore,6E 5094,00:05,23:38,-27,Arrived
+2026-08-30,BOM,Air India,Naqpur,AI 2584,00:05,23:41,-24,Arrived
+2026-08-30,BOM,Air India,Coimbatore,AI 2733,00:05,23:49,-16,Arrived
+2026-08-30,BOM,Air India,New Delhi,AI 2999,00:25,23:57,-28,Arrived
+2026-08-30,BOM,IndiGo,Mahe Island,6E 1856,00:35,23:59,-36,Arrived
