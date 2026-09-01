@@ -6769,3 +6769,19 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-01,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,23:52,-28,Arrived
 2026-09-01,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:55,5,Arrived
 2026-09-01,BOM,KLM,Amsterdam,KL 877,00:00,23:57,-3,Arrived
+2026-09-02,BOM,IndiGo,Chennai,6E 6225,00:30,00:01,-29,Arrived
+2026-09-02,BOM,IndiGo,Patna,6E 6619,00:45,00:03,-42,Arrived
+2026-09-02,BOM,IndiGo,Kolkata,6E 115,00:25,00:05,-20,Arrived
+2026-09-02,BOM,IndiGo,Ahmedabad,6E 6351,00:30,00:09,-21,Arrived
+2026-09-02,BOM,IndiGo,Mahe Island,6E 1856,00:35,00:13,-22,Arrived
+2026-09-02,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:14,-31,Arrived
+2026-09-02,BOM,IndiGo,Guwahati,6E 5066,00:20,00:17,-3,Arrived
+2026-09-02,BOM,IndiGo,New Delhi,6E 395,00:05,00:22,17,Arrived
+2026-09-02,BOM,IndiGo,Hyderabad,6E 6363,01:00,00:34,-26,Arrived
+2026-09-02,BOM,IndiGo,Colombo,6E 1186,00:50,00:36,-14,Arrived
+2026-09-02,BOM,IndiGo,Dubai,6E 1456,00:45,00:38,-7,Arrived
+2026-09-02,BOM,Air India,New Delhi,AI 2439,01:25,00:47,-38,Arrived
+2026-09-02,BOM,Thai  International,Bangkok,TG 351,01:30,00:49,-41,Arrived
+2026-09-02,BOM,IndiGo,Amritsar,6E 821,01:15,00:51,-24,Arrived
+2026-09-02,BOM,IndiGo,New Delhi,6E 6114,01:05,00:56,-9,Arrived
+2026-09-02,BOM,Air India,Bangalore,AI 2811,01:45,01:00,-45,Arrived
