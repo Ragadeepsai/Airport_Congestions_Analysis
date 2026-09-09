@@ -8874,3 +8874,51 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-09,BOM,KLM,Amsterdam,KL 877,00:00,23:50,-10,Arrived
 2026-09-09,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:53,3,Arrived
 2026-09-09,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,23:56,-24,Arrived
+2026-09-10,BOM,IndiGo,Mahe Island,6E 1856,00:35,00:00,-35,Arrived
+2026-09-10,BOM,KLM,Amsterdam,KL 877,00:00,00:01,1,Arrived
+2026-09-10,BOM,Air India,Bangalore,AI 2840,00:35,00:06,-29,Arrived
+2026-09-10,BOM,IndiGo,Guwahati,6E 5066,00:20,00:09,-11,Arrived
+2026-09-10,BOM,IndiGo,Colombo,6E 1186,00:50,00:11,-39,Arrived
+2026-09-10,BOM,Air India Express,Mopa,IX 1209,00:05,00:13,8,Arrived
+2026-09-10,BOM,IndiGo,Chennai,6E 6225,00:30,00:15,-15,Arrived
+2026-09-10,BOM,IndiGo,Patna,6E 6619,00:45,00:18,-27,Arrived
+2026-09-10,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:19,-26,Arrived
+2026-09-10,BOM,Malindo Air,Kuala Lumpur,OD 215,22:25,00:22,117,Arrived
+2026-09-10,BOM,IndiGo,Dubai,6E 1456,00:45,00:23,-22,Arrived
+2026-09-10,BOM,IndiGo,Ahmedabad,6E 6351,00:30,00:26,-4,Arrived
+2026-09-10,BOM,Air India Express,Coimbatore,IX 1796,00:40,00:28,-12,Arrived
+2026-09-10,BOM,Air France,Paris,AF 218,23:20,00:30,70,Arrived
+2026-09-10,BOM,Saudi Arabian,Jeddah,SV 772,00:50,00:32,-18,Arrived
+2026-09-10,BOM,Lufthansa,Frankfurt-am-Main,LH 756,01:00,00:40,-20,Arrived
+2026-09-10,BOM,Air India,Bangalore,AI 2811,01:45,00:48,-57,Arrived
+2026-09-10,BOM,Air India Express,Kochi,IX 1802,01:15,00:50,-25,Arrived
+2026-09-10,BOM,IndiGo,Athens,6E 1904,00:30,00:53,23,Arrived
+2026-09-10,BOM,Kuwait,Kuwait City,KU 301,01:20,00:56,-24,Arrived
+2026-09-10,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,00:59,-26,Arrived
+2026-09-10,BOM,IndiGo,Hyderabad,6E 6363,01:00,01:01,1,Arrived
+2026-09-10,BOM,IndiGo,New Delhi,6E 6114,01:05,01:03,-2,Arrived
+2026-09-10,BOM,Air India,New Delhi,AI 2439,01:25,01:05,-20,Arrived
+2026-09-10,BOM,Thai  International,Bangkok,TG 351,01:30,01:09,-21,Arrived
+2026-09-10,BOM,IndiGo,Amritsar,6E 821,01:15,01:11,-4,Arrived
+2026-09-10,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,01:14,84,Arrived
+2026-09-10,BOM,Kenya,Nairobi,KQ 202,01:30,01:16,-14,Arrived
+2026-09-10,BOM,Jazeera,Kuwait City,J9 401,01:35,01:18,-17,Arrived
+2026-09-10,BOM,IndiGo,New Delhi,6E 322,01:45,01:22,-23,Arrived
+2026-09-10,BOM,IndiGo,Lucknow,6E 2058,02:15,01:29,-46,Arrived
+2026-09-10,BOM,IndiGo,Bangkok,6E 1060,01:40,01:30,-10,Arrived
+2026-09-10,BOM,EgyptAir,Cairo,MS 968,02:00,01:30,-30,Arrived
+2026-09-10,BOM,Starlight Airline,Kolkata,QP 1126,01:40,01:31,-9,Arrived
+2026-09-10,BOM,Air India Express,New Delhi,IX 1235,01:50,01:38,-12,Arrived
+2026-09-10,BOM,IndiGo,Ahmedabad,6E 6205,02:55,01:54,-61,Arrived
+2026-09-10,BOM,SriLankan,Colombo,UL 141,02:10,01:59,-11,Arrived
+2026-09-10,BOM,Ethiopian,Addis Ababa,ET 640,02:05,01:59,-6,Arrived
+2026-09-10,BOM,Etihad,Abu Dhabi,EY 206,02:05,02:02,-3,Arrived
+2026-09-10,BOM,IndiGo,Bangalore,6E 5293,02:50,02:06,-44,Arrived
+2026-09-10,BOM,Virgin Atlantic,London,VS 358,02:10,02:10,0,Arrived
+2026-09-10,BOM,Emirates,Dubai,EK 500,02:25,02:15,-10,Arrived
+2026-09-10,BOM,IndiGo,Doha,6E 1306,02:50,02:24,-26,Arrived
+2026-09-10,BOM,flynas,Riyadh,XY 321,03:05,02:27,-38,Arrived
+2026-09-10,BOM,SpiceJet,New Delhi,SG 802,00:50,02:30,100,Arrived
+2026-09-10,BOM,Qatar,Doha,QR 556,02:40,02:41,1,Arrived
+2026-09-10,BOM,Air India,London,AI 128,02:50,02:50,0,Arrived
+2026-09-10,BOM,IndiGo,Abu Dhabi,6E 1402,02:55,03:07,12,Arrived
