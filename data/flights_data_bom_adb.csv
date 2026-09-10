@@ -9246,17 +9246,28 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-10,BOM,Air India,Chennai,AI 436,23:30,23:30,0,Arrived
 2026-09-10,BOM,Air India,Bangalore,AI 2642,23:35,23:35,0,Arrived
 2026-09-10,BOM,Starlight Airline,Lucknow,QP 1838,00:10,23:37,-33,Arrived
+2026-09-10,BOM,Air India,Dubai,AI 4218,23:55,23:55,0,Arrived
+2026-09-10,BOM,IndiGo,Mahe Island,6E 1856,00:35,23:57,-38,Arrived
 2026-09-10,BOM,Air India,Bangkok,AI 2338,23:40,23:40,0,Arrived
 2026-09-10,BOM,IndiGo,Bangalore,6E 5094,00:05,23:43,-22,Arrived
 2026-09-10,BOM,Air India,Kolkata,AI 2482,23:45,23:45,0,Arrived
 2026-09-10,BOM,IndiGo,Indore,6E 6598,23:45,23:45,0,Arrived
 2026-09-10,BOM,SpiceJet,Najaf,SG 9601,21:15,23:47,152,Arrived
 2026-09-10,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,23:49,-31,Arrived
-2026-09-10,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:50,0,Arrived
 2026-09-10,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
 2026-09-10,BOM,Air India,Naqpur,AI 2584,23:50,23:50,0,Arrived
+2026-09-10,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:50,0,Arrived
 2026-09-10,BOM,IndiGo,Raipur,6E 5049,00:10,23:53,-17,Arrived
-2026-09-10,BOM,Air India,Dubai,AI 4218,23:55,23:55,0,Arrived
 2026-09-10,BOM,Air India,New Delhi,AI 2433,23:55,23:55,0,Arrived
-2026-09-10,BOM,IndiGo,Mahe Island,6E 1856,00:35,23:57,-38,Arrived
 2026-09-10,BOM,IndiGo,Kolkata,6E 115,00:25,23:59,-26,Arrived
+2026-09-11,BOM,Air France,Paris,AF 218,23:20,00:01,41,Arrived
+2026-09-11,BOM,IndiGo,Patna,6E 6619,00:45,00:04,-41,Arrived
+2026-09-11,BOM,IndiGo,Mahe Island,6E 1856,00:35,00:06,-29,Arrived
+2026-09-11,BOM,IndiGo,Ahmedabad,6E 6351,00:30,00:09,-21,Arrived
+2026-09-11,BOM,Lufthansa,Munich,LH 766,23:50,00:11,21,Arrived
+2026-09-11,BOM,IndiGo,Chennai,6E 6225,00:30,00:17,-13,Arrived
+2026-09-11,BOM,IndiGo,Colombo,6E 1186,00:50,00:20,-30,Arrived
+2026-09-11,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:21,-24,Arrived
+2026-09-11,BOM,IndiGo,Dubai,6E 1456,00:45,00:23,-22,Arrived
+2026-09-11,BOM,Air India,Bangkok,AI 2338,23:40,00:26,46,Arrived
+2026-09-11,BOM,Air India,Bangalore,AI 2840,00:35,00:34,-1,Arrived
