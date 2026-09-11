@@ -9271,3 +9271,4 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-11,BOM,IndiGo,Dubai,6E 1456,00:45,00:23,-22,Arrived
 2026-09-11,BOM,Air India,Bangkok,AI 2338,23:40,00:26,46,Arrived
 2026-09-11,BOM,Air India,Bangalore,AI 2840,00:35,00:34,-1,Arrived
+2026-09-11,BOM,SpiceJet,Dubai,SG 5114,02:35,13:02,627,Arrived
