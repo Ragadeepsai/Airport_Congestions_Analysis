@@ -9272,3 +9272,13 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-11,BOM,Air India,Bangkok,AI 2338,23:40,00:26,46,Arrived
 2026-09-11,BOM,Air India,Bangalore,AI 2840,00:35,00:34,-1,Arrived
 2026-09-11,BOM,SpiceJet,Dubai,SG 5114,02:35,13:02,627,Arrived
+2026-09-11,BOM,Air India Express,Mopa,IX 1209,00:05,23:28,-37,Arrived
+2026-09-11,BOM,IndiGo,Raipur,6E 5049,00:10,23:30,-40,Arrived
+2026-09-11,BOM,IndiGo,New Delhi,6E 395,00:05,23:32,-33,Arrived
+2026-09-11,BOM,Air India,Hyderabad,AI 2699,00:15,23:35,-40,Arrived
+2026-09-11,BOM,IndiGo,Bangalore,6E 5094,00:05,23:38,-27,Arrived
+2026-09-11,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,23:45,-35,Arrived
+2026-09-11,BOM,KLM,Amsterdam,KL 877,00:00,23:48,-12,Arrived
+2026-09-11,BOM,Starlight Airline,Lucknow,QP 1838,00:10,23:50,-20,Arrived
+2026-09-11,BOM,IndiGo,Kolkata,6E 115,00:25,23:54,-31,Arrived
+2026-09-11,BOM,IndiGo,Guwahati,6E 5066,00:20,23:59,-21,Arrived
