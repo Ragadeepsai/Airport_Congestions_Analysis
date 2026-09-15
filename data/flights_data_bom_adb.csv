@@ -10531,3 +10531,9 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-15,BOM,Air India,Bangalore,AI 2840,00:35,23:52,-43,Arrived
 2026-09-15,BOM,IndiGo,Chennai,6E 6225,00:30,23:57,-33,Arrived
 2026-09-15,BOM,Starlight Airline,Lucknow,QP 1838,00:10,23:58,-12,Arrived
+2026-09-16,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,00:07,17,Arrived
+2026-09-16,BOM,IndiGo,Chennai,6E 6225,00:30,00:08,-22,Arrived
+2026-09-16,BOM,Air India Express,Coimbatore,IX 1796,00:40,00:11,-29,Arrived
+2026-09-16,BOM,IndiGo,Ahmedabad,6E 6351,00:30,00:13,-17,Arrived
+2026-09-16,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,00:15,-5,Arrived
+2026-09-16,BOM,IndiGo,Dubai,6E 1456,00:35,00:18,-17,Arrived
