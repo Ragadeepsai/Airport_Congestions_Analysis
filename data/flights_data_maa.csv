@@ -1938,3 +1938,24 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-11,MAA,IndiGo,Varanasi,6E6044,13:10,13:28,18,Arrived
 2026-09-11,MAA,IndiGo,Bengaluru,6E6208,13:55,13:31,-24,Arrived
 2026-09-11,MAA,Air India Express,Bengaluru,IX2942,13:55,13:38,-17,Arrived
+2026-09-16,MAA,IndiGo,Mumbai,6E5188,08:20,07:50,-30,Arrived
+2026-09-16,MAA,Emirates,Dubai,EK0544,08:05,08:00,-5,Arrived
+2026-09-16,MAA,IndiGo,Bengaluru,6E6269,08:15,08:15,0,Arrived
+2026-09-16,MAA,Etihad Airways,Abu Dhabi,EY0342,08:25,08:18,-7,Arrived
+2026-09-16,MAA,IndiGo,Hyderabad,6E0243,08:25,08:22,-3,Arrived
+2026-09-16,MAA,Air India,Mumbai,AI2821,08:55,08:26,-29,Arrived
+2026-09-16,MAA,Air India Express,Kolkata,IX1254,09:10,08:29,-41,Arrived
+2026-09-16,MAA,Air India,Delhi,AI2525,08:40,08:36,-4,Arrived
+2026-09-16,MAA,IndiGo,Navi Mumbai,6E2128,08:50,08:44,-6,Arrived
+2026-09-16,MAA,IndiGo,Hyderabad,6E0371,09:20,08:48,-32,Arrived
+2026-09-16,MAA,Air India Express,Hyderabad,IX1831,09:40,08:59,-41,Arrived
+2026-09-16,MAA,IndiGo,Ahmedabad,6E0479,09:15,09:07,-8,Arrived
+2026-09-16,MAA,Singapore Airlines,Singapore,SQ0524,09:20,09:20,0,Arrived
+2026-09-16,MAA,IndiGo,Thoothukudi,6E7186,09:45,09:24,-21,Arrived
+2026-09-16,MAA,IndiGo,Mangalore,6E7345,09:40,09:28,-12,Arrived
+2026-09-16,MAA,IndiGo,Madurai,6E7194,10:10,09:32,-38,Arrived
+2026-09-16,MAA,Air India Express,Bengaluru,IX2926,09:50,09:36,-14,Arrived
+2026-09-16,MAA,IndiGo,Trichy,6E7101,09:30,09:40,10,Arrived
+2026-09-16,MAA,Sri Lankan Airlines,Colombo,UL0121,08:50,09:43,53,Arrived
+2026-09-16,MAA,IndiGo,Cochin/Kochi,6E2622,09:45,09:47,2,Arrived
+2026-09-16,MAA,IndiGo,Delhi,6E2368,10:05,09:50,-15,Arrived
