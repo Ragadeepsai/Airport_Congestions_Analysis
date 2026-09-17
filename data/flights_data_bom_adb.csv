@@ -10906,7 +10906,6 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-17,BOM,Virgin Atlantic,London,VS 358,02:10,01:32,-38,Arrived
 2026-09-17,BOM,IndiGo,Lucknow,6E 2058,02:15,01:35,-40,Arrived
 2026-09-17,BOM,Ethiopian,Addis Ababa,ET 640,02:05,01:36,-29,Arrived
-2026-09-17,BOM,SpiceJet,New Delhi,SG 162,22:30,01:39,189,Arrived
 2026-09-17,BOM,Etihad,Abu Dhabi,EY 206,02:05,01:49,-16,Arrived
 2026-09-17,BOM,Lufthansa,Frankfurt-am-Main,LH 756,01:00,01:52,52,Arrived
 2026-09-17,BOM,Starlight Airline,Ahmedabad,QP 1194,06:15,05:49,-26,Arrived
@@ -11235,10 +11234,21 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-17,BOM,IndiGo,New Delhi,6E 395,00:05,23:34,-31,Arrived
 2026-09-17,BOM,VietJetAir,Hanoi,VJ 907,23:40,23:36,-4,Arrived
 2026-09-17,BOM,Air India,Dubai,AI 4218,00:20,23:38,-42,Arrived
-2026-09-17,BOM,Lufthansa,Munich,LH 766,23:50,23:41,-9,Arrived
 2026-09-17,BOM,IndiGo,Bangalore,6E 5094,00:05,23:45,-20,Arrived
 2026-09-17,BOM,IndiGo,Raipur,6E 5049,00:10,23:48,-22,Arrived
 2026-09-17,BOM,KLM,Amsterdam,KL 877,00:00,23:50,-10,Arrived
 2026-09-17,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:53,3,Arrived
 2026-09-17,BOM,Air India Express,Mopa,IX 1209,00:05,23:55,-10,Arrived
 2026-09-17,BOM,Starlight Airline,Lucknow,QP 1838,00:10,23:58,-12,Arrived
+2026-09-18,BOM,IndiGo,Chennai,6E 6225,00:30,00:11,-19,Arrived
+2026-09-18,BOM,IndiGo,Patna,6E 6619,00:45,00:13,-32,Arrived
+2026-09-18,BOM,IndiGo,Colombo,6E 1186,00:50,00:15,-35,Arrived
+2026-09-18,BOM,Air India,Dubai,AI 4218,00:20,00:17,-3,Arrived
+2026-09-18,BOM,IndiGo,Dubai,6E 1456,00:35,00:20,-15,Arrived
+2026-09-18,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,00:22,2,Arrived
+2026-09-17,BOM,SpiceJet,New Delhi,SG 162,22:30,00:25,115,Arrived
+2026-09-18,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:27,-18,Arrived
+2026-09-18,BOM,IndiGo,Mahe Island,6E 1856,00:35,00:29,-6,Arrived
+2026-09-18,BOM,Air India Express,Kochi,IX 1802,01:15,00:32,-43,Arrived
+2026-09-18,BOM,IndiGo,New Delhi,6E 6114,01:05,00:33,-32,Arrived
+2026-09-17,BOM,Lufthansa,Munich,LH 766,23:50,00:46,56,Arrived
