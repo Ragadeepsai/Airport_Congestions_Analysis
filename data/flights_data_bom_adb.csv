@@ -11255,3 +11255,35 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-18,BOM,Air India Express,Abu Dhabi,IX 262,04:55,05:28,33,Arrived
 2026-09-18,BOM,Starlight Airline,Ahmedabad,QP 1194,06:15,05:54,-21,Arrived
 2026-09-18,BOM,IndiGo,Hyderabad,6E 5245,06:25,05:57,-28,Arrived
+2026-09-18,BOM,Air India Express,Sharjah,IX 252,13:50,13:42,-8,Arrived
+2026-09-18,BOM,IndiGo,Leh,6E 648,13:55,13:46,-9,Arrived
+2026-09-18,BOM,Starlight Airline,Lucknow,QP 1130,13:50,13:51,1,Arrived
+2026-09-18,BOM,IndiGo,Coimbatore,6E 248,14:15,13:53,-22,Arrived
+2026-09-18,BOM,IndiGo,Dehradun,6E 5021,13:50,13:56,6,Arrived
+2026-09-18,BOM,IndiGo,Lucknow,6E 5148,14:00,13:59,-1,Arrived
+2026-09-18,BOM,Air India,Riyadh,AI 2214,14:10,14:02,-8,Arrived
+2026-09-18,BOM,Air India,Udaipur,AI 2580,14:20,14:06,-14,Arrived
+2026-09-18,BOM,IndiGo,Singapore,6E 1340,13:40,14:08,28,Arrived
+2026-09-18,BOM,Emirates,Dubai,EK 506,14:15,14:11,-4,Arrived
+2026-09-18,BOM,Air India,Dhaka,AI 2184,14:35,14:13,-22,Arrived
+2026-09-18,BOM,Alliance Air,Diu,9I 624,14:10,14:16,6,Arrived
+2026-09-18,BOM,IndiGo,Kolkata,6E 5288,14:35,14:17,-18,Arrived
+2026-09-18,BOM,Air India,New Delhi,AI 1785,14:25,14:21,-4,Arrived
+2026-09-18,BOM,IndiGo,Riyadh,6E 74,14:40,14:23,-17,Arrived
+2026-09-18,BOM,IndiGo,Hyderabad,6E 5384,14:25,14:26,1,Arrived
+2026-09-18,BOM,IndiGo,Chennai,6E 5258,14:45,14:28,-17,Arrived
+2026-09-18,BOM,Air India Express,Jamnagar,IX 1806,14:45,14:32,-13,Arrived
+2026-09-18,BOM,IndiGo,New Delhi,6E 6676,14:15,14:36,21,Arrived
+2026-09-18,BOM,IndiGo,Bangalore,6E 5218,14:50,14:40,-10,Arrived
+2026-09-18,BOM,IndiGo,Siliguri,6E 5275,14:35,14:42,7,Arrived
+2026-09-18,BOM,Air India,Kochi,AI 2856,15:00,14:46,-14,Arrived
+2026-09-18,BOM,IndiGo,Patna,6E 2025,15:15,14:48,-27,Arrived
+2026-09-18,BOM,IndiGo,Jaipur,6E 2704,15:05,14:51,-14,Arrived
+2026-09-18,BOM,Air India,Jaipur,AI 2782,15:40,14:54,-46,Arrived
+2026-09-18,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,14:55,25,Arrived
+2026-09-18,BOM,Starlight Airline,New Delhi,QP 1836,14:55,14:59,4,Arrived
+2026-09-18,BOM,IndiGo,Ad Dammam,6E 82,15:25,15:04,-21,Arrived
+2026-09-18,BOM,IndiGo,Phuket,6E 1072,15:25,15:14,-11,Arrived
+2026-09-18,BOM,IndiGo,New Delhi,6E 324,15:10,15:19,9,Arrived
+2026-09-18,BOM,IndiGo,Nairobi,6E 1854,15:30,15:21,-9,Arrived
+2026-09-18,BOM,IndiGo,Rajkot,6E 2283,14:55,15:25,30,Arrived
