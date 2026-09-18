@@ -11252,3 +11252,6 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-18,BOM,Air India Express,Kochi,IX 1802,01:15,00:32,-43,Arrived
 2026-09-18,BOM,IndiGo,New Delhi,6E 6114,01:05,00:33,-32,Arrived
 2026-09-17,BOM,Lufthansa,Munich,LH 766,23:50,00:46,56,Arrived
+2026-09-18,BOM,Air India Express,Abu Dhabi,IX 262,04:55,05:28,33,Arrived
+2026-09-18,BOM,Starlight Airline,Ahmedabad,QP 1194,06:15,05:54,-21,Arrived
+2026-09-18,BOM,IndiGo,Hyderabad,6E 5245,06:25,05:57,-28,Arrived
