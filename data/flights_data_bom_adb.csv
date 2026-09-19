@@ -11328,3 +11328,5 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-19,BOM,Jazeera,Kuwait City,J9 401,01:35,01:18,-17,Arrived
 2026-09-19,BOM,IndiGo,Bangkok,6E 1060,01:40,01:20,-20,Arrived
 2026-09-19,BOM,SpiceJet,Dubai,SG 5114,02:35,02:35,0,Arrived
+2026-09-19,BOM,IndiGo,Hyderabad,6E 5245,06:25,05:57,-28,Arrived
+2026-09-19,BOM,Air Mauritius,Port Louis,MK 748,06:35,06:03,-32,Arrived
