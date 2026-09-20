@@ -11405,3 +11405,28 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-20,BOM,British,London,BA 135,07:30,06:56,-34,Arrived
 2026-09-20,BOM,Air India,Ahmedabad,AI 2918,07:45,06:59,-46,Arrived
 2026-09-20,BOM,IndiGo,Chandigarh,6E 5264,07:40,07:02,-38,Arrived
+2026-09-20,BOM,Air India,Hyderabad,AI 2447,19:25,18:33,-52,Arrived
+2026-09-20,BOM,Air India,Vasco da Gama,AI 2746,18:55,18:36,-19,Arrived
+2026-09-20,BOM,Air India,Rajkot,AI 2731,19:15,18:42,-33,Arrived
+2026-09-20,BOM,IndiGo,Hyderabad,6E 5259,18:50,18:45,-5,Arrived
+2026-09-20,BOM,IndiGo,Srinagar,6E 215,18:55,18:48,-7,Arrived
+2026-09-20,BOM,Air India,Chennai,AI 640,19:10,18:50,-20,Arrived
+2026-09-20,BOM,Air India Express,Kochi,IX 1800,18:35,18:52,17,Arrived
+2026-09-20,BOM,Starlight Airline,Varanasi,QP 1428,18:40,18:54,14,Arrived
+2026-09-20,BOM,IndiGo,Udaipur,6E 5163,19:15,18:56,-19,Arrived
+2026-09-20,BOM,IndiGo,Bangalore,6E 5255,19:05,18:59,-6,Arrived
+2026-09-20,BOM,IndiGo,Kolkata,6E 6206,19:05,19:02,-3,Arrived
+2026-09-20,BOM,Air India Express,Jamnagar,IX 1808,19:05,19:05,0,Arrived
+2026-09-20,BOM,Air India Express,Jaipur,IX 1218,19:10,19:07,-3,Arrived
+2026-09-20,BOM,IndiGo,Gannavaram,6E 5124,18:55,19:09,14,Arrived
+2026-09-20,BOM,Air India Express,Jodhpur,IX 1804,19:30,19:11,-19,Arrived
+2026-09-20,BOM,Air India,Ahmedabad,AI 2916,19:40,19:15,-25,Arrived
+2026-09-20,BOM,IndiGo,New Delhi,6E 6706,19:15,19:17,2,Arrived
+2026-09-20,BOM,Etihad,Abu Dhabi,EY 204,19:10,19:19,9,Arrived
+2026-09-20,BOM,Air India,Colombo,AI 2275,18:45,19:22,37,Arrived
+2026-09-20,BOM,Air India,New Delhi,AI 441,19:25,19:24,-1,Arrived
+2026-09-20,BOM,Starlight Airline,Abu Dhabi,QP 585,19:55,19:27,-28,Arrived
+2026-09-20,BOM,IndiGo,Bhopal,6E 5132,19:35,19:29,-6,Arrived
+2026-09-20,BOM,Air India,Gannavaram,AI 599,20:10,19:32,-38,Arrived
+2026-09-20,BOM,Air India,Bangalore,AI 2854,20:05,19:33,-32,Arrived
+2026-09-20,BOM,Air India,Indore,AI 1780,19:55,19:36,-19,Arrived
