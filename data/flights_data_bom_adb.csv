@@ -11394,3 +11394,14 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-20,BOM,Saudi Arabian,Jeddah,SV 772,00:50,00:43,-7,Arrived
 2026-09-20,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,00:46,-39,Arrived
 2026-09-20,BOM,IndiGo,Amritsar,6E 821,01:15,00:53,-22,Arrived
+2026-09-20,BOM,Starlight Airline,Jeddah,QP 553,05:40,05:37,-3,Arrived
+2026-09-20,BOM,Starlight Airline,Ahmedabad,QP 1194,06:15,05:53,-22,Arrived
+2026-09-20,BOM,IndiGo,Hyderabad,6E 5245,06:25,06:08,-17,Arrived
+2026-09-20,BOM,Air India Express,Abu Dhabi,IX 262,04:55,06:13,78,Arrived
+2026-09-20,BOM,Starlight Airline,Bangalore,QP 1381,06:45,06:29,-16,Arrived
+2026-09-20,BOM,IndiGo,Naqpur,6E 5002,07:10,06:35,-35,Arrived
+2026-09-20,BOM,IndiGo,Indore,6E 5122,07:35,06:53,-42,Arrived
+2026-09-20,BOM,IndiGo,Bangalore,6E 5089,07:15,06:55,-20,Arrived
+2026-09-20,BOM,British,London,BA 135,07:30,06:56,-34,Arrived
+2026-09-20,BOM,Air India,Ahmedabad,AI 2918,07:45,06:59,-46,Arrived
+2026-09-20,BOM,IndiGo,Chandigarh,6E 5264,07:40,07:02,-38,Arrived
