@@ -11475,3 +11475,33 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-21,BOM,IndiGo,Ranchi,6E 6088,16:10,15:58,-12,Arrived
 2026-09-21,BOM,IndiGo,Bangalore,6E 5351,16:05,16:00,-5,Arrived
 2026-09-21,BOM,IndiGo,New Delhi,6E 6022,16:25,16:03,-22,Arrived
+2026-09-21,BOM,IndiGo,Hubli,6E 5083,21:20,20:49,-31,Arrived
+2026-09-21,BOM,IndiGo,Jakarta,6E 1602,20:55,20:51,-4,Arrived
+2026-09-21,BOM,Air India,New Delhi,AI 2977,21:25,20:55,-30,Arrived
+2026-09-21,BOM,Air Arabia,Sharjah,G9 401,21:15,20:59,-16,Arrived
+2026-09-21,BOM,IndiGo,Hyderabad,6E 5039,20:30,21:03,33,Arrived
+2026-09-21,BOM,IndiGo,New Delhi,6E 354,21:25,21:06,-19,Arrived
+2026-09-21,BOM,Vietnam,Ho Chi Minh City,VN 979,21:35,21:08,-27,Arrived
+2026-09-21,BOM,Air India,Jaipur,AI 622,21:35,21:14,-21,Arrived
+2026-09-21,BOM,Air India,New Delhi,AI 2985,21:55,21:21,-34,Arrived
+2026-09-21,BOM,Singapore,Singapore,SQ 424,22:10,21:28,-42,Arrived
+2026-09-21,BOM,IndiGo,Kochi,6E 2094,22:00,21:32,-28,Arrived
+2026-09-21,BOM,Thai  International,Bangkok,TG 317,21:55,21:35,-20,Arrived
+2026-09-21,BOM,Air India,New Delhi,AI 2805,22:30,21:40,-50,Arrived
+2026-09-21,BOM,Air India,Kochi,AI 699,22:25,21:43,-42,Arrived
+2026-09-21,BOM,Air India,Chandigarh,AI 2784,22:30,21:45,-45,Arrived
+2026-09-21,BOM,Air India,Bangalore,AI 2850,22:40,21:50,-50,Arrived
+2026-09-21,BOM,IndiGo,Indore,6E 552,22:05,21:51,-14,Arrived
+2026-09-21,BOM,IndiGo,Mopa,6E 5176,22:15,21:54,-21,Arrived
+2026-09-21,BOM,IndiGo,Naqpur,6E 5133,22:20,21:56,-24,Arrived
+2026-09-21,BOM,Starlight Airline,New Delhi,QP 1826,22:20,22:02,-18,Arrived
+2026-09-21,BOM,IndiGo,Bangalore,6E 5376,22:00,22:03,3,Arrived
+2026-09-21,BOM,IndiGo,Vadodara,6E 679,22:25,22:06,-19,Arrived
+2026-09-21,BOM,Air India,Ahmedabad,AI 2494,22:40,22:08,-32,Arrived
+2026-09-21,BOM,IndiGo,Mangalore,6E 5310,22:50,22:11,-39,Arrived
+2026-09-21,BOM,Air India Express,Siliguri,IX 1547,21:55,22:12,17,Arrived
+2026-09-21,BOM,Air India,Hyderabad,AI 2876,22:30,22:15,-15,Arrived
+2026-09-21,BOM,IndiGo,Bhubaneswar,6E 459,22:35,22:17,-18,Arrived
+2026-09-21,BOM,IndiGo,New Delhi,6E 303,22:10,22:20,10,Arrived
+2026-09-21,BOM,IndiGo,Dubai,6E 1454,22:35,22:22,-13,Arrived
+2026-09-21,BOM,Air India,New Delhi,AI 2957,23:05,22:27,-38,Arrived
