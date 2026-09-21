@@ -11456,3 +11456,22 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-21,BOM,IndiGo,Athens,6E 1904,00:30,00:35,5,Arrived
 2026-09-21,BOM,IndiGo,New Delhi,6E 6114,01:05,00:38,-27,Arrived
 2026-09-21,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,00:45,-40,Arrived
+2026-09-21,BOM,Air India,Kochi,AI 2856,15:00,14:51,-9,Arrived
+2026-09-21,BOM,Emirates,Dubai,EK 506,14:15,14:56,41,Arrived
+2026-09-21,BOM,IndiGo,Patna,6E 2025,15:15,14:59,-16,Arrived
+2026-09-21,BOM,IndiGo,Jaipur,6E 5102,15:05,15:01,-4,Arrived
+2026-09-21,BOM,IndiGo,Rajkot,6E 2283,14:55,15:07,12,Arrived
+2026-09-21,BOM,IndiGo,Phuket,6E 1072,15:25,15:10,-15,Arrived
+2026-09-21,BOM,IndiGo,Ad Dammam,6E 82,15:25,15:13,-12,Arrived
+2026-09-21,BOM,IndiGo,New Delhi,6E 324,15:10,15:18,8,Arrived
+2026-09-21,BOM,IndiGo,Nairobi,6E 1854,15:30,15:20,-10,Arrived
+2026-09-21,BOM,Starlight Airline,Chennai,QP 1146,15:40,15:22,-18,Arrived
+2026-09-21,BOM,Air India Express,Varanasi,IX 1810,12:50,15:26,156,Arrived
+2026-09-21,BOM,IndiGo,Dubai,6E 1452,15:30,15:28,-2,Arrived
+2026-09-21,BOM,Air India,Amritsar,AI 2998,16:05,15:35,-30,Arrived
+2026-09-21,BOM,Air India,Ahmedabad,AI 2504,16:35,15:40,-55,Arrived
+2026-09-21,BOM,IndiGo,Hyderabad,6E 5099,15:55,15:46,-9,Arrived
+2026-09-21,BOM,Air India,Hyderabad,AI 2445,16:25,15:55,-30,Arrived
+2026-09-21,BOM,IndiGo,Ranchi,6E 6088,16:10,15:58,-12,Arrived
+2026-09-21,BOM,IndiGo,Bangalore,6E 5351,16:05,16:00,-5,Arrived
+2026-09-21,BOM,IndiGo,New Delhi,6E 6022,16:25,16:03,-22,Arrived
