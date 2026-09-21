@@ -11505,3 +11505,16 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-21,BOM,IndiGo,New Delhi,6E 303,22:10,22:20,10,Arrived
 2026-09-21,BOM,IndiGo,Dubai,6E 1454,22:35,22:22,-13,Arrived
 2026-09-21,BOM,Air India,New Delhi,AI 2957,23:05,22:27,-38,Arrived
+2026-09-22,BOM,Air India,New Delhi,AI 2439,01:25,00:53,-32,Arrived
+2026-09-22,BOM,Air India,Bangalore,AI 2811,01:45,00:56,-49,Arrived
+2026-09-22,BOM,Thai  International,Bangkok,TG 351,01:30,00:59,-31,Arrived
+2026-09-22,BOM,Jazeera,Kuwait City,J9 401,01:35,01:02,-33,Arrived
+2026-09-22,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,01:05,-20,Arrived
+2026-09-22,BOM,IndiGo,New Delhi,6E 322,01:45,01:11,-34,Arrived
+2026-09-22,BOM,Lufthansa,Frankfurt-am-Main,LH 756,01:00,01:15,15,Arrived
+2026-09-22,BOM,IndiGo,Lucknow,6E 2058,02:15,01:30,-45,Arrived
+2026-09-22,BOM,IndiGo,Hyderabad,6E 6363,01:00,01:32,32,Arrived
+2026-09-22,BOM,IndiGo,Bangkok,6E 1060,01:40,01:35,-5,Arrived
+2026-09-22,BOM,Air India Express,New Delhi,IX 1235,01:50,01:38,-12,Arrived
+2026-09-22,BOM,EgyptAir,Cairo,MS 968,02:00,01:40,-20,Arrived
+2026-09-22,BOM,Starlight Airline,Kolkata,QP 1126,01:40,01:43,3,Arrived
