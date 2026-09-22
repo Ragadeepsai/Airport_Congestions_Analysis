@@ -2181,3 +2181,35 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-22,MAA,IndiGo,Coimbatore,6E0659,21:00,21:11,11,Arrived
 2026-09-22,MAA,IndiGo,Bengaluru,6E6077,21:25,21:14,-11,Arrived
 2026-09-22,MAA,IndiGo,Mumbai,6E5105,21:30,21:18,-12,Arrived
+2026-09-22,MAA,IndiGo,Vijayawada,6E7139,21:35,21:24,-11,Arrived
+2026-09-22,MAA,IndiGo,Hyderabad,6E6174,22:05,21:33,-32,Arrived
+2026-09-22,MAA,IndiGo,Thoothukudi,6E7606,21:45,21:41,-4,Arrived
+2026-09-22,MAA,Singapore Airlines,Singapore,SQ0528,22:00,21:51,-9,Arrived
+2026-09-22,MAA,IndiGo,Raipur,6E2002,21:50,22:00,10,Arrived
+2026-09-22,MAA,IndiGo,Trivandrum,6E6959,22:20,22:06,-14,Arrived
+2026-09-22,MAA,IndiGo,Ranchi,6E0209,21:50,22:16,26,Arrived
+2026-09-22,MAA,IndiGo,Coimbatore,6E6315,22:45,22:20,-25,Arrived
+2026-09-22,MAA,IndiGo,Trichy,6E7052,23:00,22:38,-22,Arrived
+2026-09-22,MAA,IndiGo,Bhubaneswar,6E0145,21:30,22:41,71,Arrived
+2026-09-22,MAA,Thai Airasia,Don Muang International Bangkok,FD0153,23:00,22:45,-15,Arrived
+2026-09-22,MAA,IndiGo,Bengaluru,6E6562,22:55,22:49,-6,Arrived
+2026-09-22,MAA,Air India,Mumbai,AI2827,22:35,22:53,18,Arrived
+2026-09-22,MAA,Malaysia Airlines,Kuala Lumpur,MH0180,22:50,22:55,5,Arrived
+2026-09-22,MAA,Airasia,Kuala Lumpur,AK0013,23:05,22:58,-7,Arrived
+2026-09-22,MAA,IndiGo,Mumbai,6E5291,23:05,23:02,-3,Arrived
+2026-09-22,MAA,Royal Brunei Airlines,Brunei,BI0121,22:50,23:04,14,Arrived
+2026-09-22,MAA,Air India Express,Bengaluru,IX2787,23:20,23:08,-12,Arrived
+2026-09-22,MAA,IndiGo,Kolkata,6E0723,23:30,23:12,-18,Arrived
+2026-09-22,MAA,Cathay Pacific Airways,Hong Kong International,CX0651,23:35,23:16,-19,Arrived
+2026-09-22,MAA,IndiGo,Delhi,6E6341,23:20,23:20,0,Arrived
+2026-09-22,MAA,Thai Airways,Bangkok,TG0337,23:45,23:36,-9,Arrived
+2026-09-22,MAA,IndiGo,Madurai,6E7253,23:10,23:44,34,Arrived
+2026-09-23,MAA,IndiGo,Ahmedabad,6E0348,00:05,23:47,-18,Arrived
+2026-09-22,MAA,IndiGo,Singapore,6E1344,23:55,23:58,3,Arrived
+2026-09-23,MAA,Lufthansa,Frankfurt,LH0758,00:10,00:08,-2,Arrived
+2026-09-23,MAA,Air India,Mumbai,AI0639,01:05,00:35,-30,Arrived
+2026-09-23,MAA,IndiGo,Pune,6E0238,00:35,00:38,3,Arrived
+2026-09-23,MAA,IndiGo,Mumbai,6E6137,01:05,00:45,-20,Arrived
+2026-09-23,MAA,Air India,Delhi,AI2895,00:40,00:51,11,Arrived
+2026-09-23,MAA,IndiGo,Delhi,6E6061,01:50,01:24,-26,Arrived
+2026-09-23,MAA,IndiGo,Pune,6E6745,02:35,02:06,-29,Arrived

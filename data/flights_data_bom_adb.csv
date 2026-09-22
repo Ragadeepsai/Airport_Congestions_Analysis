@@ -11535,3 +11535,26 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-22,BOM,Air India,Chandigarh,AI 2660,20:30,20:03,-27,Arrived
 2026-09-22,BOM,IndiGo,Coimbatore,6E 697,20:15,20:06,-9,Arrived
 2026-09-22,BOM,IndiGo,Calicut,6E 6932,20:25,20:15,-10,Arrived
+2026-09-22,BOM,Lufthansa,Munich,LH 766,23:50,00:06,16,Arrived
+2026-09-23,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,00:09,-11,Arrived
+2026-09-23,BOM,IndiGo,Ahmedabad,6E 6351,00:30,00:14,-16,Arrived
+2026-09-22,BOM,IndiGo,Singapore,6E 1164,22:45,00:16,91,Arrived
+2026-09-23,BOM,IndiGo,Dubai,6E 1456,00:35,00:20,-15,Arrived
+2026-09-23,BOM,IndiGo,Colombo,6E 1186,00:50,00:25,-25,Arrived
+2026-09-23,BOM,IndiGo,Chennai,6E 6225,00:30,00:28,-2,Arrived
+2026-09-23,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:31,-14,Arrived
+2026-09-23,BOM,IndiGo,New Delhi,6E 6114,01:05,00:34,-31,Arrived
+2026-09-23,BOM,Kuwait,Kuwait City,KU 301,01:20,00:38,-42,Arrived
+2026-09-23,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,00:45,-40,Arrived
+2026-09-23,BOM,IndiGo,Amritsar,6E 821,01:15,00:50,-25,Arrived
+2026-09-23,BOM,AZAL Azerbaijan,Baku,J2 59,01:25,00:51,-34,Arrived
+2026-09-23,BOM,Jazeera,Kuwait City,J9 401,01:35,00:54,-41,Arrived
+2026-09-23,BOM,IndiGo,Hyderabad,6E 6363,01:00,00:56,-4,Arrived
+2026-09-23,BOM,Air India,New Delhi,AI 2439,01:25,00:58,-27,Arrived
+2026-09-23,BOM,Air India,Bangalore,AI 2811,01:45,01:00,-45,Arrived
+2026-09-22,BOM,SpiceJet,New Delhi,SG 162,22:30,01:01,151,Arrived
+2026-09-23,BOM,Lufthansa,Frankfurt-am-Main,LH 756,01:00,01:05,5,Arrived
+2026-09-23,BOM,Air India Express,Kochi,IX 1802,01:15,01:10,-5,Arrived
+2026-09-23,BOM,Thai  International,Bangkok,TG 351,01:30,01:13,-17,Arrived
+2026-09-23,BOM,Air India Express,New Delhi,IX 1235,01:50,01:16,-34,Arrived
+2026-09-23,BOM,SpiceJet,Dubai,SG 5114,02:35,02:35,0,Arrived
