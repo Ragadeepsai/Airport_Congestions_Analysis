@@ -11619,3 +11619,19 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-24,BOM,Air India Express,Vasco da Gama,IX 1214,15:40,15:45,5,Arrived
 2026-09-24,BOM,IndiGo,Bangalore,6E 5351,16:05,15:48,-17,Arrived
 2026-09-24,BOM,Air India,New Delhi,AI 2951,15:50,15:51,1,Arrived
+2026-09-24,BOM,Starlight Airline,Bangalore,QP 1986,19:40,19:33,-7,Arrived
+2026-09-24,BOM,Air India,Bangalore,AI 2854,20:05,19:35,-30,Arrived
+2026-09-24,BOM,IndiGo,Vasco da Gama,6E 5242,19:55,19:42,-13,Arrived
+2026-09-24,BOM,Air India Express,Jodhpur,IX 1804,19:30,19:44,14,Arrived
+2026-09-24,BOM,Air India,Gannavaram,AI 599,20:10,19:45,-25,Arrived
+2026-09-24,BOM,IndiGo,Chennai,6E 5367,20:15,19:49,-26,Arrived
+2026-09-24,BOM,IndiGo,Coimbatore,6E 697,20:15,19:52,-23,Arrived
+2026-09-24,BOM,Air India,New Delhi,AI 2955,20:25,19:59,-26,Arrived
+2026-09-24,BOM,Air India,Indore,AI 1780,19:55,20:02,7,Arrived
+2026-09-24,BOM,IndiGo,Calicut,6E 6932,20:25,20:07,-18,Arrived
+2026-09-24,BOM,Air India,Chandigarh,AI 2660,20:30,20:09,-21,Arrived
+2026-09-24,BOM,IndiGo,New Delhi,6E 329,20:15,20:11,-4,Arrived
+2026-09-24,BOM,Air India Express,Vasco da Gama,IX 1241,19:50,20:14,24,Arrived
+2026-09-24,BOM,IndiGo,Hyderabad,6E 5039,20:30,20:16,-14,Arrived
+2026-09-24,BOM,SriLankan,Colombo,UL 143,19:50,20:23,33,Arrived
+2026-09-24,BOM,IndiGo,Bangalore,6E 6283,20:40,20:26,-14,Arrived
