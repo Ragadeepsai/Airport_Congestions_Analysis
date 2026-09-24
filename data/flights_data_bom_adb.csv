@@ -11594,3 +11594,28 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-23,BOM,IndiGo,Chandigarh,6E 5234,19:35,19:51,16,Arrived
 2026-09-23,BOM,SriLankan,Colombo,UL 143,19:50,19:54,4,Arrived
 2026-09-23,BOM,Air India,Indore,AI 1780,19:55,19:56,1,Arrived
+2026-09-24,BOM,Air India,Udaipur,AI 2580,14:20,14:15,-5,Arrived
+2026-09-24,BOM,IndiGo,Riyadh,6E 74,14:40,14:20,-20,Arrived
+2026-09-24,BOM,Air India,New Delhi,AI 1785,14:25,14:22,-3,Arrived
+2026-09-24,BOM,IndiGo,Hyderabad,6E 5384,14:25,14:24,-1,Arrived
+2026-09-24,BOM,IndiGo,Bangalore,6E 5218,14:50,14:27,-23,Arrived
+2026-09-24,BOM,IndiGo,New Delhi,6E 6676,14:15,14:30,15,Arrived
+2026-09-24,BOM,Air India,Dhaka,AI 2184,14:35,14:33,-2,Arrived
+2026-09-24,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,14:37,7,Arrived
+2026-09-24,BOM,IndiGo,Patna,6E 2025,15:15,14:41,-34,Arrived
+2026-09-24,BOM,Starlight Airline,New Delhi,QP 1836,14:55,14:44,-11,Arrived
+2026-09-24,BOM,Air India,Kochi,AI 2856,15:00,14:47,-13,Arrived
+2026-09-24,BOM,IndiGo,Jaipur,6E 5102,15:05,14:51,-14,Arrived
+2026-09-24,BOM,IndiGo,Rajkot,6E 2283,14:55,14:54,-1,Arrived
+2026-09-24,BOM,IndiGo,New Delhi,6E 324,15:10,14:58,-12,Arrived
+2026-09-24,BOM,Air India,Jaipur,AI 2782,15:40,15:01,-39,Arrived
+2026-09-24,BOM,IndiGo,Phuket,6E 1072,15:25,15:03,-22,Arrived
+2026-09-24,BOM,IndiGo,Ad Dammam,6E 82,15:25,15:07,-18,Arrived
+2026-09-24,BOM,IndiGo,Nairobi,6E 1854,15:30,15:10,-20,Arrived
+2026-09-24,BOM,IndiGo,Chennai,6E 5258,14:45,15:12,27,Arrived
+2026-09-24,BOM,IndiGo,Hyderabad,6E 5099,15:55,15:19,-36,Arrived
+2026-09-24,BOM,IndiGo,Dubai,6E 1452,15:30,15:22,-8,Arrived
+2026-09-24,BOM,Air India,Amritsar,AI 2998,16:05,15:31,-34,Arrived
+2026-09-24,BOM,Air India Express,Vasco da Gama,IX 1214,15:40,15:45,5,Arrived
+2026-09-24,BOM,IndiGo,Bangalore,6E 5351,16:05,15:48,-17,Arrived
+2026-09-24,BOM,Air India,New Delhi,AI 2951,15:50,15:51,1,Arrived
