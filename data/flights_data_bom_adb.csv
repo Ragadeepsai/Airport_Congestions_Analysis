@@ -11683,3 +11683,32 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-25,BOM,Starlight Airline,Gautam Buddha Nagar,QP 1940,16:20,15:48,-32,Arrived
 2026-09-25,BOM,IndiGo,Bangalore,6E 5351,16:05,15:50,-15,Arrived
 2026-09-25,BOM,IndiGo,New Delhi,6E 6022,16:25,15:53,-32,Arrived
+2026-09-25,BOM,Air India,Bangalore,AI 2854,20:05,19:36,-29,Arrived
+2026-09-25,BOM,IndiGo,Vasco da Gama,6E 5242,19:55,19:38,-17,Arrived
+2026-09-25,BOM,Air India,Gannavaram,AI 599,20:10,19:40,-30,Arrived
+2026-09-25,BOM,SriLankan,Colombo,UL 143,19:50,19:43,-7,Arrived
+2026-09-25,BOM,Air India,Chandigarh,AI 2660,20:30,19:45,-45,Arrived
+2026-09-25,BOM,Air India,Indore,AI 1780,19:55,19:48,-7,Arrived
+2026-09-25,BOM,IndiGo,New Delhi,6E 329,20:15,19:50,-25,Arrived
+2026-09-25,BOM,IndiGo,Chennai,6E 5367,20:15,19:56,-19,Arrived
+2026-09-25,BOM,IndiGo,Jakarta,6E 1602,20:55,20:08,-47,Arrived
+2026-09-25,BOM,IndiGo,Hyderabad,6E 5039,20:30,20:11,-19,Arrived
+2026-09-25,BOM,Air India,New Delhi,AI 2955,20:25,20:13,-12,Arrived
+2026-09-25,BOM,Gulf Air,Manama,GF 64,20:55,20:15,-40,Arrived
+2026-09-25,BOM,Riyadh Air,Riyadh,RX 697,20:35,20:17,-18,Arrived
+2026-09-25,BOM,IndiGo,Calicut,6E 6932,20:25,20:20,-5,Arrived
+2026-09-25,BOM,IndiGo,Naqpur,6E 5175,20:30,20:21,-9,Arrived
+2026-09-25,BOM,Air India Express,Kochi,IX 1800,18:35,20:23,108,Arrived
+2026-09-25,BOM,Air India Express,Vasco da Gama,IX 1241,19:50,20:28,38,Arrived
+2026-09-25,BOM,IndiGo,Ahmedabad,6E 5160,21:05,20:30,-35,Arrived
+2026-09-25,BOM,IndiGo,Bangalore,6E 6283,20:40,20:32,-8,Arrived
+2026-09-25,BOM,Starlight Airline,Guwahati,QP 1142,21:00,20:36,-24,Arrived
+2026-09-25,BOM,IndiGo,Coimbatore,6E 697,20:15,20:38,23,Arrived
+2026-09-25,BOM,IndiGo,Udaipur,6E 5327,21:20,20:43,-37,Arrived
+2026-09-25,BOM,Alliance Air,Jalgaon,9I 602,21:20,20:46,-34,Arrived
+2026-09-25,BOM,Emirates,Dubai,EK 508,20:45,20:49,4,Arrived
+2026-09-25,BOM,IndiGo,Hubli,6E 5083,21:20,20:52,-28,Arrived
+2026-09-25,BOM,Air India,Jaipur,AI 622,21:35,21:03,-32,Arrived
+2026-09-25,BOM,Air Arabia,Sharjah,G9 401,21:15,21:06,-9,Arrived
+2026-09-25,BOM,Air India,Indore,AI 2750,21:25,21:09,-16,Arrived
+2026-09-25,BOM,IndiGo,New Delhi,6E 354,21:25,21:10,-15,Arrived
