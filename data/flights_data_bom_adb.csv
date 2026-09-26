@@ -11741,3 +11741,14 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-26,BOM,Air India,London,AI 128,02:50,01:56,-54,Arrived
 2026-09-26,BOM,SriLankan,Colombo,UL 141,02:10,02:00,-10,Arrived
 2026-09-26,BOM,IndiGo,Ahmedabad,6E 6205,02:55,02:03,-52,Arrived
+2026-09-26,BOM,Starlight Airline,Ahmedabad,QP 1194,06:15,05:52,-23,Arrived
+2026-09-26,BOM,Turkish,Istanbul,TK 720,05:15,05:57,42,Arrived
+2026-09-26,BOM,Air Mauritius,Port Louis,MK 748,06:35,06:09,-26,Arrived
+2026-09-26,BOM,Starlight Airline,Bangalore,QP 1381,06:45,06:11,-34,Arrived
+2026-09-26,BOM,IndiGo,Chennai,6E 5093,06:55,06:27,-28,Arrived
+2026-09-26,BOM,IndiGo,Naqpur,6E 5002,07:10,06:35,-35,Arrived
+2026-09-26,BOM,IndiGo,New Delhi,6E 449,07:15,06:44,-31,Arrived
+2026-09-26,BOM,IndiGo,Indore,6E 5122,07:35,06:50,-45,Arrived
+2026-09-26,BOM,Starlight Airline,Bangalore,QP 1383,07:10,06:53,-17,Arrived
+2026-09-26,BOM,IndiGo,Bangalore,6E 5089,07:15,06:57,-18,Arrived
+2026-09-26,BOM,Air India,Ahmedabad,AI 2918,07:45,07:00,-45,Arrived
