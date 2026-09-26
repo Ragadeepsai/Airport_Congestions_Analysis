@@ -11775,3 +11775,9 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-26,BOM,IndiGo,Ad Dammam,6E 82,15:25,15:00,-25,Arrived
 2026-09-26,BOM,Air India,Jaipur,AI 2782,15:40,15:02,-38,Arrived
 2026-09-26,BOM,IndiGo,Nairobi,6E 1854,15:30,15:11,-19,Arrived
+2026-09-26,BOM,Air India,Rajkot,AI 2731,19:15,18:47,-28,Arrived
+2026-09-26,BOM,IndiGo,New Delhi,6E 6706,19:15,18:50,-25,Arrived
+2026-09-26,BOM,Etihad,Abu Dhabi,EY 204,19:10,18:52,-18,Arrived
+2026-09-26,BOM,IndiGo,Bangalore,6E 5255,19:05,18:56,-9,Arrived
+2026-09-26,BOM,IndiGo,Srinagar,6E 215,18:55,18:58,3,Arrived
+2026-09-26,BOM,Air India,Ahmedabad,AI 2916,19:40,19:00,-40,Arrived
