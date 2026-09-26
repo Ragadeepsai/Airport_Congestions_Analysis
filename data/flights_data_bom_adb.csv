@@ -11781,3 +11781,31 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-26,BOM,IndiGo,Bangalore,6E 5255,19:05,18:56,-9,Arrived
 2026-09-26,BOM,IndiGo,Srinagar,6E 215,18:55,18:58,3,Arrived
 2026-09-26,BOM,Air India,Ahmedabad,AI 2916,19:40,19:00,-40,Arrived
+2026-09-27,BOM,IndiGo,Kolkata,6E 115,00:25,23:52,-33,Arrived
+2026-09-27,BOM,KLM,Amsterdam,KL 877,00:00,23:54,-6,Arrived
+2026-09-27,BOM,IndiGo,Raipur,6E 5049,00:10,23:56,-14,Arrived
+2026-09-26,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:59,9,Arrived
+2026-09-27,BOM,IndiGo,Chennai,6E 6225,00:30,00:01,-29,Arrived
+2026-09-27,BOM,Air India Express,Mopa,IX 1209,00:05,00:04,-1,Arrived
+2026-09-27,BOM,IndiGo,Guwahati,6E 5066,00:20,00:06,-14,Arrived
+2026-09-27,BOM,IndiGo,Patna,6E 6619,00:45,00:09,-36,Arrived
+2026-09-26,BOM,Air India,Bangkok,AI 2338,23:40,00:11,31,Arrived
+2026-09-27,BOM,IndiGo,Mahe Island,6E 1856,00:35,00:13,-22,Arrived
+2026-09-27,BOM,IndiGo,Ahmedabad,6E 6351,00:30,00:15,-15,Arrived
+2026-09-27,BOM,IndiGo,Dubai,6E 1456,00:35,00:16,-19,Arrived
+2026-09-26,BOM,Lufthansa,Munich,LH 766,23:50,00:19,29,Arrived
+2026-09-27,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:23,-22,Arrived
+2026-09-27,BOM,IndiGo,Colombo,6E 1186,00:50,00:25,-25,Arrived
+2026-09-27,BOM,Alliance Air,Hyderabad,9I 925,00:30,00:28,-2,Arrived
+2026-09-27,BOM,Air India,Bangalore,AI 2840,00:35,00:30,-5,Arrived
+2026-09-27,BOM,IndiGo,Hyderabad,6E 6363,01:00,00:33,-27,Arrived
+2026-09-27,BOM,Kuwait,Kuwait City,KU 301,01:20,00:35,-45,Arrived
+2026-09-27,BOM,IndiGo,New Delhi,6E 6114,01:05,00:38,-27,Arrived
+2026-09-27,BOM,Saudi Arabian,Jeddah,SV 772,00:50,00:41,-9,Arrived
+2026-09-27,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,00:45,-40,Arrived
+2026-09-27,BOM,Jazeera,Kuwait City,J9 401,01:35,00:51,-44,Arrived
+2026-09-27,BOM,Air India,Bangalore,AI 2811,01:45,00:53,-52,Arrived
+2026-09-27,BOM,Air India,New Delhi,AI 2439,01:25,00:56,-29,Arrived
+2026-09-27,BOM,IndiGo,Amritsar,6E 821,01:15,00:58,-17,Arrived
+2026-09-27,BOM,Starlight Airline,Kolkata,QP 1126,01:40,01:09,-31,Arrived
+2026-09-26,BOM,Shuttle America,Mundra,S5 706,19:40,09:22,822,Arrived
