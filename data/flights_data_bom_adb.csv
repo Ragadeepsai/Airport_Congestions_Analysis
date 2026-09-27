@@ -11847,3 +11847,32 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-27,BOM,SriLankan,Colombo,UL 143,19:50,19:38,-12,Arrived
 2026-09-27,BOM,Starlight Airline,New Delhi,QP 1820,19:45,19:43,-2,Arrived
 2026-09-27,BOM,Air India,Chandigarh,AI 2660,20:30,19:48,-42,Arrived
+2026-09-28,BOM,Air India,Bangalore,AI 2840,00:35,00:03,-32,Arrived
+2026-09-27,BOM,Lufthansa,Munich,LH 766,23:50,00:06,16,Arrived
+2026-09-28,BOM,IndiGo,Ahmedabad,6E 6351,00:30,00:09,-21,Arrived
+2026-09-28,BOM,IndiGo,Dubai,6E 1456,00:35,00:11,-24,Arrived
+2026-09-28,BOM,IndiGo,Colombo,6E 1186,00:50,00:13,-37,Arrived
+2026-09-28,BOM,IndiGo,Guwahati,6E 5066,00:20,00:15,-5,Arrived
+2026-09-28,BOM,IndiGo,Patna,6E 6619,00:45,00:20,-25,Arrived
+2026-09-28,BOM,Kuwait,Kuwait City,KU 301,01:20,00:25,-55,Arrived
+2026-09-28,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:29,-16,Arrived
+2026-09-28,BOM,IndiGo,Athens,6E 1904,00:45,00:34,-11,Arrived
+2026-09-28,BOM,IndiGo,New Delhi,6E 6114,01:05,00:45,-20,Arrived
+2026-09-28,BOM,IndiGo,Hyderabad,6E 6363,01:00,00:47,-13,Arrived
+2026-09-28,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,00:50,-35,Arrived
+2026-09-28,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,00:52,32,Arrived
+2026-09-28,BOM,Jazeera,Kuwait City,J9 401,01:35,00:55,-40,Arrived
+2026-09-28,BOM,Air India,New Delhi,AI 2439,01:25,00:58,-27,Arrived
+2026-09-28,BOM,Air India,Bangalore,AI 2811,01:45,01:07,-38,Arrived
+2026-09-27,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,01:09,79,Arrived
+2026-09-28,BOM,IndiGo,Amritsar,6E 821,01:15,01:12,-3,Arrived
+2026-09-28,BOM,SpiceJet,New Delhi,SG 2802,01:25,01:13,-12,Arrived
+2026-09-28,BOM,Lufthansa,Frankfurt-am-Main,LH 756,01:00,01:16,16,Arrived
+2026-09-28,BOM,Starlight Airline,Kolkata,QP 1126,01:40,01:24,-16,Arrived
+2026-09-28,BOM,Ethiopian,Addis Ababa,ET 640,02:05,01:27,-38,Arrived
+2026-09-28,BOM,Kenya,Nairobi,KQ 202,01:30,01:29,-1,Arrived
+2026-09-28,BOM,Saudi Arabian,Jeddah,SV 772,00:50,01:33,43,Arrived
+2026-09-27,BOM,Thai  International,Bangkok,TG 317,21:55,01:35,220,Arrived
+2026-09-28,BOM,IndiGo,Lucknow,6E 2058,02:15,01:38,-37,Arrived
+2026-09-28,BOM,IndiGo,Bangkok,6E 1060,01:40,01:40,0,Arrived
+2026-09-28,BOM,IndiGo,New Delhi,6E 322,01:45,01:42,-3,Arrived
