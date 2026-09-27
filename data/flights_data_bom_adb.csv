@@ -11813,3 +11813,29 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-27,BOM,Starlight Airline,Bangalore,QP 1381,06:45,06:12,-33,Arrived
 2026-09-27,BOM,Kenya,Nairobi,KQ 202,01:30,08:07,397,Arrived
 2026-09-26,BOM,Shuttle America,Mundra,S5 706,19:40,09:22,822,Arrived
+2026-09-27,BOM,Air India,Vasco da Gama,AI 2421,15:00,14:30,-30,Arrived
+2026-09-27,BOM,Starlight Airline,New Delhi,QP 1836,14:55,14:32,-23,Arrived
+2026-09-27,BOM,IndiGo,Chennai,6E 5258,14:45,14:34,-11,Arrived
+2026-09-27,BOM,IndiGo,Patna,6E 2025,15:15,14:36,-39,Arrived
+2026-09-27,BOM,IndiGo,Jaipur,6E 2704,15:05,14:42,-23,Arrived
+2026-09-27,BOM,IndiGo,Ad Dammam,6E 82,15:25,14:45,-40,Arrived
+2026-09-27,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,14:47,17,Arrived
+2026-09-27,BOM,IndiGo,Nairobi,6E 1854,15:30,14:53,-37,Arrived
+2026-09-27,BOM,Air India,Jaipur,AI 2782,15:40,14:58,-42,Arrived
+2026-09-27,BOM,IndiGo,Phuket,6E 1072,15:25,15:00,-25,Arrived
+2026-09-27,BOM,IndiGo,Rajkot,6E 2283,14:55,15:03,8,Arrived
+2026-09-27,BOM,IndiGo,New Delhi,6E 324,15:10,15:08,-2,Arrived
+2026-09-27,BOM,Air India Express,Vasco da Gama,IX 1214,15:40,15:11,-29,Arrived
+2026-09-27,BOM,IndiGo,Hyderabad,6E 5099,15:55,15:17,-38,Arrived
+2026-09-27,BOM,Air India,Amritsar,AI 2998,16:05,15:22,-43,Arrived
+2026-09-27,BOM,IndiGo,Darbhanga,6E 536,16:15,15:27,-48,Arrived
+2026-09-27,BOM,IndiGo,Dubai,6E 1452,15:30,15:31,1,Arrived
+2026-09-27,BOM,Air India,New Delhi,AI 2951,15:50,15:34,-16,Arrived
+2026-09-27,BOM,Air India,Vasco da Gama,AI 2478,16:30,15:40,-50,Arrived
+2026-09-27,BOM,Air India,Hyderabad,AI 2445,16:25,15:43,-42,Arrived
+2026-09-27,BOM,Starlight Airline,Gautam Buddha Nagar,QP 1940,16:20,15:48,-32,Arrived
+2026-09-27,BOM,IndiGo,Bangalore,6E 5351,16:05,15:50,-15,Arrived
+2026-09-27,BOM,Air India Express,Mangalore,IX 1671,15:50,15:53,3,Arrived
+2026-09-27,BOM,Air India,Ahmedabad,AI 2504,16:35,15:55,-40,Arrived
+2026-09-27,BOM,IndiGo,New Delhi,6E 6022,16:25,15:58,-27,Arrived
+2026-09-27,BOM,Air India,Lucknow,AI 2492,16:40,15:59,-41,Arrived
