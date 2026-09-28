@@ -2301,3 +2301,93 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-24,MAA,Air India,Mumbai,AI0639,01:05,00:38,-27,Arrived
 2026-09-24,MAA,IndiGo,Mumbai,6E6137,01:05,01:20,15,Arrived
 2026-09-24,MAA,IndiGo,Delhi,6E6061,01:50,01:24,-26,Arrived
+2026-09-28,MAA,IndiGo,Singapore,6E1002,06:15,05:53,-22,Arrived
+2026-09-28,MAA,Akasa Air,Mumbai,QP1145,07:00,06:43,-17,Arrived
+2026-09-28,MAA,IndiGo,Kolkata,6E0344,07:20,06:47,-33,Arrived
+2026-09-28,MAA,IndiGo,Kuala Lumpur,6E1032,06:55,06:59,4,Arrived
+2026-09-28,MAA,Oman Air,Muscat,WY0251,07:25,07:03,-22,Arrived
+2026-09-28,MAA,IndiGo,Pune,6E0159,07:20,07:08,-12,Arrived
+2026-09-28,MAA,Airasia,Kuala Lumpur,AK0011,07:25,07:13,-12,Arrived
+2026-09-28,MAA,IndiGo,Coimbatore,6E0339,07:15,07:20,5,Arrived
+2026-09-28,MAA,IndiGo,Mumbai,6E5188,08:20,07:38,-42,Arrived
+2026-09-28,MAA,IndiGo,Hyderabad,6E0243,08:25,07:56,-29,Arrived
+2026-09-28,MAA,Air India Express,Bengaluru,IX1472,08:10,07:59,-11,Arrived
+2026-09-28,MAA,Emirates,Dubai,EK0544,08:05,08:02,-3,Arrived
+2026-09-28,MAA,IndiGo,Bengaluru,6E6269,08:15,08:05,-10,Arrived
+2026-09-28,MAA,Air India,Mumbai,AI2821,08:55,08:26,-29,Arrived
+2026-09-28,MAA,IndiGo,Navi Mumbai,6E2128,08:50,08:34,-16,Arrived
+2026-09-28,MAA,Air India Express,Kolkata,IX1254,09:10,08:37,-33,Arrived
+2026-09-28,MAA,Etihad Airways,Abu Dhabi,EY0342,08:25,08:40,15,Arrived
+2026-09-28,MAA,Air India,Delhi,AI2525,08:40,08:43,3,Arrived
+2026-09-28,MAA,Sri Lankan Airlines,Colombo,UL0121,08:50,08:51,1,Arrived
+2026-09-28,MAA,IndiGo,Hyderabad,6E0371,09:20,08:54,-26,Arrived
+2026-09-28,MAA,Air India Express,Hyderabad,IX1831,09:40,08:57,-43,Arrived
+2026-09-28,MAA,IndiGo,Ahmedabad,6E0479,09:15,09:00,-15,Arrived
+2026-09-28,MAA,Singapore Airlines,Singapore,SQ0524,09:20,09:05,-15,Arrived
+2026-09-28,MAA,IndiGo,Mangalore,6E7345,09:40,09:09,-31,Arrived
+2026-09-28,MAA,IndiGo,Port Blair,6E0581,09:35,09:13,-22,Arrived
+2026-09-28,MAA,Air India Express,Bengaluru,IX2926,09:50,09:24,-26,Arrived
+2026-09-28,MAA,IndiGo,Trichy,6E7101,09:30,09:28,-2,Arrived
+2026-09-28,MAA,IndiGo,Madurai,6E7194,10:10,09:32,-38,Arrived
+2026-09-28,MAA,IndiGo,Cochin/Kochi,6E2622,09:45,09:40,-5,Arrived
+2026-09-28,MAA,IndiGo,Delhi,6E2368,10:05,09:42,-23,Arrived
+2026-09-28,MAA,IndiGo,Trivandrum,6E0343,10:25,10:03,-22,Arrived
+2026-09-28,MAA,IndiGo,Mumbai,6E5204,10:20,10:06,-14,Arrived
+2026-09-28,MAA,IndiGo,Abu Dhabi,6E1412,10:25,10:10,-15,Arrived
+2026-09-28,MAA,IndiGo,Kolkata,6E0563,10:55,10:22,-33,Arrived
+2026-09-28,MAA,IndiGo,Colombo,6E1174,11:05,10:31,-34,Arrived
+2026-09-28,MAA,Air India,Delhi,AI2833,10:25,10:34,9,Arrived
+2026-09-28,MAA,Malaysia Airlines,Kuala Lumpur,MH0182,10:45,10:37,-8,Arrived
+2026-09-28,MAA,IndiGo,Cochin/Kochi,6E0539,10:40,10:41,1,Arrived
+2026-09-28,MAA,Air India,Mumbai,AI2739,11:10,10:48,-22,Arrived
+2026-09-28,MAA,IndiGo,Hyderabad,6E6151,11:20,10:53,-27,Arrived
+2026-09-28,MAA,IndiGo,Guwahati,6E0927,11:30,11:10,-20,Arrived
+2026-09-28,MAA,IndiGo,Bangkok,6E1062,11:10,11:27,17,Arrived
+2026-09-28,MAA,IndiGo,Mumbai,6E5313,12:00,11:31,-29,Arrived
+2026-09-28,MAA,IndiGo,Trichy,6E7365,12:10,11:39,-31,Arrived
+2026-09-28,MAA,IndiGo,Delhi,6E0940,12:05,11:53,-12,Arrived
+2026-09-28,MAA,IndiGo,Bengaluru,6E0904,11:45,11:57,12,Arrived
+2026-09-28,MAA,Akasa Air,Port Blair,QP1146,12:55,12:25,-30,Arrived
+2026-09-28,MAA,IndiGo,Coimbatore,6E0725,12:40,12:32,-8,Arrived
+2026-09-28,MAA,IndiGo,Singapore,6E1026,12:45,12:40,-5,Arrived
+2026-09-28,MAA,Air India Express,Madurai,IX1832,13:10,12:44,-26,Arrived
+2026-09-28,MAA,Air India,Delhi,AI2467,12:45,12:53,8,Arrived
+2026-09-28,MAA,IndiGo,Vijayawada,6E7263,13:40,13:11,-29,Arrived
+2026-09-28,MAA,IndiGo,Rajahmundry,6E7734,13:50,13:15,-35,Arrived
+2026-09-28,MAA,IndiGo,Varanasi,6E6044,13:10,13:18,8,Arrived
+2026-09-28,MAA,IndiGo,Visakhapatnam,6E0898,13:35,13:24,-11,Arrived
+2026-09-28,MAA,IndiGo,Thoothukudi,6E7264,13:30,13:31,1,Arrived
+2026-09-28,MAA,IndiGo,Cuddapah Airport,6E7098,14:00,13:34,-26,Arrived
+2026-09-28,MAA,IndiGo,Bengaluru,6E6208,13:55,13:37,-18,Arrived
+2026-09-28,MAA,IndiGo,Jaffna International Airport,6E1178,13:40,13:41,1,Arrived
+2026-09-28,MAA,IndiGo,Colombo,6E1180,13:45,13:43,-2,Arrived
+2026-09-28,MAA,Air India Express,Bengaluru,IX2942,13:55,13:49,-6,Arrived
+2026-09-28,MAA,IndiGo,Delhi,6E0434,13:50,13:51,1,Arrived
+2026-09-28,MAA,IndiGo,Mumbai,6E6349,13:45,13:54,9,Arrived
+2026-09-28,MAA,IndiGo,Coimbatore,6E0571,15:05,15:01,-4,Arrived
+2026-09-28,MAA,IndiGo,Cochin/Kochi,6E6011,15:10,15:04,-6,Arrived
+2026-09-28,MAA,Air India,Delhi,AI2483,15:10,15:06,-4,Arrived
+2026-09-28,MAA,Sri Lankan Airlines,Colombo,UL0127,14:55,15:10,15,Arrived
+2026-09-28,MAA,IndiGo,Pune,6E0625,15:30,15:13,-17,Arrived
+2026-09-28,MAA,IndiGo,Hyderabad,6E0514,15:30,15:16,-14,Arrived
+2026-09-28,MAA,Air India Express,Bengaluru,IX2505,15:55,15:19,-36,Arrived
+2026-09-28,MAA,IndiGo,Mopa,6E6975,15:50,15:28,-22,Arrived
+2026-09-28,MAA,IndiGo,Port Blair,6E2698,15:45,15:34,-11,Arrived
+2026-09-28,MAA,IndiGo,Mumbai,6E5337,15:50,15:37,-13,Arrived
+2026-09-28,MAA,IndiGo,Cochin/Kochi,6E0182,16:15,15:45,-30,Arrived
+2026-09-28,MAA,Biman Bangladesh Airlines,Dhaka,BG0363,13:35,15:51,136,Arrived
+2026-09-28,MAA,IndiGo,Delhi,6E6115,16:00,15:52,-8,Arrived
+2026-09-28,MAA,Air India,Mumbai,AI2780,16:10,16:07,-3,Arrived
+2026-09-28,MAA,Alliance Air,Hyderabad,9I0893,16:40,16:16,-24,Arrived
+2026-09-28,MAA,IndiGo,Jaipur,6E0694,16:50,16:31,-19,Arrived
+2026-09-28,MAA,IndiGo,Salem,6E7112,16:50,16:34,-16,Arrived
+2026-09-28,MAA,IndiGo,Coimbatore,6E0848,17:05,16:50,-15,Arrived
+2026-09-28,MAA,IndiGo,Hindon Air Force Station,6E2579,17:05,16:55,-10,Arrived
+2026-09-28,MAA,IndiGo,Madurai,6E7684,17:35,17:03,-32,Arrived
+2026-09-28,MAA,IndiGo,Dhaka,6E1114,17:00,17:10,10,Arrived
+2026-09-28,MAA,IndiGo,Kolkata,6E0892,17:20,17:13,-7,Arrived
+2026-09-28,MAA,IndiGo,Hyderabad,6E0668,17:40,17:19,-21,Arrived
+2026-09-28,MAA,IndiGo,Thoothukudi,6E7188,17:50,17:22,-28,Arrived
+2026-09-28,MAA,IndiGo,Mumbai,6E5196,17:30,17:28,-2,Arrived
+2026-09-28,MAA,IndiGo,Shirdi Airport,6E0726,17:35,17:34,-1,Arrived
+2026-09-28,MAA,IndiGo,Trichy,6E7242,17:45,17:38,-7,Arrived
