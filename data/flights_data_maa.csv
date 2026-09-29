@@ -2462,3 +2462,25 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-29,MAA,IndiGo,Dubai,6E1472,02:35,03:19,44,Arrived
 2026-09-29,MAA,British Airways,London Heathrow,BA0035,03:30,03:22,-8,Arrived
 2026-09-29,MAA,Air Arabia,Sharjah,G90471,03:25,03:50,25,Arrived
+2026-09-29,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0141,04:25,04:21,-4,Arrived
+2026-09-29,MAA,IndiGo,Colombo,6E1172,05:05,04:27,-38,Arrived
+2026-09-29,MAA,Gulf Air,Bahrain,GF0068,05:20,04:51,-29,Arrived
+2026-09-29,MAA,IndiGo,Mumbai,6E0136,06:05,05:38,-27,Arrived
+2026-09-29,MAA,Air Mauritius,Mauritius,MK0746,06:05,05:44,-21,Arrived
+2026-09-29,MAA,IndiGo,Singapore,6E1002,06:15,06:06,-9,Arrived
+2026-09-29,MAA,IndiGo,Kuala Lumpur,6E1032,06:55,06:40,-15,Arrived
+2026-09-29,MAA,Oman Air,Muscat,WY0251,07:25,06:54,-31,Arrived
+2026-09-29,MAA,IndiGo,Coimbatore,6E0339,07:15,07:01,-14,Arrived
+2026-09-29,MAA,IndiGo,Pune,6E0159,07:20,07:07,-13,Arrived
+2026-09-29,MAA,Airasia,Kuala Lumpur,AK0011,07:25,07:13,-12,Arrived
+2026-09-28,MAA,Thai Airways,Bangkok,TG0337,23:45,07:40,475,Arrived
+2026-09-29,MAA,Air India Express,Bengaluru,IX1472,08:10,07:43,-27,Arrived
+2026-09-29,MAA,IndiGo,Mumbai,6E5188,08:20,07:51,-29,Arrived
+2026-09-29,MAA,Ethiopian Airlines,Addis Ababa,ET0692,08:30,07:56,-34,Arrived
+2026-09-29,MAA,IndiGo,Hyderabad,6E0243,08:25,07:58,-27,Arrived
+2026-09-29,MAA,IndiGo,Bengaluru,6E6269,08:15,08:02,-13,Arrived
+2026-09-29,MAA,Etihad Airways,Abu Dhabi,EY0342,08:25,08:05,-20,Arrived
+2026-09-29,MAA,Emirates,Dubai,EK0544,08:05,08:12,7,Arrived
+2026-09-29,MAA,Air India,Mumbai,AI2821,08:55,08:22,-33,Arrived
+2026-09-29,MAA,Air India Express,Kolkata,IX1254,09:10,08:30,-40,Arrived
+2026-09-29,MAA,Sri Lankan Airlines,Colombo,UL0121,08:50,08:33,-17,Arrived

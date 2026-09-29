@@ -11909,3 +11909,6 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-09-28,BOM,British,London,BA 139,23:40,02:46,186,Arrived
 2026-09-29,BOM,IndiGo,Abu Dhabi,6E 1402,02:55,03:07,12,Arrived
 2026-09-29,BOM,Kenya,Nairobi,KQ 202,01:30,03:20,110,Arrived
+2026-09-29,BOM,IndiGo,Bangalore,6E 5089,07:15,06:38,-37,Arrived
+2026-09-29,BOM,Starlight Airline,Bangalore,QP 1383,07:10,06:45,-25,Arrived
+2026-09-29,BOM,Air India,New Delhi,AI 1745,07:20,06:50,-30,Arrived
