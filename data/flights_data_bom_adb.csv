@@ -12002,3 +12002,5 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-01,BOM,Air India,Srinagar,AI 2662,17:10,16:56,-14,Arrived
 2026-10-01,BOM,IndiGo,Durgapur,6E 5155,17:15,16:58,-17,Arrived
 2026-10-01,BOM,IndiGo,Kochi,6E 674,17:05,17:01,-4,Arrived
+2026-10-01,BOM,Shuttle America,Mundra,S5 706,19:55,10:53,898,Arrived
+2026-10-01,BOM,Air India Express,Bhopal,IX 1786,15:25,12:06,-199,Arrived
