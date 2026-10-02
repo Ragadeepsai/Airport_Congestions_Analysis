@@ -12004,3 +12004,12 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-01,BOM,IndiGo,Kochi,6E 674,17:05,17:01,-4,Arrived
 2026-10-01,BOM,Shuttle America,Mundra,S5 706,19:55,10:53,898,Arrived
 2026-10-01,BOM,Air India Express,Bhopal,IX 1786,15:25,12:06,-199,Arrived
+2026-10-02,BOM,Air India,Udaipur,AI 2580,14:20,15:02,42,Arrived
+2026-10-02,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,15:04,34,Arrived
+2026-10-02,BOM,IndiGo,Rajkot,6E 2283,14:55,15:12,17,Arrived
+2026-10-02,BOM,Starlight Airline,Chennai,QP 1146,15:40,15:18,-22,Arrived
+2026-10-02,BOM,Air India,Jaipur,AI 2782,15:40,15:20,-20,Arrived
+2026-10-02,BOM,Air India Express,Vasco da Gama,IX 1214,15:40,15:23,-17,Arrived
+2026-10-02,BOM,IndiGo,Hyderabad,6E 5099,15:55,15:27,-28,Arrived
+2026-10-02,BOM,IndiGo,Dubai,6E 1452,15:30,15:35,5,Arrived
+2026-10-02,BOM,Air India,Jeddah,AI 2252,05:40,00:53,-287,Arrived
