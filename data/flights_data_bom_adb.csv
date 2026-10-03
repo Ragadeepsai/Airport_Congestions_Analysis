@@ -12085,3 +12085,27 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-03,BOM,IndiGo,Doha,6E 1342,08:25,07:53,-32,Arrived
 2026-10-03,BOM,IndiGo,Indore,6E 6184,08:20,07:55,-25,Arrived
 2026-10-03,BOM,IndiGo,Aurangabad,6E 6126,08:15,08:00,-15,Arrived
+2026-10-03,BOM,IndiGo,Bangalore,6E 5218,14:50,14:15,-35,Arrived
+2026-10-03,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,14:18,-12,Arrived
+2026-10-03,BOM,IndiGo,Patna,6E 2025,15:15,14:22,-53,Arrived
+2026-10-03,BOM,IndiGo,Chennai,6E 5258,14:45,14:23,-22,Arrived
+2026-10-03,BOM,Air India,Kochi,AI 2856,15:00,14:29,-31,Arrived
+2026-10-03,BOM,IndiGo,New Delhi,6E 324,15:10,14:40,-30,Arrived
+2026-10-03,BOM,Air India,Tokyo,AI 355,16:00,14:42,-78,Arrived
+2026-10-03,BOM,Starlight Airline,Siliguri,QP 1144,15:15,14:45,-30,Arrived
+2026-10-03,BOM,IndiGo,Phuket,6E 1072,15:25,14:48,-37,Arrived
+2026-10-03,BOM,IndiGo,Rajkot,6E 2283,14:55,14:56,1,Arrived
+2026-10-03,BOM,Air India,Riyadh,AI 2214,14:10,14:59,49,Arrived
+2026-10-03,BOM,Air India,Jaipur,AI 2782,15:40,15:04,-36,Arrived
+2026-10-03,BOM,IndiGo,Nairobi,6E 1854,15:30,15:15,-15,Arrived
+2026-10-03,BOM,IndiGo,Hyderabad,6E 5099,15:55,15:20,-35,Arrived
+2026-10-03,BOM,IndiGo,Riyadh,6E 74,14:40,15:22,42,Arrived
+2026-10-03,BOM,IndiGo,Dubai,6E 1452,15:30,15:27,-3,Arrived
+2026-10-03,BOM,Air India,New Delhi,AI 2951,15:50,15:30,-20,Arrived
+2026-10-03,BOM,Air India Express,Vasco da Gama,IX 1214,15:40,15:32,-8,Arrived
+2026-10-03,BOM,Starlight Airline,Chennai,QP 1146,15:40,15:39,-1,Arrived
+2026-10-03,BOM,Air India,Vasco da Gama,AI 2478,16:30,15:42,-48,Arrived
+2026-10-03,BOM,IndiGo,New Delhi,6E 6022,16:25,15:46,-39,Arrived
+2026-10-03,BOM,IndiGo,Deoghar,6E 536,16:15,15:49,-26,Arrived
+2026-10-03,BOM,Air India Express,Mangalore,IX 1671,15:50,15:54,4,Arrived
+2026-10-03,BOM,IndiGo,Jodhpur,6E 6259,16:15,15:56,-19,Arrived
