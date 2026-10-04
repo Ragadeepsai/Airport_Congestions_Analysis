@@ -12206,4 +12206,31 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-04,BOM,Air India,Srinagar,AI 2662,17:10,16:23,-47,Arrived
 2026-10-04,BOM,Air India,Vasco da Gama,AI 2478,16:30,16:27,-3,Arrived
 2026-10-04,BOM,IndiGo,Bangkok,6E 1604,17:10,16:29,-41,Arrived
+2026-10-04,BOM,Starlight Airline,Kolkata,QP 1253,20:00,19:39,-21,Arrived
+2026-10-04,BOM,SriLankan,Colombo,UL 143,19:50,19:41,-9,Arrived
+2026-10-04,BOM,Air India,New Delhi,AI 2955,20:25,19:47,-38,Arrived
+2026-10-04,BOM,Air India,Bangalore,AI 2854,20:05,19:54,-11,Arrived
+2026-10-04,BOM,Air India,Chandigarh,AI 2660,20:30,19:56,-34,Arrived
+2026-10-04,BOM,IndiGo,Chennai,6E 5367,20:15,20:01,-14,Arrived
+2026-10-04,BOM,IndiGo,New Delhi,6E 329,20:15,20:07,-8,Arrived
+2026-10-04,BOM,IndiGo,Coimbatore,6E 697,20:15,20:13,-2,Arrived
+2026-10-04,BOM,Air India,Kolkata,AI 2774,20:50,20:15,-35,Arrived
+2026-10-04,BOM,IndiGo,Hyderabad,6E 5039,20:30,20:18,-12,Arrived
+2026-10-04,BOM,Gulf Air,Manama,GF 64,20:55,20:22,-33,Arrived
+2026-10-04,BOM,Air India,Bangalore,AI 2610,21:05,20:26,-39,Arrived
+2026-10-04,BOM,Starlight Airline,Guwahati,QP 1142,21:00,20:27,-33,Arrived
+2026-10-04,BOM,IndiGo,Vasco da Gama,6E 5242,19:55,20:30,35,Arrived
+2026-10-04,BOM,Emirates,Dubai,EK 508,20:45,20:32,-13,Arrived
+2026-10-04,BOM,IndiGo,Calicut,6E 6932,20:25,20:35,10,Arrived
+2026-10-04,BOM,IndiGo,Naqpur,6E 5175,20:30,20:37,7,Arrived
+2026-10-04,BOM,IndiGo,Bangalore,6E 6283,20:40,20:40,0,Arrived
+2026-10-04,BOM,IndiGo,Udaipur,6E 5327,21:20,20:42,-38,Arrived
+2026-10-04,BOM,IndiGo,Rajkot,6E 2104,20:50,20:44,-6,Arrived
+2026-10-04,BOM,Air India Express,New Delhi,IX 1056,20:10,20:47,37,Arrived
+2026-10-04,BOM,Air India,Jeddah,AI 2246,21:20,20:56,-24,Arrived
+2026-10-04,BOM,Riyadh Air,Riyadh,RX 697,20:35,20:58,23,Arrived
+2026-10-04,BOM,IndiGo,Ahmedabad,6E 5160,21:05,21:01,-4,Arrived
+2026-10-04,BOM,IndiGo,Jakarta,6E 1602,20:55,21:03,8,Arrived
+2026-10-04,BOM,IndiGo,New Delhi,6E 354,21:25,21:06,-19,Arrived
+2026-10-04,BOM,Air India,Jaipur,AI 622,21:35,21:08,-27,Arrived
 2026-10-04,BOM,Air India,Jeddah,AI 2252,05:40,00:52,-288,Arrived
