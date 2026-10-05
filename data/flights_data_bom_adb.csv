@@ -12324,3 +12324,16 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-05,BOM,Air India,Udaipur,AI 2596,18:15,18:09,-6,Arrived
 2026-10-05,BOM,IndiGo,Gwalior,6E 5265,18:10,18:11,1,Arrived
 2026-10-05,BOM,SpiceJet,Dubai,SG 5114,02:55,18:20,925,Arrived
+2026-10-06,BOM,Emirates,Dubai,EK 500,02:25,02:57,32,Arrived
+2026-10-06,BOM,flynas,Riyadh,XY 321,03:05,03:00,-5,Arrived
+2026-10-06,BOM,Lufthansa,Frankfurt-am-Main,LH 756,01:00,03:03,123,Arrived
+2026-10-06,BOM,IndiGo,Abu Dhabi,6E 1402,02:55,03:10,15,Arrived
+2026-10-06,BOM,IndiGo,Istanbul,6E 18,04:10,04:03,-7,Arrived
+2026-10-06,BOM,IndiGo,Dubai,6E 1456,00:35,04:05,210,Arrived
+2026-10-06,BOM,IndiGo,Chennai,6E 6140,04:45,04:09,-36,Arrived
+2026-10-06,BOM,Air India,Bangalore,AI 2858,04:10,04:12,2,Arrived
+2026-10-06,BOM,IndiGo,Ras Al Khaimah,6E 1492,04:15,04:14,-1,Arrived
+2026-10-06,BOM,IndiGo,Muscat,6E 1268,04:20,04:16,-4,Arrived
+2026-10-06,BOM,Air India,Doha,AI 2290,04:30,04:18,-12,Arrived
+2026-10-06,BOM,IndiGo,Hyderabad,6E 5143,04:35,04:20,-15,Arrived
+2026-10-06,BOM,SalamAir,Muscat,OV 761,04:35,04:22,-13,Arrived
