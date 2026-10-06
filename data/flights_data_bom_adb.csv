@@ -12337,3 +12337,26 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-06,BOM,Air India,Doha,AI 2290,04:30,04:18,-12,Arrived
 2026-10-06,BOM,IndiGo,Hyderabad,6E 5143,04:35,04:20,-15,Arrived
 2026-10-06,BOM,SalamAir,Muscat,OV 761,04:35,04:22,-13,Arrived
+2026-10-06,BOM,IndiGo,Chandigarh,6E 5264,07:40,07:11,-29,Arrived
+2026-10-06,BOM,British,London,BA 135,07:30,07:14,-16,Arrived
+2026-10-06,BOM,Starlight Airline,Kolkata,QP 1136,07:45,07:18,-27,Arrived
+2026-10-06,BOM,Air India,Chennai,AI 2828,08:15,07:21,-54,Arrived
+2026-10-06,BOM,Air India,Jaipur,AI 414,08:00,07:24,-36,Arrived
+2026-10-06,BOM,IndiGo,Jaipur,6E 5282,07:40,07:28,-12,Arrived
+2026-10-06,BOM,Starlight Airline,Bangalore,QP 1515,07:35,07:31,-4,Arrived
+2026-10-06,BOM,IndiGo,Hyderabad,6E 6196,07:55,07:37,-18,Arrived
+2026-10-06,BOM,Air India Express,Bhubaneswar,IX 1243,08:10,07:43,-27,Arrived
+2026-10-06,BOM,IndiGo,Vasco da Gama,6E 2175,08:05,07:46,-19,Arrived
+2026-10-06,BOM,IndiGo,New Delhi,6E 6218,08:20,07:47,-33,Arrived
+2026-10-06,BOM,IndiGo,Indore,6E 6184,08:20,07:50,-30,Arrived
+2026-10-06,BOM,Starlight Airline,Jeddah,QP 562,07:50,07:52,2,Arrived
+2026-10-06,BOM,IndiGo,Aurangabad,6E 6126,08:15,07:55,-20,Arrived
+2026-10-06,BOM,Air India,Vasco da Gama,AI 604,08:30,07:58,-32,Arrived
+2026-10-06,BOM,IndiGo,Bhubaneswar,6E 2189,08:35,08:00,-35,Arrived
+2026-10-06,BOM,IndiGo,Ad Dammam,6E 82,07:55,08:03,8,Arrived
+2026-10-06,BOM,Air India,Bangalore,AI 2402,08:35,08:05,-30,Arrived
+2026-10-06,BOM,IndiGo,Mopa,6E 6278,08:25,08:08,-17,Arrived
+2026-10-06,BOM,IndiGo,Doha,6E 1342,08:25,08:10,-15,Arrived
+2026-10-06,BOM,Kuwait,Kuwait City,KU 303,08:30,08:13,-17,Arrived
+2026-10-06,BOM,IndiGo,Chennai,6E 5314,08:45,08:15,-30,Arrived
+2026-10-06,BOM,Emirates,Dubai,EK 504,08:15,08:18,3,Arrived
