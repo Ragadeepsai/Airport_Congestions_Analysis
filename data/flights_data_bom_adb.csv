@@ -12413,3 +12413,18 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-07,BOM,IndiGo,Jodhpur,6E 6259,16:15,16:08,-7,Arrived
 2026-10-07,BOM,IndiGo,Kolkata,6E 5227,16:30,16:12,-18,Arrived
 2026-10-07,BOM,Air India,Jeddah,AI 2252,05:40,00:57,-283,Arrived
+2026-10-08,BOM,IndiGo,New Delhi,6E 322,01:45,01:57,12,Arrived
+2026-10-08,BOM,SriLankan,Colombo,UL 141,02:10,01:59,-11,Arrived
+2026-10-08,BOM,IndiGo,Ahmedabad,6E 6205,02:55,02:07,-48,Arrived
+2026-10-08,BOM,SpiceJet,New Delhi,SG 2802,01:10,02:14,64,Arrived
+2026-10-08,BOM,IndiGo,Bangalore,6E 5293,02:50,02:21,-29,Arrived
+2026-10-08,BOM,Emirates,Dubai,EK 500,02:25,02:32,7,Arrived
+2026-10-08,BOM,Air India,London,AI 128,02:50,02:35,-15,Arrived
+2026-10-08,BOM,Etihad,Abu Dhabi,EY 206,02:05,02:41,36,Arrived
+2026-10-07,BOM,SpiceJet,Najaf,SG 9601,21:15,02:43,328,Arrived
+2026-10-08,BOM,Air India Express,Coimbatore,IX 1796,00:40,02:46,126,Arrived
+2026-10-08,BOM,Alliance Air,Hyderabad,9I 925,03:10,02:49,-21,Arrived
+2026-10-08,BOM,AZAL Azerbaijan,Baku,J2 59,03:05,02:51,-14,Arrived
+2026-10-08,BOM,IndiGo,Doha,6E 1306,02:50,02:58,8,Arrived
+2026-10-08,BOM,Qatar,Doha,QR 556,02:40,03:00,20,Arrived
+2026-10-08,BOM,flynas,Riyadh,XY 321,03:05,03:07,2,Arrived
