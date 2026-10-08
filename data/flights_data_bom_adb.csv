@@ -12428,3 +12428,22 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-08,BOM,IndiGo,Doha,6E 1306,02:50,02:58,8,Arrived
 2026-10-08,BOM,Qatar,Doha,QR 556,02:40,03:00,20,Arrived
 2026-10-08,BOM,flynas,Riyadh,XY 321,03:05,03:07,2,Arrived
+2026-10-08,BOM,Air India,Hyderabad,AI 2445,16:25,15:54,-31,Arrived
+2026-10-08,BOM,Air India Express,Jamnagar,IX 1806,14:45,15:57,72,Arrived
+2026-10-08,BOM,IndiGo,Ranchi,6E 6088,16:10,16:00,-10,Arrived
+2026-10-08,BOM,Air India,Vasco da Gama,AI 2478,16:30,16:03,-27,Arrived
+2026-10-08,BOM,Air India,Ahmedabad,AI 2504,16:35,16:07,-28,Arrived
+2026-10-08,BOM,Alliance Air,Diu,9I 624,16:20,16:12,-8,Arrived
+2026-10-08,BOM,IndiGo,Allahabad,6E 6938,16:20,16:15,-5,Arrived
+2026-10-08,BOM,IndiGo,Bangalore,6E 5351,16:05,16:18,13,Arrived
+2026-10-08,BOM,IndiGo,Jodhpur,6E 6259,16:15,16:21,6,Arrived
+2026-10-08,BOM,IndiGo,Kolkata,6E 5227,16:30,16:24,-6,Arrived
+2026-10-08,BOM,Air India,Lucknow,AI 2492,16:40,16:26,-14,Arrived
+2026-10-08,BOM,Air India,Patna,AI 2790,16:50,16:32,-18,Arrived
+2026-10-08,BOM,Air India,New Delhi,AI 2441,16:35,16:34,-1,Arrived
+2026-10-08,BOM,Starlight Airline,Siliguri,QP 1132,17:10,16:36,-34,Arrived
+2026-10-08,BOM,Starlight Airline,Mopa,QP 1106,17:00,16:40,-20,Arrived
+2026-10-08,BOM,Starlight Airline,Phuket,QP 619,17:15,16:42,-33,Arrived
+2026-10-08,BOM,IndiGo,Srinagar,6E 5198,16:50,16:45,-5,Arrived
+2026-10-08,BOM,IndiGo,Raipur,6E 6110,16:35,16:47,12,Arrived
+2026-10-08,BOM,Starlight Airline,Darbhanga,QP 1140,16:20,16:49,29,Arrived
