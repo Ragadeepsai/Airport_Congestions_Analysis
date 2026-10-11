@@ -3678,3 +3678,25 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-11,MAA,Air India Express,Pune,IX2660,02:10,01:58,-12,Arrived
 2026-10-11,MAA,IndiGo,Doha International,6E1322,02:40,02:05,-35,Arrived
 2026-10-11,MAA,Kuwait Airways,Kuwait,KU0343,02:25,02:08,-17,Arrived
+2026-10-11,MAA,IndiGo,Pune,6E6745,02:35,02:15,-20,Arrived
+2026-10-11,MAA,Emirates,Dubai,EK0542,02:30,02:21,-9,Arrived
+2026-10-11,MAA,Qatar Airways,Doha International,QR0528,02:50,02:42,-8,Arrived
+2026-10-11,MAA,Etihad Airways,Abu Dhabi,EY0340,02:50,02:58,8,Arrived
+2026-10-11,MAA,British Airways,London Heathrow,BA0035,03:30,03:07,-23,Arrived
+2026-10-11,MAA,Air Arabia,Sharjah,G90471,03:25,03:42,17,Arrived
+2026-10-11,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0141,04:25,04:46,21,Arrived
+2026-10-11,MAA,IndiGo,Colombo,6E1172,05:05,04:51,-14,Arrived
+2026-10-11,MAA,IndiGo,Delhi,6E0933,05:45,05:27,-18,Arrived
+2026-10-11,MAA,IndiGo,Mumbai,6E0136,06:05,05:43,-22,Arrived
+2026-10-11,MAA,IndiGo,Singapore,6E1002,06:15,06:14,-1,Arrived
+2026-10-11,MAA,IndiGo,Coimbatore,6E0339,07:15,06:49,-26,Arrived
+2026-10-11,MAA,Akasa Air,Mumbai,QP1145,07:00,06:51,-9,Arrived
+2026-10-11,MAA,IndiGo,Kuala Lumpur,6E1032,06:55,06:57,2,Arrived
+2026-10-11,MAA,Oman Air,Muscat,WY0251,07:25,07:03,-22,Arrived
+2026-10-11,MAA,IndiGo,Kolkata,6E0344,07:20,07:07,-13,Arrived
+2026-10-11,MAA,IndiGo,Pune,6E0159,07:20,07:09,-11,Arrived
+2026-10-11,MAA,Airasia,Kuala Lumpur,AK0011,07:25,07:13,-12,Arrived
+2026-10-11,MAA,IndiGo,Mumbai,6E5188,08:20,07:37,-43,Arrived
+2026-10-11,MAA,IndiGo,Hyderabad,6E0243,08:25,07:56,-29,Arrived
+2026-10-11,MAA,Etihad Airways,Abu Dhabi,EY0342,08:25,08:00,-25,Arrived
+2026-10-11,MAA,IndiGo,Bengaluru,6E6269,08:15,08:06,-9,Arrived
