@@ -12511,3 +12511,22 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-11,BOM,IndiGo,Mopa,6E 5176,22:15,21:49,-26,Arrived
 2026-10-11,BOM,IndiGo,Naqpur,6E 5133,22:20,21:52,-28,Arrived
 2026-10-11,BOM,IndiGo,Bangalore,6E 5376,22:00,21:55,-5,Arrived
+2026-10-12,BOM,Air India Express,Mopa,IX 1209,00:05,00:43,38,Arrived
+2026-10-12,BOM,IndiGo,Hyderabad,6E 6363,01:00,00:45,-15,Arrived
+2026-10-12,BOM,Air India,New Delhi,AI 2439,01:25,00:50,-35,Arrived
+2026-10-12,BOM,Jazeera,Kuwait City,J9 401,01:35,00:53,-42,Arrived
+2026-10-12,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,00:56,-29,Arrived
+2026-10-12,BOM,IndiGo,Athens,6E 1904,00:45,01:00,15,Arrived
+2026-10-12,BOM,IndiGo,New Delhi,6E 322,01:45,01:09,-36,Arrived
+2026-10-12,BOM,IndiGo,Lucknow,6E 2058,02:15,01:13,-62,Arrived
+2026-10-12,BOM,Lufthansa,Frankfurt-am-Main,LH 756,01:00,01:15,15,Arrived
+2026-10-12,BOM,Ethiopian,Addis Ababa,ET 640,02:05,01:18,-47,Arrived
+2026-10-12,BOM,Starlight Airline,Kolkata,QP 1126,01:40,01:22,-18,Arrived
+2026-10-12,BOM,IndiGo,Phuket,6E 1312,01:50,01:24,-26,Arrived
+2026-10-12,BOM,Air India Express,Kochi,IX 1802,01:15,01:29,14,Arrived
+2026-10-12,BOM,Thai  International,Bangkok,TG 351,01:30,01:31,1,Arrived
+2026-10-12,BOM,Saudi Arabian,Jeddah,SV 772,00:50,01:34,44,Arrived
+2026-10-12,BOM,Kenya,Nairobi,KQ 202,01:30,01:36,6,Arrived
+2026-10-12,BOM,Air India Express,New Delhi,IX 1235,01:50,01:42,-8,Arrived
+2026-10-12,BOM,IndiGo,Bangkok,6E 1060,01:40,01:45,5,Arrived
+2026-10-12,BOM,Virgin Atlantic,London,VS 358,02:10,01:47,-23,Arrived
