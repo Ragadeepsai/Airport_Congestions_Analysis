@@ -12530,3 +12530,32 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-12,BOM,Air India Express,New Delhi,IX 1235,01:50,01:42,-8,Arrived
 2026-10-12,BOM,IndiGo,Bangkok,6E 1060,01:40,01:45,5,Arrived
 2026-10-12,BOM,Virgin Atlantic,London,VS 358,02:10,01:47,-23,Arrived
+2026-10-12,BOM,IndiGo,Naqpur,6E 5002,07:10,06:34,-36,Arrived
+2026-10-12,BOM,IndiGo,Chennai,6E 5093,06:55,06:36,-19,Arrived
+2026-10-12,BOM,Air Mauritius,Port Louis,MK 748,06:35,06:40,5,Arrived
+2026-10-12,BOM,Air India,Ahmedabad,AI 2918,07:45,06:52,-53,Arrived
+2026-10-12,BOM,IndiGo,Jeddah,6E 62,05:05,06:56,111,Arrived
+2026-10-12,BOM,IndiGo,Chandigarh,6E 5264,07:40,06:58,-42,Arrived
+2026-10-12,BOM,IndiGo,Indore,6E 5122,06:55,07:02,7,Arrived
+2026-10-12,BOM,Air India,New Delhi,AI 1745,07:25,07:05,-20,Arrived
+2026-10-12,BOM,Air India,Hyderabad,AI 2872,07:45,07:07,-38,Arrived
+2026-10-12,BOM,SpiceJet,Dubai,SG 9023,05:45,07:10,85,Arrived
+2026-10-12,BOM,British,London,BA 135,07:30,07:13,-17,Arrived
+2026-10-12,BOM,IndiGo,Bangalore,6E 5089,07:15,07:16,1,Arrived
+2026-10-12,BOM,Starlight Airline,Kolkata,QP 1136,07:45,07:19,-26,Arrived
+2026-10-12,BOM,IndiGo,Jaipur,6E 5282,07:40,07:24,-16,Arrived
+2026-10-12,BOM,Air India,Jaipur,AI 414,08:00,07:26,-34,Arrived
+2026-10-12,BOM,IndiGo,New Delhi,6E 449,07:15,07:29,14,Arrived
+2026-10-12,BOM,Starlight Airline,Bangalore,QP 1515,07:35,07:31,-4,Arrived
+2026-10-12,BOM,Air India,Chennai,AI 2828,08:15,07:34,-41,Arrived
+2026-10-12,BOM,Etihad,Abu Dhabi,EY 200,07:35,07:38,3,Arrived
+2026-10-12,BOM,IndiGo,Aurangabad,6E 6126,08:15,07:44,-31,Arrived
+2026-10-12,BOM,IndiGo,Indore,6E 6184,08:20,07:48,-32,Arrived
+2026-10-12,BOM,IndiGo,Hyderabad,6E 6196,07:55,07:50,-5,Arrived
+2026-10-12,BOM,IndiGo,Vasco da Gama,6E 2175,08:05,07:53,-12,Arrived
+2026-10-12,BOM,Air India Express,Bhubaneswar,IX 1243,08:20,07:55,-25,Arrived
+2026-10-12,BOM,IndiGo,Mopa,6E 6278,08:25,07:58,-27,Arrived
+2026-10-12,BOM,IndiGo,Bhubaneswar,6E 2189,08:35,08:00,-35,Arrived
+2026-10-12,BOM,IndiGo,Doha,6E 1342,08:25,08:05,-20,Arrived
+2026-10-12,BOM,Kuwait,Kuwait City,KU 303,08:30,08:09,-21,Arrived
+2026-10-12,BOM,Royal Jordanian,Amman,RJ 192,08:10,08:11,1,Arrived
