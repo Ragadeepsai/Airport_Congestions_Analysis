@@ -12559,3 +12559,18 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-12,BOM,IndiGo,Doha,6E 1342,08:25,08:05,-20,Arrived
 2026-10-12,BOM,Kuwait,Kuwait City,KU 303,08:30,08:09,-21,Arrived
 2026-10-12,BOM,Royal Jordanian,Amman,RJ 192,08:10,08:11,1,Arrived
+2026-10-12,BOM,Starlight Airline,Hanoi,QP 626,17:05,17:16,11,Arrived
+2026-10-12,BOM,IndiGo,Mangalore,6E 6523,17:40,17:18,-22,Arrived
+2026-10-12,BOM,Emirates,Dubai,EK 502,17:40,17:22,-18,Arrived
+2026-10-12,BOM,IndiGo,Bangkok,6E 1604,17:10,17:25,15,Arrived
+2026-10-12,BOM,ANA,Tokyo,NH 829,17:50,17:28,-22,Arrived
+2026-10-12,BOM,IndiGo,Vasco da Gama,6E 5231,17:50,17:31,-19,Arrived
+2026-10-12,BOM,IndiGo,Malé,6E 1132,17:30,17:34,4,Arrived
+2026-10-12,BOM,Air India,New Delhi,AI 2933,17:55,17:37,-18,Arrived
+2026-10-12,BOM,Air India,Dehradun,AI 432,17:25,17:40,15,Arrived
+2026-10-12,BOM,IndiGo,Kannur,6E 2012,18:10,17:43,-27,Arrived
+2026-10-12,BOM,IndiGo,Rajkot,6E 5271,17:25,17:46,21,Arrived
+2026-10-12,BOM,IndiGo,Bangalore,6E 5031,17:45,17:50,5,Arrived
+2026-10-12,BOM,IndiGo,Lucknow,6E 708,18:30,18:06,-24,Arrived
+2026-10-12,BOM,Air India,Vasco da Gama,AI 2746,18:55,18:24,-31,Arrived
+2026-10-12,BOM,Air India,Colombo,AI 2275,18:45,18:26,-19,Arrived
