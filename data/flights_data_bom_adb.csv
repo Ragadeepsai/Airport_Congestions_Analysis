@@ -12574,3 +12574,27 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-12,BOM,IndiGo,Lucknow,6E 708,18:30,18:06,-24,Arrived
 2026-10-12,BOM,Air India,Vasco da Gama,AI 2746,18:55,18:24,-31,Arrived
 2026-10-12,BOM,Air India,Colombo,AI 2275,18:45,18:26,-19,Arrived
+2026-10-13,BOM,IndiGo,Mangalore,6E 674,17:05,16:35,-30,Arrived
+2026-10-13,BOM,Starlight Airline,Phuket,QP 619,17:05,16:38,-27,Arrived
+2026-10-13,BOM,Starlight Airline,Darbhanga,QP 1140,16:20,16:40,20,Arrived
+2026-10-13,BOM,Air India,Patna,AI 2790,16:50,16:46,-4,Arrived
+2026-10-13,BOM,IndiGo,Allahabad,6E 6938,16:20,16:48,28,Arrived
+2026-10-13,BOM,Starlight Airline,Mopa,QP 1106,17:00,16:51,-9,Arrived
+2026-10-13,BOM,IndiGo,New Delhi,6E 6318,17:00,16:59,-1,Arrived
+2026-10-13,BOM,Air India Express,Varanasi,IX 2547,16:45,17:03,18,Arrived
+2026-10-13,BOM,IndiGo,Srinagar,6E 5198,16:45,17:06,21,Arrived
+2026-10-13,BOM,IndiGo,Jammu,6E 5155,17:15,17:11,-4,Arrived
+2026-10-13,BOM,Air India,Port Louis,AI 2242,17:20,17:15,-5,Arrived
+2026-10-13,BOM,Air India,Dehradun,AI 432,17:25,17:17,-8,Arrived
+2026-10-13,BOM,IndiGo,Malé,6E 1132,17:30,17:20,-10,Arrived
+2026-10-13,BOM,Air India,Bhuj,AI 2754,17:35,17:22,-13,Arrived
+2026-10-13,BOM,IndiGo,Rajkot,6E 5271,17:25,17:24,-1,Arrived
+2026-10-13,BOM,IndiGo,Vasco da Gama,6E 5231,17:50,17:27,-23,Arrived
+2026-10-13,BOM,IndiGo,New Delhi,6E 864,17:45,17:31,-14,Arrived
+2026-10-13,BOM,Starlight Airline,Allahabad,QP 1124,18:20,17:38,-42,Arrived
+2026-10-13,BOM,IndiGo,Bangalore,6E 5031,17:45,17:40,-5,Arrived
+2026-10-13,BOM,Emirates,Dubai,EK 502,17:40,17:43,3,Arrived
+2026-10-13,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:30,0,Arrived
+2026-10-13,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
+2026-10-13,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:50,0,Arrived
+2026-10-13,BOM,Air India,Dubai,AI 4218,23:55,23:55,0,Arrived
