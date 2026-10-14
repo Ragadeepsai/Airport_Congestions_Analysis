@@ -12598,3 +12598,23 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-13,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
 2026-10-13,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:50,0,Arrived
 2026-10-13,BOM,Air India,Dubai,AI 4218,23:55,23:55,0,Arrived
+2026-10-14,BOM,IndiGo,Hyderabad,6E 5245,06:25,06:03,-22,Arrived
+2026-10-14,BOM,flydubai,Dubai,FZ 445,04:20,06:13,113,Arrived
+2026-10-14,BOM,Air Mauritius,Port Louis,MK 748,06:35,06:17,-18,Arrived
+2026-10-14,BOM,Starlight Airline,Bangalore,QP 1517,06:50,06:25,-25,Arrived
+2026-10-14,BOM,IndiGo,Naqpur,6E 5002,07:10,06:32,-38,Arrived
+2026-10-14,BOM,Air Tanzania,Dar es Salaam,TC 400,04:40,06:34,114,Arrived
+2026-10-14,BOM,IndiGo,Chennai,6E 5093,06:55,06:37,-18,Arrived
+2026-10-14,BOM,IndiGo,New Delhi,6E 449,07:15,06:41,-34,Arrived
+2026-10-14,BOM,IndiGo,Indore,6E 5122,06:55,06:44,-11,Arrived
+2026-10-14,BOM,Air India,New Delhi,AI 1745,07:25,06:48,-37,Arrived
+2026-10-14,BOM,IndiGo,Bangalore,6E 5089,07:15,06:52,-23,Arrived
+2026-10-14,BOM,Air India,Ahmedabad,AI 2918,07:45,06:55,-50,Arrived
+2026-10-14,BOM,IndiGo,Chandigarh,6E 5264,07:40,07:03,-37,Arrived
+2026-10-14,BOM,Air India,Hyderabad,AI 2872,07:45,07:11,-34,Arrived
+2026-10-14,BOM,Starlight Airline,Bangalore,QP 1515,07:35,07:14,-21,Arrived
+2026-10-14,BOM,IndiGo,Jaipur,6E 5282,07:40,07:17,-23,Arrived
+2026-10-14,BOM,Air India,Chennai,AI 2828,08:15,07:20,-55,Arrived
+2026-10-14,BOM,Air India,Jaipur,AI 414,08:00,07:24,-36,Arrived
+2026-10-14,BOM,Starlight Airline,Kolkata,QP 1136,07:45,07:39,-6,Arrived
+2026-10-14,BOM,SpiceJet,Dubai,SG 5023,08:45,08:45,0,Arrived

@@ -4218,3 +4218,20 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-14,MAA,Etihad Airways,Abu Dhabi,EY0340,02:50,02:58,8,Arrived
 2026-10-14,MAA,Air Arabia,Sharjah,G90471,02:55,03:02,7,Arrived
 2026-10-14,MAA,British Airways,London Heathrow,BA0035,03:30,03:09,-21,Arrived
+2026-10-14,MAA,IndiGo,Colombo,6E1172,05:05,04:39,-26,Arrived
+2026-10-14,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0141,04:25,04:56,31,Arrived
+2026-10-14,MAA,IndiGo,Delhi,6E0933,05:45,05:26,-19,Arrived
+2026-10-14,MAA,IndiGo,Mumbai,6E0136,06:05,05:30,-35,Arrived
+2026-10-14,MAA,IndiGo,Singapore,6E1002,06:15,06:13,-2,Arrived
+2026-10-14,MAA,Gulf Air,Bahrain,GF0068,05:20,06:26,66,Arrived
+2026-10-14,MAA,IndiGo,Coimbatore,6E0339,07:15,06:49,-26,Arrived
+2026-10-14,MAA,Akasa Air,Mumbai,QP1145,07:00,06:53,-7,Arrived
+2026-10-14,MAA,Oman Air,Muscat,WY0251,07:25,06:56,-29,Arrived
+2026-10-14,MAA,IndiGo,Kuala Lumpur,6E1032,06:55,06:59,4,Arrived
+2026-10-14,MAA,IndiGo,Kolkata,6E0344,07:20,07:05,-15,Arrived
+2026-10-14,MAA,IndiGo,Pune,6E0159,07:20,07:08,-12,Arrived
+2026-10-14,MAA,Airasia,Kuala Lumpur,AK0011,07:25,07:12,-13,Arrived
+2026-10-14,MAA,IndiGo,Mumbai,6E5188,08:20,07:41,-39,Arrived
+2026-10-14,MAA,Air India Express,Bengaluru,IX1472,08:10,07:51,-19,Arrived
+2026-10-14,MAA,Emirates,Dubai,EK0544,08:05,07:53,-12,Arrived
+2026-10-14,MAA,Etihad Airways,Abu Dhabi,EY0342,08:25,08:00,-25,Arrived
