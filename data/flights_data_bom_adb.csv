@@ -12641,8 +12641,39 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-14,BOM,Air India,Amritsar,AI 2998,16:05,15:38,-27,Arrived
 2026-10-14,BOM,IndiGo,Bangalore,6E 5351,16:05,15:50,-15,Arrived
 2026-10-14,BOM,IndiGo,Hyderabad,6E 5099,15:55,15:53,-2,Arrived
+2026-10-14,BOM,IndiGo,Bhopal,6E 5132,19:35,19:36,1,Arrived
+2026-10-14,BOM,Air India Express,Jaipur,IX 1218,19:15,19:39,24,Arrived
+2026-10-14,BOM,Etihad,Abu Dhabi,EY 204,19:05,19:41,36,Arrived
+2026-10-14,BOM,Air India,Bangalore,AI 2854,20:05,19:46,-19,Arrived
+2026-10-14,BOM,IndiGo,Gorakhpur,6E 6951,19:35,19:48,13,Arrived
+2026-10-14,BOM,Air India Express,Jodhpur,IX 1804,19:20,19:50,30,Arrived
+2026-10-14,BOM,IndiGo,Chennai,6E 5367,20:15,19:52,-23,Arrived
+2026-10-14,BOM,IndiGo,Srinagar,6E 215,18:55,19:57,62,Arrived
+2026-10-14,BOM,Starlight Airline,Kolkata,QP 1253,20:00,19:59,-1,Arrived
+2026-10-14,BOM,Starlight Airline,New Delhi,QP 1820,19:50,20:02,12,Arrived
+2026-10-14,BOM,Air India,Gannavaram,AI 599,20:10,20:05,-5,Arrived
+2026-10-14,BOM,Air India,Chandigarh,AI 2660,20:30,20:07,-23,Arrived
+2026-10-14,BOM,IndiGo,Coimbatore,6E 697,20:15,20:10,-5,Arrived
+2026-10-14,BOM,IndiGo,Chandigarh,6E 5234,19:35,20:12,37,Arrived
+2026-10-14,BOM,IndiGo,Calicut,6E 6932,20:25,20:15,-10,Arrived
+2026-10-14,BOM,IndiGo,Naqpur,6E 5175,20:30,20:18,-12,Arrived
+2026-10-14,BOM,IndiGo,New Delhi,6E 329,20:15,20:20,5,Arrived
+2026-10-14,BOM,Air India,Kolkata,AI 2774,20:50,20:23,-27,Arrived
+2026-10-14,BOM,Air India,Bangalore,AI 2610,21:05,20:24,-41,Arrived
+2026-10-14,BOM,Air India Express,New Delhi,IX 1056,20:10,20:27,17,Arrived
+2026-10-14,BOM,Gulf Air,Manama,GF 64,20:55,20:29,-26,Arrived
+2026-10-14,BOM,Emirates,Dubai,EK 508,20:45,20:31,-14,Arrived
+2026-10-14,BOM,IndiGo,Bangalore,6E 6283,20:40,20:38,-2,Arrived
+2026-10-14,BOM,IndiGo,Hyderabad,6E 5039,20:30,20:42,12,Arrived
+2026-10-14,BOM,IndiGo,Udaipur,6E 5327,21:20,20:47,-33,Arrived
+2026-10-14,BOM,Air India,New Delhi,AI 2955,20:25,20:50,25,Arrived
+2026-10-14,BOM,IndiGo,Hubli,6E 5083,21:20,20:52,-28,Arrived
+2026-10-14,BOM,IndiGo,Ahmedabad,6E 5160,21:05,20:56,-9,Arrived
+2026-10-14,BOM,Air Arabia,Sharjah,G9 401,21:15,20:59,-16,Arrived
+2026-10-14,BOM,Air India,New Delhi,AI 2977,21:25,21:03,-22,Arrived
+2026-10-14,BOM,Air India,Jaipur,AI 622,21:35,21:06,-29,Arrived
 2026-10-14,BOM,IndiGo,Mangalore,6E 5310,22:50,22:50,0,Arrived
-2026-10-14,BOM,Air France,Paris,AF 218,23:20,23:20,0,Arrived
+2026-10-14,BOM,Air France,Paris,AF 218,23:20,23:23,3,Arrived
 2026-10-14,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:30,0,Arrived
+2026-10-14,BOM,Lufthansa,Munich,LH 766,23:50,23:41,-9,Arrived
 2026-10-14,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:50,0,Arrived
-2026-10-14,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
