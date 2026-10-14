@@ -12618,3 +12618,31 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-14,BOM,Air India,Jaipur,AI 414,08:00,07:24,-36,Arrived
 2026-10-14,BOM,Starlight Airline,Kolkata,QP 1136,07:45,07:39,-6,Arrived
 2026-10-14,BOM,SpiceJet,Dubai,SG 5023,08:45,08:45,0,Arrived
+2026-10-14,BOM,IndiGo,Kolkata,6E 5288,14:35,14:20,-15,Arrived
+2026-10-14,BOM,IndiGo,Siliguri,6E 5275,14:20,14:23,3,Arrived
+2026-10-14,BOM,IndiGo,Chennai,6E 5258,14:45,14:26,-19,Arrived
+2026-10-14,BOM,Air India,Kochi,AI 2856,15:00,14:29,-31,Arrived
+2026-10-14,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,14:32,2,Arrived
+2026-10-14,BOM,IndiGo,Bangalore,6E 5218,14:50,14:35,-15,Arrived
+2026-10-14,BOM,Air India,Udaipur,AI 2580,14:20,14:37,17,Arrived
+2026-10-14,BOM,Air India,Vasco da Gama,AI 2842,15:00,14:41,-19,Arrived
+2026-10-14,BOM,Starlight Airline,Siliguri,QP 1144,15:15,14:47,-28,Arrived
+2026-10-14,BOM,IndiGo,Patna,6E 2025,15:15,14:52,-23,Arrived
+2026-10-14,BOM,IndiGo,Nairobi,6E 1854,15:30,14:55,-35,Arrived
+2026-10-14,BOM,IndiGo,New Delhi,6E 324,15:10,14:58,-12,Arrived
+2026-10-14,BOM,IndiGo,Dubai,6E 1452,15:30,15:03,-27,Arrived
+2026-10-14,BOM,Air India,Jaipur,AI 2782,15:40,15:06,-34,Arrived
+2026-10-14,BOM,IndiGo,Phuket,6E 1072,15:25,15:09,-16,Arrived
+2026-10-14,BOM,Air India,New Delhi,AI 2951,15:50,15:25,-25,Arrived
+2026-10-14,BOM,IndiGo,Rajkot,6E 2283,14:55,15:28,33,Arrived
+2026-10-14,BOM,Starlight Airline,Chennai,QP 1146,15:40,15:30,-10,Arrived
+2026-10-14,BOM,Air India,Hyderabad,AI 2445,16:25,15:32,-53,Arrived
+2026-10-14,BOM,IndiGo,Darbhanga,6E 536,16:15,15:35,-40,Arrived
+2026-10-14,BOM,Air India,Amritsar,AI 2998,16:05,15:38,-27,Arrived
+2026-10-14,BOM,IndiGo,Bangalore,6E 5351,16:05,15:50,-15,Arrived
+2026-10-14,BOM,IndiGo,Hyderabad,6E 5099,15:55,15:53,-2,Arrived
+2026-10-14,BOM,IndiGo,Mangalore,6E 5310,22:50,22:50,0,Arrived
+2026-10-14,BOM,Air France,Paris,AF 218,23:20,23:20,0,Arrived
+2026-10-14,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:30,0,Arrived
+2026-10-14,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:50,0,Arrived
+2026-10-14,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
