@@ -4637,3 +4637,26 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-18,MAA,IndiGo,Pune,6E0238,00:35,00:39,4,Arrived
 2026-10-18,MAA,Air India,Mumbai,AI0639,01:05,00:43,-22,Arrived
 2026-10-18,MAA,IndiGo,Mumbai,6E6137,01:05,01:12,7,Arrived
+2026-10-18,MAA,IndiGo,Delhi,6E6061,01:50,01:41,-9,Arrived
+2026-10-18,MAA,IndiGo,Doha International,6E1322,02:40,02:00,-40,Arrived
+2026-10-18,MAA,Kuwait Airways,Kuwait,KU0343,02:25,02:03,-22,Arrived
+2026-10-18,MAA,Air India Express,Pune,IX2660,02:10,02:06,-4,Arrived
+2026-10-18,MAA,Emirates,Dubai,EK0542,02:30,02:29,-1,Arrived
+2026-10-18,MAA,Etihad Airways,Abu Dhabi,EY0340,02:50,02:57,7,Arrived
+2026-10-18,MAA,IndiGo,Pune,6E6745,02:35,03:02,27,Arrived
+2026-10-17,MAA,IndiGo,Kolkata,6E0263,22:35,03:05,270,Arrived
+2026-10-18,MAA,Air Arabia,Sharjah,G90471,03:05,03:05,0,Arrived
+2026-10-18,MAA,Qatar Airways,Doha International,QR0528,02:50,03:07,17,Arrived
+2026-10-18,MAA,British Airways,London Heathrow,BA0035,03:30,03:26,-4,Arrived
+2026-10-18,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0141,04:25,04:52,27,Arrived
+2026-10-18,MAA,IndiGo,Colombo,6E1172,05:05,05:13,8,Arrived
+2026-10-18,MAA,IndiGo,Delhi,6E0933,05:45,05:24,-21,Arrived
+2026-10-18,MAA,IndiGo,Mumbai,6E0136,06:05,05:45,-20,Arrived
+2026-10-18,MAA,IndiGo,Singapore,6E1002,06:15,06:22,7,Arrived
+2026-10-18,MAA,Akasa Air,Mumbai,QP1145,07:00,06:43,-17,Arrived
+2026-10-18,MAA,IndiGo,Coimbatore,6E0339,07:15,06:49,-26,Arrived
+2026-10-18,MAA,Oman Air,Muscat,WY0251,07:25,06:56,-29,Arrived
+2026-10-18,MAA,IndiGo,Pune,6E0159,07:20,07:01,-19,Arrived
+2026-10-18,MAA,IndiGo,Kuala Lumpur,6E1032,06:55,07:05,10,Arrived
+2026-10-18,MAA,IndiGo,Kolkata,6E0344,07:20,07:10,-10,Arrived
+2026-10-18,MAA,Airasia,Kuala Lumpur,AK0011,07:25,07:15,-10,Arrived
