@@ -12858,10 +12858,21 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-18,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:38,-7,Arrived
 2026-10-18,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,00:40,20,Arrived
 2026-10-17,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,01:56,126,Arrived
-2026-10-18,BOM,SpiceJet,Kolkata,SG 487,20:05,20:05,0,Arrived
+2026-10-18,BOM,Air India,Colombo,AI 2275,18:45,18:31,-14,Arrived
+2026-10-18,BOM,IndiGo,New Delhi,6E 327,18:35,18:34,-1,Arrived
+2026-10-18,BOM,Air India,Chennai,AI 640,19:10,18:36,-34,Arrived
+2026-10-18,BOM,IndiGo,Lucknow,6E 708,18:30,18:38,8,Arrived
+2026-10-18,BOM,IndiGo,Srinagar,6E 215,18:55,18:41,-14,Arrived
+2026-10-18,BOM,Air India,Ahmedabad,AI 2916,19:40,18:43,-57,Arrived
+2026-10-18,BOM,Air India,Hyderabad,AI 2447,19:25,18:45,-40,Arrived
+2026-10-18,BOM,Air India,Vasco da Gama,AI 2746,18:55,18:48,-7,Arrived
+2026-10-18,BOM,IndiGo,Chennai,6E 5104,18:40,18:50,10,Arrived
+2026-10-18,BOM,IndiGo,Gannavaram,6E 5124,18:55,18:53,-2,Arrived
+2026-10-18,BOM,Air India Express,Jaipur,IX 1218,19:15,18:56,-19,Arrived
 2026-10-18,BOM,Malindo Air,Kuala Lumpur,OD 215,22:25,22:25,0,Arrived
-2026-10-18,BOM,VietJetAir,Ho Chi Minh City,VJ 883,23:15,23:15,0,Arrived
-2026-10-18,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:30,0,Arrived
-2026-10-18,BOM,British,London,BA 139,23:40,23:40,0,Arrived
-2026-10-18,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
-2026-10-18,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:50,0,Arrived
+2026-10-18,BOM,VietJetAir,Ho Chi Minh City,VJ 883,23:15,22:49,-26,Arrived
+2026-10-18,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,22:56,-54,Arrived
+2026-10-18,BOM,British,London,BA 139,23:40,23:10,-30,Arrived
+2026-10-18,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:26,-4,Arrived
+2026-10-18,BOM,SpiceJet,Kolkata,SG 487,20:05,23:32,207,Arrived
+2026-10-18,BOM,Lufthansa,Munich,LH 766,23:50,23:32,-18,Arrived
