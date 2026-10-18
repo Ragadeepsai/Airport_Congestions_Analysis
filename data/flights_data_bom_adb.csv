@@ -12858,3 +12858,10 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-18,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:38,-7,Arrived
 2026-10-18,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,00:40,20,Arrived
 2026-10-17,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,01:56,126,Arrived
+2026-10-18,BOM,SpiceJet,Kolkata,SG 487,20:05,20:05,0,Arrived
+2026-10-18,BOM,Malindo Air,Kuala Lumpur,OD 215,22:25,22:25,0,Arrived
+2026-10-18,BOM,VietJetAir,Ho Chi Minh City,VJ 883,23:15,23:15,0,Arrived
+2026-10-18,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:30,0,Arrived
+2026-10-18,BOM,British,London,BA 139,23:40,23:40,0,Arrived
+2026-10-18,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
+2026-10-18,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:50,0,Arrived
