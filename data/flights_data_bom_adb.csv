@@ -12914,3 +12914,15 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-19,BOM,Air Mauritius,Port Louis,MK 748,06:35,06:04,-31,Arrived
 2026-10-19,BOM,Air Tanzania,Dar es Salaam,TC 400,04:40,06:12,92,Arrived
 2026-10-19,BOM,Starlight Airline,Bangalore,QP 1517,06:50,06:17,-33,Arrived
+2026-10-19,BOM,Air India,Tokyo,AI 355,15:45,14:57,-48,Arrived
+2026-10-19,BOM,Air India,Vasco da Gama,AI 2842,15:00,15:01,1,Arrived
+2026-10-19,BOM,Starlight Airline,Udaipur,QP 1156,15:10,15:03,-7,Arrived
+2026-10-19,BOM,Starlight Airline,Siliguri,QP 1144,15:15,15:06,-9,Arrived
+2026-10-19,BOM,IndiGo,New Delhi,6E 324,15:10,15:10,0,Arrived
+2026-10-19,BOM,IndiGo,Rajkot,6E 2283,14:55,15:32,37,Arrived
+2026-10-19,BOM,IndiGo,Phuket,6E 1072,15:25,15:35,10,Arrived
+2026-10-19,BOM,SpiceJet,Kolkata,SG 487,20:05,20:52,47,Arrived
+2026-10-19,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:30,0,Arrived
+2026-10-19,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
+2026-10-19,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:50,0,Arrived
+2026-10-19,BOM,SpiceJet,Bangalore,SG 269,23:55,01:36,101,Arrived
