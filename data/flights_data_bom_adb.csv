@@ -12910,3 +12910,7 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-19,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,00:58,-27,Arrived
 2026-10-19,BOM,IndiGo,Hyderabad,6E 6363,01:00,01:02,2,Arrived
 2026-10-18,BOM,SpiceJet,Kolkata,SG 487,20:05,01:50,345,Arrived
+2026-10-19,BOM,IndiGo,Hyderabad,6E 5245,06:25,05:58,-27,Arrived
+2026-10-19,BOM,Air Mauritius,Port Louis,MK 748,06:35,06:04,-31,Arrived
+2026-10-19,BOM,Air Tanzania,Dar es Salaam,TC 400,04:40,06:12,92,Arrived
+2026-10-19,BOM,Starlight Airline,Bangalore,QP 1517,06:50,06:17,-33,Arrived
