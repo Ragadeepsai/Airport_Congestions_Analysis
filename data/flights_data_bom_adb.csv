@@ -12976,5 +12976,30 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-20,BOM,IndiGo,Bangalore,6E 5218,14:50,14:29,-21,Arrived
 2026-10-20,BOM,IndiGo,Patna,6E 2025,15:15,14:34,-41,Arrived
 2026-10-20,BOM,Air India,Tokyo,AI 355,16:00,14:41,-79,Arrived
-2026-10-20,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:30,0,Arrived
-2026-10-20,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
+2026-10-20,BOM,Air India,Bangalore,AI 2854,20:05,19:28,-37,Arrived
+2026-10-20,BOM,IndiGo,Vasco da Gama,6E 5242,19:55,19:31,-24,Arrived
+2026-10-20,BOM,Starlight Airline,New Delhi,QP 1820,19:50,19:33,-17,Arrived
+2026-10-20,BOM,Starlight Airline,Abu Dhabi,QP 585,19:45,19:36,-9,Arrived
+2026-10-20,BOM,Starlight Airline,Kolkata,QP 1253,20:00,19:41,-19,Arrived
+2026-10-20,BOM,Air India,Gannavaram,AI 599,20:10,19:46,-24,Arrived
+2026-10-20,BOM,IndiGo,Gorakhpur,6E 6951,19:35,19:49,14,Arrived
+2026-10-20,BOM,SriLankan,Colombo,UL 143,19:50,19:52,2,Arrived
+2026-10-20,BOM,Air India,Chandigarh,AI 2660,20:30,19:54,-36,Arrived
+2026-10-20,BOM,Air India Express,New Delhi,IX 1056,20:10,19:57,-13,Arrived
+2026-10-20,BOM,IndiGo,Chennai,6E 5367,20:15,19:59,-16,Arrived
+2026-10-20,BOM,IndiGo,New Delhi,6E 329,20:15,20:02,-13,Arrived
+2026-10-20,BOM,Air India,Kolkata,AI 2774,20:50,20:09,-41,Arrived
+2026-10-20,BOM,IndiGo,Calicut,6E 6932,20:25,20:13,-12,Arrived
+2026-10-20,BOM,Emirates,Dubai,EK 508,20:45,20:15,-30,Arrived
+2026-10-20,BOM,IndiGo,Coimbatore,6E 697,20:15,20:18,3,Arrived
+2026-10-20,BOM,Air India,Bangalore,AI 2610,21:05,20:21,-44,Arrived
+2026-10-20,BOM,Air India Express,Vasco da Gama,IX 1241,19:55,20:24,29,Arrived
+2026-10-20,BOM,IndiGo,Bangalore,6E 6283,20:40,20:27,-13,Arrived
+2026-10-20,BOM,IndiGo,Naqpur,6E 5175,20:30,20:29,-1,Arrived
+2026-10-20,BOM,IndiGo,Hyderabad,6E 5039,20:30,20:33,3,Arrived
+2026-10-20,BOM,Air Arabia,Sharjah,G9 401,21:15,20:43,-32,Arrived
+2026-10-20,BOM,IndiGo,New Delhi,6E 354,21:25,20:48,-37,Arrived
+2026-10-20,BOM,IndiGo,Rajkot,6E 2104,20:50,20:51,1,Arrived
+2026-10-20,BOM,IndiGo,Udaipur,6E 5327,21:20,20:54,-26,Arrived
+2026-10-20,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:10,-20,Arrived
+2026-10-20,BOM,Lufthansa,Munich,LH 766,23:50,23:41,-9,Arrived
