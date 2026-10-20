@@ -12958,3 +12958,9 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-19,BOM,Lufthansa,Munich,LH 766,23:50,23:42,-8,Arrived
 2026-10-19,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:53,23,Arrived
 2026-10-19,BOM,SpiceJet,Bangalore,SG 269,23:55,01:30,95,Arrived
+2026-10-20,BOM,IndiGo,Hyderabad,6E 5245,06:25,05:58,-27,Arrived
+2026-10-20,BOM,Air Tanzania,Dar es Salaam,TC 400,04:40,06:04,84,Arrived
+2026-10-20,BOM,Starlight Airline,Bangalore,QP 1517,06:50,06:27,-23,Arrived
+2026-10-20,BOM,IndiGo,Naqpur,6E 5002,07:10,06:35,-35,Arrived
+2026-10-20,BOM,Air India,Hyderabad,AI 2872,07:45,06:51,-54,Arrived
+2026-10-20,BOM,IndiGo,New Delhi,6E 449,07:15,06:54,-21,Arrived
