@@ -12964,3 +12964,17 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-20,BOM,IndiGo,Naqpur,6E 5002,07:10,06:35,-35,Arrived
 2026-10-20,BOM,Air India,Hyderabad,AI 2872,07:45,06:51,-54,Arrived
 2026-10-20,BOM,IndiGo,New Delhi,6E 449,07:15,06:54,-21,Arrived
+2026-10-20,BOM,IndiGo,Siliguri,6E 5275,14:20,14:03,-17,Arrived
+2026-10-20,BOM,Air India,Dhaka,AI 2184,14:35,14:06,-29,Arrived
+2026-10-20,BOM,IndiGo,New Delhi,6E 6676,14:15,14:08,-7,Arrived
+2026-10-20,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,14:09,-21,Arrived
+2026-10-20,BOM,Air India Express,Jamnagar,IX 1806,14:45,14:14,-31,Arrived
+2026-10-20,BOM,Air India,Vasco da Gama,AI 2842,15:00,14:16,-44,Arrived
+2026-10-20,BOM,IndiGo,Hyderabad,6E 5384,14:25,14:18,-7,Arrived
+2026-10-20,BOM,Air India,Kochi,AI 2856,15:00,14:21,-39,Arrived
+2026-10-20,BOM,IndiGo,Chennai,6E 5258,14:45,14:26,-19,Arrived
+2026-10-20,BOM,IndiGo,Bangalore,6E 5218,14:50,14:29,-21,Arrived
+2026-10-20,BOM,IndiGo,Patna,6E 2025,15:15,14:34,-41,Arrived
+2026-10-20,BOM,Air India,Tokyo,AI 355,16:00,14:41,-79,Arrived
+2026-10-20,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:30,0,Arrived
+2026-10-20,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
