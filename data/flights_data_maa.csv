@@ -5127,3 +5127,39 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-20,MAA,IndiGo,Bengaluru,6E6077,21:25,21:21,-4,Arrived
 2026-10-20,MAA,IndiGo,Bhubaneswar,6E0145,21:30,21:24,-6,Arrived
 2026-10-20,MAA,IndiGo,Mumbai,6E5105,21:30,21:27,-3,Arrived
+2026-10-20,MAA,IndiGo,Thoothukudi,6E7606,21:45,21:30,-15,Arrived
+2026-10-20,MAA,IndiGo,Raipur,6E2002,21:50,21:34,-16,Arrived
+2026-10-20,MAA,IndiGo,Ranchi,6E0209,21:50,21:37,-13,Arrived
+2026-10-20,MAA,IndiGo,Lucknow,6E0518,21:45,21:41,-4,Arrived
+2026-10-20,MAA,Singapore Airlines,Singapore,SQ0528,22:00,21:52,-8,Arrived
+2026-10-20,MAA,Air India,Delhi,AI2835,22:20,22:14,-6,Arrived
+2026-10-20,MAA,IndiGo,Chandigarh,6E0971,22:25,22:20,-5,Arrived
+2026-10-20,MAA,IndiGo,Kolkata,6E0263,22:35,22:25,-10,Arrived
+2026-10-20,MAA,Air India,Mumbai,AI2827,22:35,22:28,-7,Arrived
+2026-10-20,MAA,Malaysia Airlines,Kuala Lumpur,MH0180,22:50,22:39,-11,Arrived
+2026-10-20,MAA,IndiGo,Bengaluru,6E6562,22:55,22:44,-11,Arrived
+2026-10-20,MAA,Royal Brunei Airlines,Brunei,BI0121,22:50,22:48,-2,Arrived
+2026-10-20,MAA,Airasia,Kuala Lumpur,AK0013,23:05,22:52,-13,Arrived
+2026-10-20,MAA,IndiGo,Mumbai,6E5291,23:05,22:55,-10,Arrived
+2026-10-20,MAA,Thai Airasia,Don Muang International Bangkok,FD0153,23:00,22:58,-2,Arrived
+2026-10-20,MAA,Air India Express,Bengaluru,IX2787,23:20,23:01,-19,Arrived
+2026-10-20,MAA,IndiGo,Coimbatore,6E6315,22:45,23:06,21,Arrived
+2026-10-20,MAA,IndiGo,Kolkata,6E0723,23:30,23:11,-19,Arrived
+2026-10-20,MAA,IndiGo,Delhi,6E6341,23:20,23:47,27,Arrived
+2026-10-20,MAA,IndiGo,Hyderabad,6E6617,23:50,23:49,-1,Arrived
+2026-10-20,MAA,IndiGo,Hyderabad,6E6174,22:05,23:54,109,Arrived
+2026-10-20,MAA,Thai Airways,Bangkok,TG0337,23:45,23:57,12,Arrived
+2026-10-20,MAA,Cathay Pacific Airways,Hong Kong International,CX0651,23:35,00:02,27,Arrived
+2026-10-20,MAA,IndiGo,Trivandrum,6E6959,22:20,00:05,105,Arrived
+2026-10-20,MAA,IndiGo,Singapore,6E1344,23:55,00:08,13,Arrived
+2026-10-21,MAA,IndiGo,Ahmedabad,6E0348,00:05,00:21,16,Arrived
+2026-10-21,MAA,IndiGo,Pune,6E0238,00:35,00:36,1,Arrived
+2026-10-21,MAA,Air India,Delhi,AI2895,00:40,00:40,0,Arrived
+2026-10-21,MAA,IndiGo,Mumbai,6E6137,01:05,00:47,-18,Arrived
+2026-10-21,MAA,Air India,Mumbai,AI0639,01:05,00:58,-7,Arrived
+2026-10-21,MAA,IndiGo,Delhi,6E6061,01:50,01:25,-25,Arrived
+2026-10-21,MAA,Kuwait Airways,Kuwait,KU0343,02:25,01:50,-35,Arrived
+2026-10-21,MAA,IndiGo,Doha International,6E1322,02:40,01:55,-45,Arrived
+2026-10-21,MAA,Air India Express,Pune,IX2660,02:10,02:09,-1,Arrived
+2026-10-21,MAA,IndiGo,Pune,6E6745,02:35,02:16,-19,Arrived
+2026-10-21,MAA,Emirates,Dubai,EK0542,02:30,02:25,-5,Arrived

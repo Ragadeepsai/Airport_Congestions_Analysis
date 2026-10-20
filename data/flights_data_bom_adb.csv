@@ -13003,3 +13003,30 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-20,BOM,IndiGo,Udaipur,6E 5327,21:20,20:54,-26,Arrived
 2026-10-20,BOM,IndiGo,Hyderabad,6E 5203,23:30,23:10,-20,Arrived
 2026-10-20,BOM,Lufthansa,Munich,LH 766,23:50,23:41,-9,Arrived
+2026-10-21,BOM,IndiGo,Guwahati,6E 5066,00:20,00:28,8,Arrived
+2026-10-21,BOM,Air India Express,Coimbatore,IX 1796,00:40,00:29,-11,Arrived
+2026-10-21,BOM,IndiGo,New Delhi,6E 6114,01:05,00:32,-33,Arrived
+2026-10-21,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:34,-11,Arrived
+2026-10-21,BOM,IndiGo,Dubai,6E 1456,00:35,00:36,1,Arrived
+2026-10-21,BOM,Air India,New Delhi,AI 2439,01:25,00:44,-41,Arrived
+2026-10-21,BOM,IndiGo,Hyderabad,6E 6363,01:00,00:48,-12,Arrived
+2026-10-21,BOM,Lufthansa,Frankfurt-am-Main,LH 756,01:00,00:49,-11,Arrived
+2026-10-21,BOM,Thai  International,Bangkok,TG 351,01:30,00:52,-38,Arrived
+2026-10-21,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,00:53,-32,Arrived
+2026-10-21,BOM,Air India Express,Kochi,IX 1802,01:15,00:56,-19,Arrived
+2026-10-21,BOM,Air India,Bangalore,AI 2811,01:45,00:59,-46,Arrived
+2026-10-21,BOM,AZAL Azerbaijan,Baku,J2 59,01:25,01:01,-24,Arrived
+2026-10-21,BOM,IndiGo,Amritsar,6E 821,01:15,01:04,-11,Arrived
+2026-10-21,BOM,Jazeera,Kuwait City,J9 401,01:35,01:08,-27,Arrived
+2026-10-21,BOM,IndiGo,Bangkok,6E 1060,01:40,01:11,-29,Arrived
+2026-10-21,BOM,Air India Express,Bangalore,IX 5937,01:45,01:15,-30,Arrived
+2026-10-21,BOM,Ethiopian,Addis Ababa,ET 640,02:05,01:19,-46,Arrived
+2026-10-21,BOM,Air India Express,New Delhi,IX 1235,01:50,01:23,-27,Arrived
+2026-10-21,BOM,IndiGo,New Delhi,6E 322,01:45,01:26,-19,Arrived
+2026-10-21,BOM,IndiGo,Phuket,6E 1312,01:50,01:28,-22,Arrived
+2026-10-21,BOM,IndiGo,Lucknow,6E 2058,02:15,01:37,-38,Arrived
+2026-10-21,BOM,EgyptAir,Cairo,MS 968,02:00,01:39,-21,Arrived
+2026-10-21,BOM,Starlight Airline,Kolkata,QP 1126,01:40,01:46,6,Arrived
+2026-10-21,BOM,SriLankan,Colombo,UL 141,02:10,01:52,-18,Arrived
+2026-10-21,BOM,Kenya,Nairobi,KQ 202,01:30,01:55,25,Arrived
+2026-10-21,BOM,Air India,London,AI 128,02:50,02:03,-47,Arrived
