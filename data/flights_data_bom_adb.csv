@@ -13030,3 +13030,9 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-21,BOM,SriLankan,Colombo,UL 141,02:10,01:52,-18,Arrived
 2026-10-21,BOM,Kenya,Nairobi,KQ 202,01:30,01:55,25,Arrived
 2026-10-21,BOM,Air India,London,AI 128,02:50,02:03,-47,Arrived
+2026-10-21,BOM,IndiGo,Siliguri,6E 5275,14:20,14:18,-2,Arrived
+2026-10-21,BOM,Air India,Vasco da Gama,AI 2842,15:00,14:21,-39,Arrived
+2026-10-21,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,14:28,-2,Arrived
+2026-10-21,BOM,Air India,Kochi,AI 2856,15:00,14:30,-30,Arrived
+2026-10-21,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,22:55,-55,Arrived
+2026-10-21,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
