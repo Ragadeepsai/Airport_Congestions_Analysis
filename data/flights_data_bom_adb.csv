@@ -13108,5 +13108,35 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-22,BOM,IndiGo,New Delhi,6E 6022,16:25,15:48,-37,Arrived
 2026-10-22,BOM,Air France,Paris,AF 218,23:20,22:17,-63,Arrived
 2026-10-22,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,22:55,-55,Arrived
-2026-10-22,BOM,Lufthansa,Munich,LH 766,23:50,23:04,-46,Arrived
 2026-10-22,BOM,Air India,Bangkok,AI 2338,23:40,23:40,0,Arrived
+2026-10-23,BOM,IndiGo,Patna,6E 6619,00:45,00:26,-19,Arrived
+2026-10-23,BOM,IndiGo,Ahmedabad,6E 6351,00:30,00:28,-2,Arrived
+2026-10-23,BOM,IndiGo,Chennai,6E 1608,00:10,00:30,20,Arrived
+2026-10-23,BOM,IndiGo,Chennai,6E 6225,00:30,00:34,4,Arrived
+2026-10-23,BOM,Cathay Pacific,Hong Kong,CX 663,00:20,00:35,15,Arrived
+2026-10-22,BOM,Lufthansa,Munich,LH 766,23:50,00:38,48,Arrived
+2026-10-23,BOM,IndiGo,Colombo,6E 1186,00:50,00:41,-9,Arrived
+2026-10-23,BOM,IndiGo,Dubai,6E 1456,00:35,00:43,8,Arrived
+2026-10-23,BOM,IndiGo,New Delhi,6E 6114,01:05,00:45,-20,Arrived
+2026-10-23,BOM,Starlight Airline,Bangalore,QP 1986,00:30,00:47,17,Arrived
+2026-10-23,BOM,Starlight Airline,Bangalore,QP 1134,00:45,00:48,3,Arrived
+2026-10-23,BOM,Air India Express,Coimbatore,IX 1796,00:40,00:50,10,Arrived
+2026-10-23,BOM,Kuwait,Kuwait City,KU 301,01:20,00:52,-28,Arrived
+2026-10-23,BOM,IndiGo,Guwahati,6E 5066,00:20,00:55,35,Arrived
+2026-10-23,BOM,Air India Express,Mopa,IX 1209,00:05,00:57,52,Arrived
+2026-10-23,BOM,IndiGo,Amritsar,6E 821,01:15,01:04,-11,Arrived
+2026-10-23,BOM,IndiGo,Hyderabad,6E 6363,01:00,01:09,9,Arrived
+2026-10-23,BOM,Air India,New Delhi,AI 2439,01:25,01:11,-14,Arrived
+2026-10-23,BOM,Air India,Bangalore,AI 2811,01:45,01:14,-31,Arrived
+2026-10-23,BOM,AZAL Azerbaijan,Baku,J2 59,01:25,01:16,-9,Arrived
+2026-10-23,BOM,IndiGo,Vasco da Gama,6E 6156,01:25,01:19,-6,Arrived
+2026-10-23,BOM,Thai  International,Bangkok,TG 351,01:30,01:21,-9,Arrived
+2026-10-23,BOM,Air India Express,Bangalore,IX 5937,01:45,01:24,-21,Arrived
+2026-10-23,BOM,Kenya,Nairobi,KQ 202,01:30,01:26,-4,Arrived
+2026-10-23,BOM,IndiGo,New Delhi,6E 322,01:45,01:28,-17,Arrived
+2026-10-23,BOM,Ethiopian,Addis Ababa,ET 640,02:05,01:30,-35,Arrived
+2026-10-23,BOM,Jazeera,Kuwait City,J9 401,01:35,01:33,-2,Arrived
+2026-10-23,BOM,Air India Express,New Delhi,IX 1235,01:50,01:37,-13,Arrived
+2026-10-23,BOM,EgyptAir,Cairo,MS 968,02:00,01:39,-21,Arrived
+2026-10-23,BOM,Starlight Airline,Kolkata,QP 1126,01:40,01:42,2,Arrived
+2026-10-23,BOM,IndiGo,Bangkok,6E 1060,01:40,01:44,4,Arrived
