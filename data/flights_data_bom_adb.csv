@@ -13081,3 +13081,32 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-22,BOM,IndiGo,Colombo,6E 1186,00:50,01:16,26,Arrived
 2026-10-22,BOM,Thai  International,Bangkok,TG 351,01:30,01:19,-11,Arrived
 2026-10-22,BOM,Jazeera,Kuwait City,J9 401,01:35,01:21,-14,Arrived
+2026-10-22,BOM,IndiGo,Kolkata,6E 5288,14:35,14:17,-18,Arrived
+2026-10-22,BOM,Air India,New Delhi,AI 1785,14:25,14:21,-4,Arrived
+2026-10-22,BOM,IndiGo,Chennai,6E 5258,14:45,14:23,-22,Arrived
+2026-10-22,BOM,IndiGo,Siliguri,6E 5275,14:20,14:26,6,Arrived
+2026-10-22,BOM,IndiGo,New Delhi,6E 6676,14:15,14:29,14,Arrived
+2026-10-22,BOM,Air India Express,Jamnagar,IX 1806,14:45,14:33,-12,Arrived
+2026-10-22,BOM,Air India,Vasco da Gama,AI 2842,15:00,14:36,-24,Arrived
+2026-10-22,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,14:43,13,Arrived
+2026-10-22,BOM,Air India,Dhaka,AI 2184,14:35,14:46,11,Arrived
+2026-10-22,BOM,Air India,Kochi,AI 2856,15:00,14:50,-10,Arrived
+2026-10-22,BOM,IndiGo,Bangalore,6E 5218,14:50,14:53,3,Arrived
+2026-10-22,BOM,IndiGo,Rajkot,6E 2283,14:55,14:58,3,Arrived
+2026-10-22,BOM,IndiGo,Phuket,6E 1072,15:25,15:01,-24,Arrived
+2026-10-22,BOM,IndiGo,Patna,6E 2025,15:15,15:04,-11,Arrived
+2026-10-22,BOM,Air India,Jaipur,AI 2782,15:40,15:09,-31,Arrived
+2026-10-22,BOM,IndiGo,Nairobi,6E 1854,15:30,15:12,-18,Arrived
+2026-10-22,BOM,IndiGo,New Delhi,6E 324,15:10,15:18,8,Arrived
+2026-10-22,BOM,Starlight Airline,Siliguri,QP 1144,15:15,15:20,5,Arrived
+2026-10-22,BOM,Starlight Airline,Udaipur,QP 1156,15:10,15:22,12,Arrived
+2026-10-22,BOM,IndiGo,Dubai,6E 1452,15:30,15:26,-4,Arrived
+2026-10-22,BOM,Air India,New Delhi,AI 2951,15:50,15:31,-19,Arrived
+2026-10-22,BOM,Starlight Airline,Chennai,QP 1146,16:05,15:37,-28,Arrived
+2026-10-22,BOM,Air India,Hyderabad,AI 2445,16:25,15:43,-42,Arrived
+2026-10-22,BOM,Air India Express,Mangalore,IX 1671,15:50,15:46,-4,Arrived
+2026-10-22,BOM,IndiGo,New Delhi,6E 6022,16:25,15:48,-37,Arrived
+2026-10-22,BOM,Air France,Paris,AF 218,23:20,22:17,-63,Arrived
+2026-10-22,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,22:55,-55,Arrived
+2026-10-22,BOM,Lufthansa,Munich,LH 766,23:50,23:04,-46,Arrived
+2026-10-22,BOM,Air India,Bangkok,AI 2338,23:40,23:40,0,Arrived
