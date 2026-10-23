@@ -13178,5 +13178,7 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-23,BOM,Starlight Airline,Kolkata,QP 1184,23:50,22:34,-76,Arrived
 2026-10-23,BOM,Malindo Air,Kuala Lumpur,OD 215,22:25,22:36,11,Arrived
 2026-10-23,BOM,British,London,BA 139,23:40,22:43,-57,Arrived
-2026-10-23,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,22:56,-54,Arrived
-2026-10-23,BOM,Lufthansa,Munich,LH 766,23:50,23:30,-20,Arrived
+2026-10-23,BOM,IndiGo,Chennai,6E 5149,22:20,00:14,114,Arrived
+2026-10-24,BOM,KLM,Amsterdam,KL 877,00:00,00:16,16,Arrived
+2026-10-23,BOM,Lufthansa,Munich,LH 766,23:50,00:23,33,Arrived
+2026-10-23,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,00:24,34,Arrived
