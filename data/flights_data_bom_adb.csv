@@ -13140,3 +13140,31 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-23,BOM,EgyptAir,Cairo,MS 968,02:00,01:39,-21,Arrived
 2026-10-23,BOM,Starlight Airline,Kolkata,QP 1126,01:40,01:42,2,Arrived
 2026-10-23,BOM,IndiGo,Bangkok,6E 1060,01:40,01:44,4,Arrived
+2026-10-23,BOM,IndiGo,Kolkata,6E 5288,14:35,14:11,-24,Arrived
+2026-10-23,BOM,Air India,Udaipur,AI 2580,14:20,14:14,-6,Arrived
+2026-10-23,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,14:16,-14,Arrived
+2026-10-23,BOM,Air India Express,Jamnagar,IX 1806,14:45,14:19,-26,Arrived
+2026-10-23,BOM,IndiGo,Bangalore,6E 5218,14:50,14:22,-28,Arrived
+2026-10-23,BOM,IndiGo,New Delhi,6E 6676,14:15,14:25,10,Arrived
+2026-10-23,BOM,IndiGo,Chennai,6E 5258,14:45,14:27,-18,Arrived
+2026-10-23,BOM,IndiGo,Hyderabad,6E 5384,14:25,14:32,7,Arrived
+2026-10-23,BOM,IndiGo,Siliguri,6E 5275,14:20,14:34,14,Arrived
+2026-10-23,BOM,Air India,Kochi,AI 2856,15:00,14:37,-23,Arrived
+2026-10-23,BOM,IndiGo,Patna,6E 2025,15:15,14:40,-35,Arrived
+2026-10-23,BOM,IndiGo,Rajkot,6E 2283,14:55,14:47,-8,Arrived
+2026-10-23,BOM,Starlight Airline,Udaipur,QP 1156,15:10,14:50,-20,Arrived
+2026-10-23,BOM,IndiGo,New Delhi,6E 324,15:10,14:53,-17,Arrived
+2026-10-23,BOM,IndiGo,Dubai,6E 1452,15:30,14:56,-34,Arrived
+2026-10-23,BOM,Starlight Airline,Siliguri,QP 1144,15:15,15:01,-14,Arrived
+2026-10-23,BOM,IndiGo,Phuket,6E 1072,15:25,15:12,-13,Arrived
+2026-10-23,BOM,IndiGo,Nairobi,6E 1854,15:30,15:18,-12,Arrived
+2026-10-23,BOM,Oman Air,Muscat,WY 203,13:40,15:30,110,Arrived
+2026-10-23,BOM,IndiGo,Hyderabad,6E 5099,15:55,15:33,-22,Arrived
+2026-10-23,BOM,Air India,New Delhi,AI 2951,15:50,15:35,-15,Arrived
+2026-10-23,BOM,Starlight Airline,Chennai,QP 1146,16:05,15:38,-27,Arrived
+2026-10-23,BOM,Air India,Amritsar,AI 2998,16:05,15:41,-24,Arrived
+2026-10-23,BOM,IndiGo,Bangalore,6E 5351,16:05,15:44,-21,Arrived
+2026-10-23,BOM,Malindo Air,Kuala Lumpur,OD 215,22:25,22:25,0,Arrived
+2026-10-23,BOM,Starlight Airline,Kolkata,QP 1184,23:50,23:50,0,Arrived
+2026-10-23,BOM,Lufthansa,Munich,LH 766,23:50,23:50,0,Arrived
+2026-10-23,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:50,0,Arrived
