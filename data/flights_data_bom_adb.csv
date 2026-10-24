@@ -13251,3 +13251,25 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-24,BOM,Air India,Rajkot,AI 2731,19:25,19:38,13,Arrived
 2026-10-24,BOM,IndiGo,Chandigarh,6E 5234,19:35,19:42,7,Arrived
 2026-10-24,BOM,SriLankan,Colombo,UL 143,19:50,19:44,-6,Arrived
+2026-10-24,BOM,British,London,BA 139,23:40,23:28,-12,Arrived
+2026-10-24,BOM,IndiGo,Indore,6E 6598,23:45,23:31,-14,Arrived
+2026-10-25,BOM,Air India,Hyderabad,AI 2699,00:15,23:33,-42,Arrived
+2026-10-24,BOM,Air India,Dubai,AI 4218,23:55,23:35,-20,Arrived
+2026-10-24,BOM,Air India,New Delhi,AI 2433,23:55,23:37,-18,Arrived
+2026-10-24,BOM,IndiGo,Varanasi,6E 5029,23:05,23:40,35,Arrived
+2026-10-25,BOM,IndiGo,Raipur,6E 5049,00:10,23:43,-27,Arrived
+2026-10-24,BOM,Air India,Bangkok,AI 2338,23:40,23:46,6,Arrived
+2026-10-24,BOM,Starlight Airline,Kolkata,QP 1184,23:50,23:50,0,Arrived
+2026-10-24,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,23:53,3,Arrived
+2026-10-25,BOM,IndiGo,Mahe Island,6E 1856,00:55,23:56,-59,Arrived
+2026-10-25,BOM,Air India Express,Mopa,IX 1209,00:00,23:58,-2,Arrived
+2026-10-25,BOM,IndiGo,New Delhi,6E 395,00:05,00:00,-5,Arrived
+2026-10-25,BOM,Starlight Airline,Lucknow,QP 1838,00:15,00:04,-11,Arrived
+2026-10-25,BOM,KLM,Amsterdam,KL 877,00:15,00:07,-8,Arrived
+2026-10-25,BOM,Air India,New Delhi,AI 409,00:25,00:10,-15,Arrived
+2026-10-25,BOM,Air India,Bangalore,AI 2840,00:40,00:12,-28,Arrived
+2026-10-24,BOM,Air France,Paris,AF 218,23:20,00:16,56,Arrived
+2026-10-25,BOM,Saudi Arabian,Jeddah,SV 772,00:50,00:19,-31,Arrived
+2026-10-24,BOM,Lufthansa,Munich,LH 766,23:50,00:21,31,Arrived
+2026-10-25,BOM,IndiGo,Colombo,6E 1186,02:10,00:25,-105,Arrived
+2026-10-25,BOM,SpiceJet,Dubai,SG 5114,01:35,01:35,0,Arrived
