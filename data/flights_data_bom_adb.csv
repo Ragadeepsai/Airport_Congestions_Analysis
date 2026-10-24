@@ -13182,3 +13182,14 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-24,BOM,KLM,Amsterdam,KL 877,00:00,00:16,16,Arrived
 2026-10-23,BOM,Lufthansa,Munich,LH 766,23:50,00:23,33,Arrived
 2026-10-23,BOM,Thai Vietjet Air,Bangkok,VZ 760,23:50,00:24,34,Arrived
+2026-10-24,BOM,Gulf Air,Manama,GF 56,05:10,05:59,49,Arrived
+2026-10-24,BOM,IndiGo,Hyderabad,6E 5245,06:25,06:13,-12,Arrived
+2026-10-24,BOM,Starlight Airline,Bangalore,QP 1517,06:50,06:19,-31,Arrived
+2026-10-24,BOM,IndiGo,Chennai,6E 5093,06:55,06:24,-31,Arrived
+2026-10-24,BOM,IndiGo,Naqpur,6E 5002,07:10,06:30,-40,Arrived
+2026-10-24,BOM,Air Tanzania,Dar es Salaam,TC 400,04:40,06:48,128,Arrived
+2026-10-24,BOM,IndiGo,Bangalore,6E 5012,07:15,06:51,-24,Arrived
+2026-10-24,BOM,IndiGo,New Delhi,6E 449,07:15,06:55,-20,Arrived
+2026-10-24,BOM,Air India,Ahmedabad,AI 2918,07:45,06:57,-48,Arrived
+2026-10-24,BOM,IndiGo,Indore,6E 5122,06:55,07:00,5,Arrived
+2026-10-24,BOM,Air India,Hyderabad,AI 2872,07:45,07:03,-42,Arrived
