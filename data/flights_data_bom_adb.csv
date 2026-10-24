@@ -13224,3 +13224,30 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-24,BOM,IndiGo,Nairobi,6E 1854,15:30,14:56,-34,Arrived
 2026-10-24,BOM,Starlight Airline,Udaipur,QP 1156,15:10,14:58,-12,Arrived
 2026-10-24,BOM,IndiGo,New Delhi,6E 324,15:10,15:02,-8,Arrived
+2026-10-24,BOM,Starlight Airline,New Delhi,QP 1128,18:20,18:30,10,Arrived
+2026-10-24,BOM,Air India Express,Jamnagar,IX 1808,19:00,18:34,-26,Arrived
+2026-10-24,BOM,IndiGo,Hyderabad,6E 5259,18:50,18:38,-12,Arrived
+2026-10-24,BOM,Air India,Colombo,AI 2275,18:45,18:43,-2,Arrived
+2026-10-24,BOM,Air India,Ahmedabad,AI 2916,19:40,18:45,-55,Arrived
+2026-10-24,BOM,Air India,Hyderabad,AI 2447,19:25,18:48,-37,Arrived
+2026-10-24,BOM,IndiGo,Tiruchirappally,6E 2017,18:10,18:51,41,Arrived
+2026-10-24,BOM,IndiGo,Kolkata,6E 6206,19:05,18:53,-12,Arrived
+2026-10-24,BOM,Air India,Vasco da Gama,AI 2746,18:55,18:55,0,Arrived
+2026-10-24,BOM,Etihad,Abu Dhabi,EY 204,19:05,18:58,-7,Arrived
+2026-10-24,BOM,Air India Express,Varanasi,IX 2547,19:00,19:00,0,Arrived
+2026-10-24,BOM,IndiGo,Chennai,6E 5104,18:40,19:03,23,Arrived
+2026-10-24,BOM,IndiGo,Udaipur,6E 5163,19:15,19:06,-9,Arrived
+2026-10-24,BOM,Air India,New Delhi,AI 441,19:45,19:08,-37,Arrived
+2026-10-24,BOM,IndiGo,Rajahmundry,6E 5124,18:55,19:11,16,Arrived
+2026-10-24,BOM,IndiGo,Bangalore,6E 5255,19:05,19:12,7,Arrived
+2026-10-24,BOM,IndiGo,Bhopal,6E 5132,19:35,19:14,-21,Arrived
+2026-10-24,BOM,Air India,Chennai,AI 640,19:10,19:17,7,Arrived
+2026-10-24,BOM,Starlight Airline,Varanasi,QP 1428,18:50,19:19,29,Arrived
+2026-10-24,BOM,Air India,Gannavaram,AI 599,20:10,19:22,-48,Arrived
+2026-10-24,BOM,Starlight Airline,Abu Dhabi,QP 585,19:45,19:24,-21,Arrived
+2026-10-24,BOM,IndiGo,New Delhi,6E 6706,19:15,19:27,12,Arrived
+2026-10-24,BOM,IndiGo,Srinagar,6E 215,18:55,19:29,34,Arrived
+2026-10-24,BOM,Starlight Airline,Kolkata,QP 1253,20:00,19:35,-25,Arrived
+2026-10-24,BOM,Air India,Rajkot,AI 2731,19:25,19:38,13,Arrived
+2026-10-24,BOM,IndiGo,Chandigarh,6E 5234,19:35,19:42,7,Arrived
+2026-10-24,BOM,SriLankan,Colombo,UL 143,19:50,19:44,-6,Arrived
