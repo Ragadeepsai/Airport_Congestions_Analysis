@@ -13193,3 +13193,34 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-24,BOM,Air India,Ahmedabad,AI 2918,07:45,06:57,-48,Arrived
 2026-10-24,BOM,IndiGo,Indore,6E 5122,06:55,07:00,5,Arrived
 2026-10-24,BOM,Air India,Hyderabad,AI 2872,07:45,07:03,-42,Arrived
+2026-10-24,BOM,Starlight Airline,Kochi,QP 1138,13:40,13:26,-14,Arrived
+2026-10-24,BOM,IndiGo,Port Blair,6E 648,13:50,13:28,-22,Arrived
+2026-10-24,BOM,IndiGo,Chandigarh,6E 6382,13:30,13:31,1,Arrived
+2026-10-24,BOM,IndiGo,Singapore,6E 1340,13:40,13:34,-6,Arrived
+2026-10-24,BOM,Air India,Bangalore,AI 2630,14:05,13:40,-25,Arrived
+2026-10-24,BOM,IndiGo,Naqpur,6E 5344,13:45,13:43,-2,Arrived
+2026-10-24,BOM,IndiGo,Coimbatore,6E 248,14:15,13:45,-30,Arrived
+2026-10-24,BOM,Starlight Airline,Jaipur,QP 1154,13:55,13:47,-8,Arrived
+2026-10-24,BOM,IndiGo,Lucknow,6E 5148,14:00,13:50,-10,Arrived
+2026-10-24,BOM,IndiGo,Dehradun,6E 5021,13:50,13:52,2,Arrived
+2026-10-24,BOM,Air India,Dubai,AI 4216,13:55,13:55,0,Arrived
+2026-10-24,BOM,Shuttle America,Mundra,S5 706,14:05,13:58,-7,Arrived
+2026-10-24,BOM,Air India,New Delhi,AI 1785,14:25,14:01,-24,Arrived
+2026-10-24,BOM,Air India,Udaipur,AI 2580,14:20,14:04,-16,Arrived
+2026-10-24,BOM,IndiGo,Kolkata,6E 5288,14:35,14:09,-26,Arrived
+2026-10-24,BOM,IndiGo,Chennai,6E 5258,14:45,14:14,-31,Arrived
+2026-10-24,BOM,IndiGo,Hyderabad,6E 5384,14:25,14:17,-8,Arrived
+2026-10-24,BOM,IndiGo,Bangalore,6E 5218,14:50,14:19,-31,Arrived
+2026-10-24,BOM,Air India Express,Jamnagar,IX 1806,14:45,14:23,-22,Arrived
+2026-10-24,BOM,Emirates,Dubai,EK 506,14:15,14:25,10,Arrived
+2026-10-24,BOM,IndiGo,Siliguri,6E 5275,14:20,14:28,8,Arrived
+2026-10-24,BOM,Air India,Dhaka,AI 2184,14:35,14:30,-5,Arrived
+2026-10-24,BOM,Air India,Kochi,AI 2856,15:00,14:33,-27,Arrived
+2026-10-24,BOM,Air India,Tokyo,AI 355,16:00,14:35,-85,Arrived
+2026-10-24,BOM,IndiGo,New Delhi,6E 6676,14:15,14:38,23,Arrived
+2026-10-24,BOM,IndiGo,Vasco da Gama,6E 5158,14:30,14:41,11,Arrived
+2026-10-24,BOM,IndiGo,Patna,6E 2025,15:15,14:43,-32,Arrived
+2026-10-24,BOM,Starlight Airline,Siliguri,QP 1144,15:15,14:53,-22,Arrived
+2026-10-24,BOM,IndiGo,Nairobi,6E 1854,15:30,14:56,-34,Arrived
+2026-10-24,BOM,Starlight Airline,Udaipur,QP 1156,15:10,14:58,-12,Arrived
+2026-10-24,BOM,IndiGo,New Delhi,6E 324,15:10,15:02,-8,Arrived
