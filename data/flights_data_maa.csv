@@ -5753,3 +5753,14 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-25,MAA,IndiGo,Mumbai,6E6137,01:05,00:31,-34,Arrived
 2026-10-25,MAA,Air India,Delhi,AI2895,00:40,00:45,5,Arrived
 2026-10-24,MAA,Thai Airasia,Don Muang International Bangkok,FD0153,23:00,01:00,120,Arrived
+2026-10-25,MAA,IndiGo,Delhi,6E6061,01:50,01:46,-4,Arrived
+2026-10-25,MAA,IndiGo,Doha International,6E1322,02:40,01:55,-45,Arrived
+2026-10-25,MAA,Kuwait Airways,Kuwait,KU0343,02:25,01:58,-27,Arrived
+2026-10-25,MAA,Emirates,Dubai,EK0542,02:30,02:12,-18,Arrived
+2026-10-25,MAA,Etihad Airways,Abu Dhabi,EY0340,02:30,02:46,16,Arrived
+2026-10-25,MAA,British Airways,London Heathrow,BA0035,03:30,02:57,-33,Arrived
+2026-10-25,MAA,Qatar Airways,Doha International,QR0528,02:50,03:00,10,Arrived
+2026-10-25,MAA,Air Arabia,Sharjah,G90471,03:25,03:17,-8,Arrived
+2026-10-25,MAA,IndiGo,Pune,6E0914,03:55,03:55,0,Arrived
+2026-10-25,MAA,IndiGo,Colombo,6E1172,04:25,04:02,-23,Arrived
+2026-10-25,MAA,IndiGo,Delhi,6E0933,05:00,04:52,-8,Arrived
