@@ -13285,3 +13285,22 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-25,BOM,Starlight Airline,Bangalore,QP 1335,07:05,06:41,-24,Arrived
 2026-10-25,BOM,Air India,Hyderabad,AI 2872,07:25,06:50,-35,Arrived
 2026-10-25,BOM,Air India,Ahmedabad,AI 2918,07:25,06:53,-32,Arrived
+2026-10-25,BOM,IndiGo,Bangalore,6E 5069,14:15,13:55,-20,Arrived
+2026-10-25,BOM,Emirates,Dubai,EK 506,13:55,13:58,3,Arrived
+2026-10-25,BOM,IndiGo,Kolkata,6E 5288,14:30,14:02,-28,Arrived
+2026-10-25,BOM,IndiGo,New Delhi,6E 6051,14:10,14:05,-5,Arrived
+2026-10-25,BOM,Air India,New Delhi,AI 2587,14:25,14:08,-17,Arrived
+2026-10-25,BOM,Air India Express,Kochi,IX 2207,10:15,14:12,237,Arrived
+2026-10-25,BOM,IndiGo,Singapore,6E 1340,14:20,14:15,-5,Arrived
+2026-10-25,BOM,IndiGo,Jammu,6E 604,14:35,14:24,-11,Arrived
+2026-10-25,BOM,IndiGo,Rajkot,6E 2283,14:15,14:27,12,Arrived
+2026-10-25,BOM,Alliance Air,Diu,9I 624,14:10,14:30,20,Arrived
+2026-10-25,BOM,Air India Express,Abu Dhabi,IX 738,15:10,14:33,-37,Arrived
+2026-10-25,BOM,Air India,New Delhi,AI 3103,14:10,14:36,26,Arrived
+2026-10-25,BOM,IndiGo,Ahmedabad,6E 803,14:50,14:39,-11,Arrived
+2026-10-25,BOM,SpiceJet,Darbhanga,SG 116,16:15,14:42,-93,Arrived
+2026-10-25,BOM,IndiGo,Hubli,6E 5358,14:20,14:45,25,Arrived
+2026-10-25,BOM,IndiGo,Gwalior,6E 5265,15:05,14:48,-17,Arrived
+2026-10-25,BOM,IndiGo,Vasco da Gama,6E 262,14:50,14:54,4,Arrived
+2026-10-25,BOM,IndiGo,New Delhi,6E 6676,14:55,14:57,2,Arrived
+2026-10-25,BOM,Air India,Naqpur,AI 2584,23:45,23:49,4,Arrived
