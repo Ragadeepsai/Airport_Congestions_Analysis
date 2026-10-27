@@ -6027,3 +6027,8 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-27,MAA,IndiGo,Ahmedabad,6E0348,16:40,16:21,-19,Arrived
 2026-10-27,MAA,IndiGo,Coimbatore,6E0571,16:45,16:25,-20,Arrived
 2026-10-27,MAA,IndiGo,Chandigarh,6E0971,15:05,16:29,84,Arrived
+2026-10-27,MAA,IndiGo,Indore,6E0479,17:00,16:37,-23,Arrived
+2026-10-27,MAA,IndiGo,Mumbai,6E5337,16:35,16:49,14,Arrived
+2026-10-27,MAA,IndiGo,Patna,6E0110,17:05,16:54,-11,Arrived
+2026-10-27,MAA,IndiGo,Mysore,6E7310,17:10,17:09,-1,Arrived
+2026-10-27,MAA,Air India Express,Bengaluru,IX2975,16:05,17:14,69,Arrived
