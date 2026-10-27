@@ -13304,3 +13304,33 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-25,BOM,IndiGo,Vasco da Gama,6E 262,14:50,14:54,4,Arrived
 2026-10-25,BOM,IndiGo,New Delhi,6E 6676,14:55,14:57,2,Arrived
 2026-10-25,BOM,Air India,Naqpur,AI 2584,23:45,23:49,4,Arrived
+2026-10-28,BOM,IndiGo,Bangalore,6E 6189,01:30,01:03,-27,Arrived
+2026-10-27,BOM,Air India,Naqpur,AI 2584,23:45,01:04,79,Arrived
+2026-10-28,BOM,Air India,New Delhi,AI 2439,01:25,01:08,-17,Arrived
+2026-10-28,BOM,IndiGo,Chennai,6E 6225,01:15,01:10,-5,Arrived
+2026-10-28,BOM,IndiGo,Bangkok,6E 1060,01:20,01:11,-9,Arrived
+2026-10-28,BOM,Air India Express,Jaipur,IX 1247,00:40,01:12,32,Arrived
+2026-10-28,BOM,IndiGo,Vasco da Gama,6E 6360,00:00,01:15,75,Arrived
+2026-10-28,BOM,AZAL Azerbaijan,Baku,J2 59,01:10,01:16,6,Arrived
+2026-10-28,BOM,Air India,Gannavaram,AI 599,00:05,01:18,73,Arrived
+2026-10-28,BOM,EgyptAir,Cairo,MS 968,01:45,01:19,-26,Arrived
+2026-10-28,BOM,Lufthansa,Frankfurt-am-Main,LH 756,01:05,01:22,17,Arrived
+2026-10-28,BOM,Thai  International,Bangkok,TG 351,01:20,01:24,4,Arrived
+2026-10-28,BOM,Jazeera,Kuwait City,J9 401,01:35,01:25,-10,Arrived
+2026-10-28,BOM,IndiGo,Bhopal,6E 828,00:45,01:28,43,Arrived
+2026-10-28,BOM,Air India Express,Kochi,IX 2206,00:30,01:29,59,Arrived
+2026-10-28,BOM,Air India,Kolkata,AI 2410,02:05,01:30,-35,Arrived
+2026-10-27,BOM,SpiceJet,Kochi,SG 705,21:40,01:32,232,Arrived
+2026-10-28,BOM,Starlight Airline,Kolkata,QP 1126,01:55,01:36,-19,Arrived
+2026-10-28,BOM,Kuwait,Kuwait City,KU 301,01:20,01:38,18,Arrived
+2026-10-28,BOM,IndiGo,Dubai,6E 1456,01:40,01:39,-1,Arrived
+2026-10-27,BOM,Air India Express,New Delhi,IX 1235,23:10,01:41,151,Arrived
+2026-10-28,BOM,IndiGo,Colombo,6E 1186,02:10,01:43,-27,Arrived
+2026-10-28,BOM,IndiGo,New Delhi,6E 6114,01:25,01:44,19,Arrived
+2026-10-28,BOM,IndiGo,Ahmedabad,6E 6267,02:15,01:53,-22,Arrived
+2026-10-28,BOM,Etihad,Abu Dhabi,EY 206,02:05,01:54,-11,Arrived
+2026-10-28,BOM,Air India Express,Mopa,IX 1209,01:25,02:03,38,Arrived
+2026-10-28,BOM,IndiGo,Kochi,6E 5199,01:40,02:12,32,Arrived
+2026-10-28,BOM,Ethiopian,Addis Ababa,ET 640,02:35,02:16,-19,Arrived
+2026-10-28,BOM,Air India Express,Bhubaneswar,IX 1025,02:20,02:19,-1,Arrived
+2026-10-28,BOM,Air India,Kochi,AI 2652,02:45,02:23,-22,Arrived
