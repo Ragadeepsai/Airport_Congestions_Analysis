@@ -6162,3 +6162,67 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-29,MAA,IndiGo,Ahmedabad,6E0348,16:40,16:55,15,Arrived
 2026-10-29,MAA,IndiGo,Mumbai,6E5337,16:35,17:03,28,Arrived
 2026-10-29,MAA,IndiGo,Kolkata,6E0892,17:30,17:20,-10,Arrived
+2026-10-29,MAA,IndiGo,Thoothukudi,6E7328,17:45,17:27,-18,Arrived
+2026-10-29,MAA,IndiGo,Cochin/Kochi,6E0171,17:55,17:40,-15,Arrived
+2026-10-29,MAA,IndiGo,Mysore,6E7310,17:10,17:43,33,Arrived
+2026-10-29,MAA,IndiGo,Salem,6E7396,18:15,17:47,-28,Arrived
+2026-10-29,MAA,IndiGo,Mopa,6E6975,18:05,17:59,-6,Arrived
+2026-10-29,MAA,IndiGo,Rajahmundry,6E7366,18:20,18:08,-12,Arrived
+2026-10-29,MAA,IndiGo,Delhi,6E6091,17:50,18:13,23,Arrived
+2026-10-29,MAA,IndiGo,Hubli,6E7368,18:05,18:17,12,Arrived
+2026-10-29,MAA,IndiGo,Coimbatore,6E2124,18:30,18:21,-9,Arrived
+2026-10-29,MAA,IndiGo,Dhaka,6E1114,18:25,18:23,-2,Arrived
+2026-10-29,MAA,IndiGo,Kannur,6E7336,18:35,18:27,-8,Arrived
+2026-10-29,MAA,Air India Express,Kolkata,IX1356,18:20,18:30,10,Arrived
+2026-10-29,MAA,IndiGo,Colombo,6E1176,18:40,18:34,-6,Arrived
+2026-10-29,MAA,IndiGo,Pune,6E0625,18:25,18:40,15,Arrived
+2026-10-29,MAA,IndiGo,Mumbai,6E5196,18:30,18:43,13,Arrived
+2026-10-29,MAA,IndiGo,Ranchi,6E0209,19:25,18:56,-29,Arrived
+2026-10-29,MAA,Air India,Delhi,AI0537,18:35,19:01,26,Arrived
+2026-10-29,MAA,IndiGo,Coimbatore,6E0280,19:20,19:04,-16,Arrived
+2026-10-29,MAA,IndiGo,Hyderabad,6E0598,19:00,19:07,7,Arrived
+2026-10-29,MAA,IndiGo,Delhi,6E2336,19:05,19:18,13,Arrived
+2026-10-29,MAA,IndiGo,Bengaluru,6E6017,19:30,19:21,-9,Arrived
+2026-10-29,MAA,Air India Express,Guwahati,IX1249,19:30,19:25,-5,Arrived
+2026-10-29,MAA,IndiGo,Visakhapatnam,6E0731,20:00,19:29,-31,Arrived
+2026-10-29,MAA,IndiGo,Bangkok,6E1386,20:00,19:37,-23,Arrived
+2026-10-29,MAA,Sri Lankan Airlines,Colombo,UL0123,19:55,19:42,-13,Arrived
+2026-10-29,MAA,Air India Express,Bengaluru,IX2662,19:50,19:49,-1,Arrived
+2026-10-29,MAA,Akasa Air,Pune,QP1916,19:50,19:50,0,Arrived
+2026-10-29,MAA,Etihad Airways,Abu Dhabi,EY0346,19:50,19:53,3,Arrived
+2026-10-29,MAA,IndiGo,Cochin/Kochi,6E6011,19:55,20:08,13,Arrived
+2026-10-29,MAA,Emirates,Dubai,EK0546,20:10,20:11,1,Arrived
+2026-10-29,MAA,IndiGo,Bengaluru,6E6208,20:20,20:18,-2,Arrived
+2026-10-29,MAA,Air India,Mumbai,AI0435,20:10,20:22,12,Arrived
+2026-10-29,MAA,IndiGo,Mumbai,6E5105,20:55,20:25,-30,Arrived
+2026-10-29,MAA,IndiGo,Hyderabad,6E6486,20:30,20:28,-2,Arrived
+2026-10-29,MAA,IndiGo,Madurai,6E2466,20:05,20:37,32,Arrived
+2026-10-29,MAA,IndiGo,Coimbatore,6E0659,21:10,20:43,-27,Arrived
+2026-10-29,MAA,IndiGo,Trichy,6E7358,20:15,20:47,32,Arrived
+2026-10-29,MAA,IndiGo,Varanasi,6E0120,21:05,20:50,-15,Arrived
+2026-10-29,MAA,IndiGo,Kolkata,6E0723,21:05,20:54,-11,Arrived
+2026-10-29,MAA,IndiGo,Guwahati,6E0597,20:35,20:57,22,Arrived
+2026-10-29,MAA,Air India Express,Bengaluru,IX2971,21:15,21:24,9,Arrived
+2026-10-29,MAA,IndiGo,Thoothukudi,6E7322,21:50,21:27,-23,Arrived
+2026-10-29,MAA,IndiGo,Delhi,6E0950,20:50,21:30,40,Arrived
+2026-10-29,MAA,IndiGo,Trichy,6E7350,21:20,21:34,14,Arrived
+2026-10-29,MAA,Air India,Delhi,AI2503,21:25,21:37,12,Arrived
+2026-10-29,MAA,IndiGo,Bengaluru,6E2506,21:35,21:40,5,Arrived
+2026-10-29,MAA,Singapore Airlines,Singapore,SQ0528,22:10,21:46,-24,Arrived
+2026-10-29,MAA,IndiGo,Kolkata,6E6661,22:10,21:52,-18,Arrived
+2026-10-29,MAA,IndiGo,Goa,6E0589,22:35,22:12,-23,Arrived
+2026-10-29,MAA,IndiGo,Raipur,6E2002,22:45,22:19,-26,Arrived
+2026-10-29,MAA,IndiGo,Calicut,6E7338,22:45,22:23,-22,Arrived
+2026-10-29,MAA,IndiGo,Bengaluru,6E6077,22:35,22:25,-10,Arrived
+2026-10-29,MAA,Air India Express,Singapore,IX0629,22:40,22:31,-9,Arrived
+2026-10-29,MAA,IndiGo,Vijayawada,6E7302,22:05,22:35,30,Arrived
+2026-10-29,MAA,Thai Airasia,Don Muang International Bangkok,FD0153,22:55,22:39,-16,Arrived
+2026-10-29,MAA,IndiGo,Cochin/Kochi,6E0387,23:00,22:42,-18,Arrived
+2026-10-29,MAA,IndiGo,Coimbatore,6E6315,22:50,22:46,-4,Arrived
+2026-10-29,MAA,Airasia,Kuala Lumpur,AK0013,23:05,22:50,-15,Arrived
+2026-10-29,MAA,IndiGo,Lucknow,6E0518,22:40,22:53,13,Arrived
+2026-10-29,MAA,IndiGo,Mumbai,6E5048,22:20,22:56,36,Arrived
+2026-10-29,MAA,IndiGo,Madurai,6E2594,23:00,23:01,1,Arrived
+2026-10-29,MAA,IndiGo,Hyderabad,6E6617,23:00,23:04,4,Arrived
+2026-10-29,MAA,IndiGo,Trivandrum,6E6959,22:25,23:07,42,Arrived
+2026-10-29,MAA,IndiGo,Kolkata,6E0234,23:40,23:10,-30,Arrived
