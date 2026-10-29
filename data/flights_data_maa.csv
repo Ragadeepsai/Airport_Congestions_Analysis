@@ -6226,3 +6226,26 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-29,MAA,IndiGo,Hyderabad,6E6617,23:00,23:04,4,Arrived
 2026-10-29,MAA,IndiGo,Trivandrum,6E6959,22:25,23:07,42,Arrived
 2026-10-29,MAA,IndiGo,Kolkata,6E0234,23:40,23:10,-30,Arrived
+2026-10-29,MAA,Air India,Delhi,AI2835,22:50,23:13,23,Arrived
+2026-10-29,MAA,Malaysia Airlines,Kuala Lumpur,MH0180,23:05,23:18,13,Arrived
+2026-10-29,MAA,IndiGo,Delhi,6E6341,23:05,23:27,22,Arrived
+2026-10-30,MAA,Thai Airways,Bangkok,TG0337,00:00,23:33,-27,Arrived
+2026-10-29,MAA,IndiGo,Jaipur,6E0694,23:25,23:54,29,Arrived
+2026-10-29,MAA,IndiGo,Trichy,6E7364,23:15,23:59,44,Arrived
+2026-10-30,MAA,IndiGo,Bhubaneswar,6E0145,00:25,00:06,-19,Arrived
+2026-10-30,MAA,Cathay Pacific Airways,Hong Kong International,CX0641,00:35,00:14,-21,Arrived
+2026-10-30,MAA,IndiGo,Singapore,6E1344,00:10,00:17,7,Arrived
+2026-10-29,MAA,IndiGo,Bengaluru,6E6174,23:45,00:30,45,Arrived
+2026-10-30,MAA,IndiGo,Mumbai,6E5235,00:20,00:34,14,Arrived
+2026-10-29,MAA,Air India,Mumbai,AI0639,23:50,00:42,52,Arrived
+2026-10-30,MAA,Lufthansa,Frankfurt,LH0758,00:05,00:45,40,Arrived
+2026-10-30,MAA,Air India,Delhi,AI2895,00:40,00:48,8,Arrived
+2026-10-30,MAA,IndiGo,Pune,6E0238,01:05,01:10,5,Arrived
+2026-10-30,MAA,IndiGo,Delhi,6E6061,01:50,01:33,-17,Arrived
+2026-10-30,MAA,Air India Express,Pune,IX2660,02:05,02:09,4,Arrived
+2026-10-30,MAA,IndiGo,Doha International,6E1322,02:15,02:17,2,Arrived
+2026-10-30,MAA,Qatar Airways,Doha International,QR0528,02:30,02:40,10,Arrived
+2026-10-30,MAA,Etihad Airways,Abu Dhabi,EY0340,02:35,02:42,7,Arrived
+2026-10-30,MAA,Emirates,Dubai,EK0542,02:20,02:42,22,Arrived
+2026-10-30,MAA,IndiGo,Ahmedabad,6E6539,02:15,02:46,31,Arrived
+2026-10-30,MAA,Air Arabia,Sharjah,G90471,03:00,02:56,-4,Arrived
