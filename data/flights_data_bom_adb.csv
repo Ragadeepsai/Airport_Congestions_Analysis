@@ -13402,3 +13402,30 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-29,BOM,Kuwait,Kuwait City,KU 303,08:05,07:26,-39,Arrived
 2026-10-29,BOM,IndiGo,Doha,6E 1342,07:40,07:29,-11,Arrived
 2026-10-29,BOM,Air India,New Delhi,AI 2573,07:55,07:33,-22,Arrived
+2026-10-29,BOM,Air India,Jaipur,AI 2782,15:20,15:27,7,Arrived
+2026-10-29,BOM,Starlight Airline,Allahabad,QP 1124,13:35,15:29,114,Arrived
+2026-10-29,BOM,IndiGo,New Delhi,6E 324,15:45,15:32,-13,Arrived
+2026-10-29,BOM,Air India,New Delhi,AI 2987,15:20,15:35,15,Arrived
+2026-10-29,BOM,IndiGo,Srinagar,6E 215,16:20,15:38,-42,Arrived
+2026-10-29,BOM,Starlight Airline,Chennai,QP 1146,16:00,15:41,-19,Arrived
+2026-10-29,BOM,IndiGo,Ghaziabad,6E 5175,14:55,15:44,49,Arrived
+2026-10-29,BOM,Air India Express,Bhopal,IX 2208,15:15,15:46,31,Arrived
+2026-10-29,BOM,IndiGo,Port Blair,6E 5170,15:20,15:53,33,Arrived
+2026-10-29,BOM,Air India,New Delhi,AI 2951,15:55,15:57,2,Arrived
+2026-10-29,BOM,IndiGo,Bangalore,6E 5218,15:40,16:00,20,Arrived
+2026-10-29,BOM,Air India,Amritsar,AI 2998,16:00,16:04,4,Arrived
+2026-10-29,BOM,IndiGo,Tiruchirappally,6E 2017,15:50,16:10,20,Arrived
+2026-10-29,BOM,IndiGo,Jamnagar,6E 5007,15:35,16:12,37,Arrived
+2026-10-29,BOM,IndiGo,Ahmedabad,6E 5160,16:05,16:14,9,Arrived
+2026-10-29,BOM,Air India,Bangalore,AI 2624,15:40,16:19,39,Arrived
+2026-10-29,BOM,IndiGo,Bangkok,6E 1089,16:20,16:22,2,Arrived
+2026-10-29,BOM,Starlight Airline,Udaipur,QP 1156,16:10,16:25,15,Arrived
+2026-10-29,BOM,IndiGo,Hyderabad,6E 5099,15:55,16:27,32,Arrived
+2026-10-29,BOM,IndiGo,New Delhi,6E 6022,16:25,16:32,7,Arrived
+2026-10-29,BOM,Alliance Air,Diu,9I 624,18:10,16:37,-93,Arrived
+2026-10-29,BOM,IndiGo,Srinagar,6E 5068,16:25,16:40,15,Arrived
+2026-10-29,BOM,IndiGo,Dubai,6E 1452,17:00,16:44,-16,Arrived
+2026-10-29,BOM,IndiGo,Kolkata,6E 5227,16:50,16:47,-3,Arrived
+2026-10-29,BOM,Air India,Bangalore,AI 2854,17:25,16:54,-31,Arrived
+2026-10-29,BOM,Air India,Udaipur,AI 2594,16:35,16:57,22,Arrived
+2026-10-29,BOM,Starlight Airline,Bangalore,QP 1150,17:10,16:59,-11,Arrived
