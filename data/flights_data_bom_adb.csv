@@ -13392,3 +13392,13 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-28,BOM,IndiGo,Kolkata,6E 5128,22:00,21:47,-13,Arrived
 2026-10-28,BOM,Air India,New Delhi,AI 2977,21:25,21:49,24,Arrived
 2026-10-28,BOM,IndiGo,Bhubaneswar,6E 459,20:40,21:50,70,Arrived
+2026-10-29,BOM,British,London,BA 135,05:40,06:50,70,Arrived
+2026-10-29,BOM,Air India,Ahmedabad,AI 2918,07:25,06:54,-31,Arrived
+2026-10-29,BOM,IndiGo,New Delhi,6E 449,07:25,06:57,-28,Arrived
+2026-10-29,BOM,Air Tanzania,Dar es Salaam,TC 400,04:40,07:00,140,Arrived
+2026-10-29,BOM,Air India,Hyderabad,AI 2872,07:25,07:03,-22,Arrived
+2026-10-29,BOM,IndiGo,Chennai,6E 5093,07:35,07:08,-27,Arrived
+2026-10-29,BOM,IndiGo,Vasco da Gama,6E 2175,07:40,07:13,-27,Arrived
+2026-10-29,BOM,Kuwait,Kuwait City,KU 303,08:05,07:26,-39,Arrived
+2026-10-29,BOM,IndiGo,Doha,6E 1342,07:40,07:29,-11,Arrived
+2026-10-29,BOM,Air India,New Delhi,AI 2573,07:55,07:33,-22,Arrived
