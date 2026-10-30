@@ -6407,3 +6407,20 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-10-30,MAA,IndiGo,Mumbai,6E5048,22:20,22:46,26,Arrived
 2026-10-30,MAA,Scoot  Tiger Air Pvt Ltd,Singapore,TR0778,22:50,22:48,-2,Arrived
 2026-10-30,MAA,IndiGo,Goa,6E0589,22:35,22:51,16,Arrived
+2026-10-30,MAA,IndiGo,Madurai,6E2594,23:00,22:54,-6,Arrived
+2026-10-30,MAA,Airasia,Kuala Lumpur,AK0013,23:05,22:57,-8,Arrived
+2026-10-30,MAA,IndiGo,Cochin/Kochi,6E0387,23:00,23:00,0,Arrived
+2026-10-30,MAA,Malaysia Airlines,Kuala Lumpur,MH0180,23:05,23:05,0,Arrived
+2026-10-30,MAA,Air India,Delhi,AI2835,22:50,23:08,18,Arrived
+2026-10-30,MAA,Thai Airasia,Don Muang International Bangkok,FD0153,22:55,23:14,19,Arrived
+2026-10-30,MAA,IndiGo,Trichy,6E7364,23:15,23:18,3,Arrived
+2026-10-30,MAA,IndiGo,Hyderabad,6E6617,23:00,23:21,21,Arrived
+2026-10-30,MAA,IndiGo,Lucknow,6E0518,22:40,23:24,44,Arrived
+2026-10-30,MAA,IndiGo,Delhi,6E6341,23:05,23:27,22,Arrived
+2026-10-30,MAA,IndiGo,Kolkata,6E0234,23:40,23:35,-5,Arrived
+2026-10-30,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0143,23:30,23:38,8,Arrived
+2026-10-30,MAA,IndiGo,Bengaluru,6E6174,23:45,23:41,-4,Arrived
+2026-10-31,MAA,Thai Airways,Bangkok,TG0337,00:00,23:46,-14,Arrived
+2026-10-31,MAA,IndiGo,Bhubaneswar,6E0145,00:25,23:59,-26,Arrived
+2026-10-30,MAA,Air India,Mumbai,AI0639,23:50,00:18,28,Arrived
+2026-10-30,MAA,IndiGo,Jaipur,6E0694,23:25,00:22,57,Arrived
