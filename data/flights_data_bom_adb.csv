@@ -13454,3 +13454,35 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-01,BOM,IndiGo,Naqpur,6E 6025,08:35,08:09,-26,Arrived
 2026-11-01,BOM,IndiGo,Coimbatore,6E 5108,08:40,08:12,-28,Arrived
 2026-11-01,BOM,IndiGo,Bangalore,6E 5216,08:55,08:17,-38,Arrived
+2026-11-01,BOM,Air India,Amritsar,AI 2998,16:00,15:45,-15,Arrived
+2026-11-01,BOM,IndiGo,New Delhi,6E 324,15:45,15:47,2,Arrived
+2026-11-01,BOM,Air India,Vasco da Gama,AI 2842,14:50,15:50,60,Arrived
+2026-11-01,BOM,Starlight Airline,Chennai,QP 1146,16:00,15:53,-7,Arrived
+2026-11-01,BOM,IndiGo,Vasco da Gama,6E 5007,15:35,15:55,20,Arrived
+2026-11-01,BOM,Air India,New Delhi,AI 2951,15:55,15:58,3,Arrived
+2026-11-01,BOM,Air India,Bangalore,AI 2624,15:40,16:01,21,Arrived
+2026-11-01,BOM,IndiGo,Port Blair,6E 5170,15:20,16:06,46,Arrived
+2026-11-01,BOM,IndiGo,Ahmedabad,6E 5160,16:05,16:09,4,Arrived
+2026-11-01,BOM,IndiGo,Hyderabad,6E 5099,15:55,16:12,17,Arrived
+2026-11-01,BOM,Air India,Udaipur,AI 2594,16:35,16:14,-21,Arrived
+2026-11-01,BOM,IndiGo,Bangkok,6E 1089,16:20,16:18,-2,Arrived
+2026-11-01,BOM,Air India,Lucknow,AI 2492,16:30,16:20,-10,Arrived
+2026-11-01,BOM,Air India Express,Jodhpur,IX 1262,16:35,16:27,-8,Arrived
+2026-11-01,BOM,IndiGo,Kolkata,6E 5227,16:50,16:31,-19,Arrived
+2026-11-01,BOM,Air India,Port Louis,AI 2242,17:10,16:37,-33,Arrived
+2026-11-01,BOM,Starlight Airline,Hanoi,QP 626,17:10,16:39,-31,Arrived
+2026-11-01,BOM,Starlight Airline,Udaipur,QP 1156,16:10,16:42,32,Arrived
+2026-11-01,BOM,IndiGo,Dubai,6E 1452,17:00,16:45,-15,Arrived
+2026-11-01,BOM,Air India,Patna,AI 2790,16:50,16:48,-2,Arrived
+2026-11-01,BOM,IndiGo,New Delhi,6E 6022,16:25,16:50,25,Arrived
+2026-11-01,BOM,Air India,Bangalore,AI 2483,16:50,16:53,3,Arrived
+2026-11-01,BOM,IndiGo,Srinagar,6E 5068,16:25,16:56,31,Arrived
+2026-11-01,BOM,Air India Express,Mangalore,IX 1070,16:55,17:01,6,Arrived
+2026-11-01,BOM,Air India,Bangalore,AI 2854,17:25,17:04,-21,Arrived
+2026-11-01,BOM,IndiGo,Ranchi,6E 6088,16:35,17:08,33,Arrived
+2026-11-01,BOM,IndiGo,New Delhi,6E 6318,17:20,17:11,-9,Arrived
+2026-11-01,BOM,SpiceJet,Darbhanga,SG 116,16:15,17:13,58,Arrived
+2026-11-01,BOM,Air India,Chandigarh,AI 2682,16:55,17:16,21,Arrived
+2026-11-01,BOM,Starlight Airline,Siliguri,QP 1132,17:50,17:21,-29,Arrived
+2026-11-01,BOM,IndiGo,Udaipur,6E 5155,17:05,17:24,19,Arrived
+2026-11-01,BOM,IndiGo,Vasco da Gama,6E 5231,17:55,17:27,-28,Arrived
