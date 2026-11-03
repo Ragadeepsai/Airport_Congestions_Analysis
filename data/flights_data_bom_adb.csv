@@ -13523,3 +13523,19 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-02,BOM,IndiGo,Bangalore,6E 5255,19:30,19:07,-23,Arrived
 2026-11-02,BOM,Etihad,Abu Dhabi,EY 204,19:00,19:10,10,Arrived
 2026-11-02,BOM,IndiGo,Chennai,6E 5104,19:20,19:13,-7,Arrived
+2026-11-03,BOM,flynas,Ad Dammam,XY 321,03:05,04:01,56,Arrived
+2026-11-03,BOM,I A W,Baghdad,IA 441,04:00,04:03,3,Arrived
+2026-11-03,BOM,Royal Jordanian,Amman,RJ 190,04:00,04:05,5,Arrived
+2026-11-03,BOM,IndiGo,Amsterdam,6E 22,04:20,04:07,-13,Arrived
+2026-11-03,BOM,Air India Express,Muscat,IX 314,04:25,04:10,-15,Arrived
+2026-11-03,BOM,Air France,Paris,AF 206,03:05,04:12,67,Arrived
+2026-11-03,BOM,Air India,Doha,AI 2290,04:30,04:15,-15,Arrived
+2026-11-03,BOM,IndiGo,Kolkata,6E 5243,04:45,04:21,-24,Arrived
+2026-11-03,BOM,Air India,London,AI 128,04:40,04:23,-17,Arrived
+2026-11-03,BOM,SalamAir,Muscat,OV 761,04:35,04:25,-10,Arrived
+2026-11-03,BOM,IndiGo,Muscat,6E 1268,04:20,04:27,7,Arrived
+2026-11-03,BOM,Gulf Air,Manama,GF 56,05:10,04:43,-27,Arrived
+2026-11-03,BOM,IndiGo,Bangalore,6E 5205,05:05,04:45,-20,Arrived
+2026-11-03,BOM,Air India,Dubai,AI 984,04:30,04:49,19,Arrived
+2026-11-03,BOM,Air Arabia,Sharjah,G9 405,04:15,04:54,39,Arrived
+2026-11-03,BOM,Turkish,Istanbul,TK 720,05:20,05:09,-11,Arrived
