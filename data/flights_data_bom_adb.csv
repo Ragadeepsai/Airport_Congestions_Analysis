@@ -13566,3 +13566,4 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-03,BOM,IndiGo,Kathmandu,6E 1916,17:35,17:54,19,Arrived
 2026-11-03,BOM,IndiGo,Vasco da Gama,6E 5231,17:55,17:57,2,Arrived
 2026-11-03,BOM,IndiGo,Bangalore,6E 5031,18:10,17:59,-11,Arrived
+2026-11-03,BOM,SpiceJet,Kochi,SG 705,21:40,05:30,470,Arrived
