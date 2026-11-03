@@ -13539,3 +13539,30 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-03,BOM,Air India,Dubai,AI 984,04:30,04:49,19,Arrived
 2026-11-03,BOM,Air Arabia,Sharjah,G9 405,04:15,04:54,39,Arrived
 2026-11-03,BOM,Turkish,Istanbul,TK 720,05:20,05:09,-11,Arrived
+2026-11-03,BOM,Air India,Udaipur,AI 2594,16:35,16:41,6,Arrived
+2026-11-03,BOM,Air India Express,Jodhpur,IX 1262,16:35,16:45,10,Arrived
+2026-11-03,BOM,Air India,Bangalore,AI 2854,17:25,16:55,-30,Arrived
+2026-11-03,BOM,IndiGo,Ranchi,6E 6088,16:35,17:00,25,Arrived
+2026-11-03,BOM,IndiGo,New Delhi,6E 6318,17:20,17:03,-17,Arrived
+2026-11-03,BOM,Air India,Vasco da Gama,AI 2478,16:50,17:05,15,Arrived
+2026-11-03,BOM,Air India,Patna,AI 2790,16:50,17:08,18,Arrived
+2026-11-03,BOM,Air India,Chandigarh,AI 2682,16:55,17:09,14,Arrived
+2026-11-03,BOM,IndiGo,Jodhpur,6E 5155,17:05,17:12,7,Arrived
+2026-11-03,BOM,Starlight Airline,Mopa,QP 1106,17:05,17:14,9,Arrived
+2026-11-03,BOM,Air India,Lucknow,AI 2492,16:30,17:17,47,Arrived
+2026-11-03,BOM,Air India Express,Mangalore,IX 1070,17:05,17:18,13,Arrived
+2026-11-03,BOM,IndiGo,Kanpur,6E 6084,16:35,17:21,46,Arrived
+2026-11-03,BOM,IndiGo,Udaipur,6E 5324,17:05,17:23,18,Arrived
+2026-11-03,BOM,Emirates,Dubai,EK 502,17:50,17:26,-24,Arrived
+2026-11-03,BOM,Air India,Indore,AI 2616,17:30,17:28,-2,Arrived
+2026-11-03,BOM,IndiGo,Allahabad,6E 6938,17:45,17:31,-14,Arrived
+2026-11-03,BOM,IndiGo,Jammu,6E 604,17:35,17:34,-1,Arrived
+2026-11-03,BOM,Air India,Tokyo,AI 355,18:20,17:35,-45,Arrived
+2026-11-03,BOM,Air India,Bangalore,AI 2483,16:50,17:39,49,Arrived
+2026-11-03,BOM,Air India Express,Varanasi,IX 2547,17:40,17:41,1,Arrived
+2026-11-03,BOM,Air India,Dehradun,AI 432,17:25,17:44,19,Arrived
+2026-11-03,BOM,IndiGo,Coimbatore,6E 436,17:15,17:46,31,Arrived
+2026-11-03,BOM,IndiGo,Bangalore,6E 5351,17:40,17:49,9,Arrived
+2026-11-03,BOM,IndiGo,Kathmandu,6E 1916,17:35,17:54,19,Arrived
+2026-11-03,BOM,IndiGo,Vasco da Gama,6E 5231,17:55,17:57,2,Arrived
+2026-11-03,BOM,IndiGo,Bangalore,6E 5031,18:10,17:59,-11,Arrived
