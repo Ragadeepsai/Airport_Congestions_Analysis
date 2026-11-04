@@ -13603,3 +13603,16 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-04,BOM,IndiGo,Kochi,6E 436,17:15,17:21,6,Arrived
 2026-11-04,BOM,IndiGo,Allahabad,6E 6938,17:45,17:23,-22,Arrived
 2026-11-04,BOM,Air India,Bangalore,AI 2854,17:25,17:27,2,Arrived
+2026-11-05,BOM,Qatar,Doha,QR 556,02:35,02:32,-3,Arrived
+2026-11-05,BOM,Emirates,Dubai,EK 500,02:15,02:35,20,Arrived
+2026-11-05,BOM,AZAL Azerbaijan,Baku,J2 59,03:00,02:40,-20,Arrived
+2026-11-04,BOM,SpiceJet,New Delhi,SG 612,21:40,02:43,303,Arrived
+2026-11-05,BOM,Virgin Atlantic,London,VS 358,02:55,02:54,-1,Arrived
+2026-11-05,BOM,IndiGo,Abu Dhabi,6E 1402,03:00,03:04,4,Arrived
+2026-11-05,BOM,flynas,Riyadh,XY 321,03:05,04:02,57,Arrived
+2026-11-05,BOM,Air India Express,Muscat,IX 314,04:25,04:05,-20,Arrived
+2026-11-05,BOM,I A W,Baghdad,IA 441,04:05,04:10,5,Arrived
+2026-11-05,BOM,Air India,Doha,AI 2290,04:30,04:12,-18,Arrived
+2026-11-05,BOM,IndiGo,Amsterdam,6E 22,04:20,04:14,-6,Arrived
+2026-11-05,BOM,IndiGo,Kolkata,6E 5243,04:45,04:17,-28,Arrived
+2026-11-05,BOM,SpiceJet,Dubai,SG 5114,01:35,11:20,585,Arrived
