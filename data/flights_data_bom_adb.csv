@@ -13591,3 +13591,15 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-04,BOM,IndiGo,Aurangabad,6E 2153,08:45,08:30,-15,Arrived
 2026-11-04,BOM,IndiGo,Abu Dhabi,6E 1414,08:30,08:33,3,Arrived
 2026-11-04,BOM,Air India,Jaipur,AI 414,08:55,08:37,-18,Arrived
+2026-11-04,BOM,Air India Express,Mangalore,IX 1070,17:05,16:56,-9,Arrived
+2026-11-04,BOM,Air India,Indore,AI 2616,17:30,17:01,-29,Arrived
+2026-11-04,BOM,Air India,Port Louis,AI 2242,17:10,17:02,-8,Arrived
+2026-11-04,BOM,IndiGo,Jodhpur,6E 5155,17:05,17:04,-1,Arrived
+2026-11-04,BOM,IndiGo,Udaipur,6E 5324,17:05,17:07,2,Arrived
+2026-11-04,BOM,Starlight Airline,Bangalore,QP 1150,17:10,17:09,-1,Arrived
+2026-11-04,BOM,Air India,Chandigarh,AI 2682,16:55,17:11,16,Arrived
+2026-11-04,BOM,Starlight Airline,Mopa,QP 1106,17:05,17:13,8,Arrived
+2026-11-04,BOM,Nepal,Kathmandu,RA 201,16:30,17:18,48,Arrived
+2026-11-04,BOM,IndiGo,Kochi,6E 436,17:15,17:21,6,Arrived
+2026-11-04,BOM,IndiGo,Allahabad,6E 6938,17:45,17:23,-22,Arrived
+2026-11-04,BOM,Air India,Bangalore,AI 2854,17:25,17:27,2,Arrived
