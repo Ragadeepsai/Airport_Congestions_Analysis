@@ -13648,3 +13648,24 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-05,BOM,Emirates,Dubai,EK 504,08:30,09:11,41,Arrived
 2026-11-05,BOM,IndiGo,Kochi,6E 6279,09:35,09:14,-21,Arrived
 2026-11-05,BOM,SpiceJet,Dubai,SG 5114,01:35,11:20,585,Arrived
+2026-11-05,BOM,Air India,Bangalore,AI 2854,17:25,17:09,-16,Arrived
+2026-11-05,BOM,Air India,Patna,AI 2790,16:50,17:13,23,Arrived
+2026-11-05,BOM,IndiGo,Dubai,6E 1452,17:00,17:15,15,Arrived
+2026-11-05,BOM,Alliance Air,Diu,9I 624,18:10,17:18,-52,Arrived
+2026-11-05,BOM,Air India,Vasco da Gama,AI 2478,16:50,17:27,37,Arrived
+2026-11-05,BOM,IndiGo,Jammu,6E 604,17:35,17:29,-6,Arrived
+2026-11-05,BOM,Air India Express,Mangalore,IX 1070,17:05,17:32,27,Arrived
+2026-11-05,BOM,IndiGo,Ranchi,6E 6088,16:35,17:35,60,Arrived
+2026-11-05,BOM,Starlight Airline,Mopa,QP 1106,17:05,17:38,33,Arrived
+2026-11-05,BOM,IndiGo,Jodhpur,6E 5155,17:05,17:41,36,Arrived
+2026-11-05,BOM,IndiGo,Bangalore,6E 5351,17:40,17:44,4,Arrived
+2026-11-05,BOM,Air India,Tokyo,AI 355,17:50,17:47,-3,Arrived
+2026-11-05,BOM,Emirates,Dubai,EK 502,17:50,17:49,-1,Arrived
+2026-11-05,BOM,IndiGo,Kanpur,6E 6084,16:35,17:53,78,Arrived
+2026-11-05,BOM,Starlight Airline,Siliguri,QP 1132,17:50,17:56,6,Arrived
+2026-11-05,BOM,IndiGo,Vasco da Gama,6E 5231,17:55,17:59,4,Arrived
+2026-11-05,BOM,Air India,New Delhi,AI 2933,17:45,18:02,17,Arrived
+2026-11-05,BOM,IndiGo,Allahabad,6E 6938,17:45,18:05,20,Arrived
+2026-11-05,BOM,IndiGo,Chennai,6E 2125,18:05,18:07,2,Arrived
+2026-11-05,BOM,IndiGo,New Delhi,6E 864,17:55,18:10,15,Arrived
+2026-11-05,BOM,IndiGo,Bangalore,6E 5031,18:10,18:12,2,Arrived
