@@ -13679,3 +13679,28 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-06,BOM,Starlight Airline,Hanoi,QP 626,17:10,17:20,10,Arrived
 2026-11-06,BOM,Starlight Airline,Siliguri,QP 1132,17:50,17:24,-26,Arrived
 2026-11-06,BOM,Air India Express,Mangalore,IX 1070,16:55,17:30,35,Arrived
+2026-11-07,BOM,Air India,Ahmedabad,AI 2918,07:25,07:06,-19,Arrived
+2026-11-07,BOM,Air India,Hyderabad,AI 2872,07:25,07:10,-15,Arrived
+2026-11-07,BOM,IndiGo,Chennai,6E 5093,07:35,07:13,-22,Arrived
+2026-11-07,BOM,IndiGo,Vasco da Gama,6E 2175,07:40,07:16,-24,Arrived
+2026-11-07,BOM,Starlight Airline,Bangalore,QP 1331,07:35,07:20,-15,Arrived
+2026-11-07,BOM,Air India,New Delhi,AI 2573,07:55,07:23,-32,Arrived
+2026-11-07,BOM,IndiGo,Doha,6E 1342,07:40,07:27,-13,Arrived
+2026-11-07,BOM,Kuwait,Kuwait City,KU 303,08:05,07:30,-35,Arrived
+2026-11-07,BOM,IndiGo,Indore,6E 6184,08:10,07:34,-36,Arrived
+2026-11-07,BOM,Starlight Airline,Kolkata,QP 1251,07:45,07:42,-3,Arrived
+2026-11-07,BOM,IndiGo,Hyderabad,6E 6196,08:15,07:46,-29,Arrived
+2026-11-07,BOM,Air India,Vasco da Gama,AI 604,08:25,07:49,-36,Arrived
+2026-11-07,BOM,IndiGo,Coimbatore,6E 5108,08:40,07:53,-47,Arrived
+2026-11-07,BOM,IndiGo,Naqpur,6E 6025,08:35,07:55,-40,Arrived
+2026-11-07,BOM,IndiGo,Chandigarh,6E 6382,08:35,07:57,-38,Arrived
+2026-11-07,BOM,IndiGo,New Delhi,6E 6218,08:25,08:03,-22,Arrived
+2026-11-07,BOM,IndiGo,Ahmedabad,6E 6285,08:25,08:08,-17,Arrived
+2026-11-07,BOM,Air India,Jaipur,AI 414,08:55,08:11,-44,Arrived
+2026-11-07,BOM,Air India,New Delhi,AI 2975,08:55,08:15,-40,Arrived
+2026-11-07,BOM,IndiGo,Aurangabad,6E 2153,08:45,08:18,-27,Arrived
+2026-11-07,BOM,IndiGo,Bangalore,6E 5216,08:55,08:24,-31,Arrived
+2026-11-07,BOM,IndiGo,Abu Dhabi,6E 1414,08:30,08:29,-1,Arrived
+2026-11-07,BOM,Air India Express,Mopa,IX 2368,08:45,08:34,-11,Arrived
+2026-11-07,BOM,Air India,Hyderabad,AI 2626,09:10,08:36,-34,Arrived
+2026-11-07,BOM,IndiGo,Chennai,6E 5314,09:00,08:40,-20,Arrived

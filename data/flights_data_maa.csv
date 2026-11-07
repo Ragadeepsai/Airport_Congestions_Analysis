@@ -7124,3 +7124,15 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-07,MAA,Royal Brunei Airlines,Brunei,BI0121,03:30,03:25,-5,Arrived
 2026-11-07,MAA,Emirates,Dubai,EK0542,02:20,03:44,84,Arrived
 2026-11-07,MAA,IndiGo,Colombo,6E1172,04:25,03:52,-33,Arrived
+2026-11-07,MAA,IndiGo,Pune,6E0914,03:55,04:06,11,Arrived
+2026-11-07,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0141,04:10,04:17,7,Arrived
+2026-11-07,MAA,Kuwait Airways,Kuwait,KU0341,04:50,04:28,-22,Arrived
+2026-11-07,MAA,IndiGo,Delhi,6E0933,05:00,04:31,-29,Arrived
+2026-11-07,MAA,IndiGo,Pune,6E2508,05:15,04:59,-16,Arrived
+2026-11-07,MAA,British Airways,London Heathrow,BA0035,05:35,05:53,18,Arrived
+2026-11-07,MAA,IndiGo,Mumbai,6E0136,06:15,05:59,-16,Arrived
+2026-11-07,MAA,Oman Air,Muscat,WY0251,06:25,06:05,-20,Arrived
+2026-11-07,MAA,Akasa Air,Mumbai,QP1145,07:00,06:46,-14,Arrived
+2026-11-07,MAA,IndiGo,Kolkata,6E0344,07:25,06:50,-35,Arrived
+2026-11-07,MAA,IndiGo,Kuala Lumpur,6E1032,07:05,06:58,-7,Arrived
+2026-11-07,MAA,Airasia,Kuala Lumpur,AK0011,07:25,07:09,-16,Arrived
