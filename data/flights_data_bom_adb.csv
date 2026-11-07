@@ -13718,3 +13718,9 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-07,BOM,IndiGo,Vasco da Gama,6E 5007,15:35,16:08,33,Arrived
 2026-11-07,BOM,IndiGo,Dhaka,6E 1116,16:20,16:18,-2,Arrived
 2026-11-07,BOM,Starlight Airline,Chennai,QP 1146,16:00,16:20,20,Arrived
+2026-11-08,BOM,KLM,Amsterdam,KL 877,00:30,00:41,11,Arrived
+2026-11-08,BOM,Air India,New Delhi,AI 2999,00:25,00:44,19,Arrived
+2026-11-07,BOM,IndiGo,Patna,6E 5279,23:50,00:53,63,Arrived
+2026-11-08,BOM,AZAL Azerbaijan,Baku,J2 59,01:10,00:55,-15,Arrived
+2026-11-08,BOM,IndiGo,Chennai,6E 5236,00:05,00:58,53,Arrived
+2026-11-08,BOM,Saudi Arabian,Jeddah,SV 772,00:50,00:59,9,Arrived
