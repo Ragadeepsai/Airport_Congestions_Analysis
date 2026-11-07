@@ -13704,3 +13704,17 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-07,BOM,Air India Express,Mopa,IX 2368,08:45,08:34,-11,Arrived
 2026-11-07,BOM,Air India,Hyderabad,AI 2626,09:10,08:36,-34,Arrived
 2026-11-07,BOM,IndiGo,Chennai,6E 5314,09:00,08:40,-20,Arrived
+2026-11-07,BOM,IndiGo,Srinagar,6E 215,16:20,15:31,-49,Arrived
+2026-11-07,BOM,Air India Express,Bhopal,IX 2208,15:15,15:34,19,Arrived
+2026-11-07,BOM,IndiGo,Chennai,6E 5258,16:05,15:37,-28,Arrived
+2026-11-07,BOM,IndiGo,Vasco da Gama,6E 262,14:50,15:39,49,Arrived
+2026-11-07,BOM,Air India,New Delhi,AI 2951,15:55,15:45,-10,Arrived
+2026-11-07,BOM,Air India,Bangalore,AI 2624,15:40,15:48,8,Arrived
+2026-11-07,BOM,IndiGo,Bangalore,6E 5218,15:40,15:51,11,Arrived
+2026-11-07,BOM,Air India,Hyderabad,AI 2618,15:35,15:53,18,Arrived
+2026-11-07,BOM,IndiGo,Ahmedabad,6E 5160,16:05,15:58,-7,Arrived
+2026-11-07,BOM,IndiGo,Nairobi,6E 1734,15:25,16:01,36,Arrived
+2026-11-07,BOM,IndiGo,Tiruchirappally,6E 2017,15:50,16:04,14,Arrived
+2026-11-07,BOM,IndiGo,Vasco da Gama,6E 5007,15:35,16:08,33,Arrived
+2026-11-07,BOM,IndiGo,Dhaka,6E 1116,16:20,16:18,-2,Arrived
+2026-11-07,BOM,Starlight Airline,Chennai,QP 1146,16:00,16:20,20,Arrived
