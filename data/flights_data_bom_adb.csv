@@ -13749,3 +13749,22 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-08,BOM,IndiGo,Bangalore,6E 5216,08:55,08:10,-45,Arrived
 2026-11-08,BOM,IndiGo,Coimbatore,6E 5108,08:40,08:12,-28,Arrived
 2026-11-08,BOM,IndiGo,Aurangabad,6E 2153,08:45,08:14,-31,Arrived
+2026-11-08,BOM,IndiGo,New Delhi,6E 6022,16:25,15:55,-30,Arrived
+2026-11-08,BOM,Air India,New York,AI 116,12:35,15:57,202,Arrived
+2026-11-08,BOM,Air India Express,Jodhpur,IX 1262,16:35,16:01,-34,Arrived
+2026-11-08,BOM,IndiGo,Udaipur,6E 5155,17:05,16:03,-62,Arrived
+2026-11-08,BOM,Air India,Udaipur,AI 2594,16:35,16:06,-29,Arrived
+2026-11-08,BOM,IndiGo,Hyderabad,6E 5099,15:55,16:10,15,Arrived
+2026-11-08,BOM,Air India,Lucknow,AI 2492,16:30,16:13,-17,Arrived
+2026-11-08,BOM,IndiGo,Ahmedabad,6E 5160,16:05,16:14,9,Arrived
+2026-11-08,BOM,Starlight Airline,Hyderabad,QP 6502,16:25,16:18,-7,Arrived
+2026-11-08,BOM,IndiGo,Kolkata,6E 5227,16:50,16:22,-28,Arrived
+2026-11-08,BOM,IndiGo,Dubai,6E 1452,17:00,16:24,-36,Arrived
+2026-11-08,BOM,Air India,Patna,AI 2790,16:50,16:27,-23,Arrived
+2026-11-08,BOM,Air India Express,Mangalore,IX 1070,16:55,16:29,-26,Arrived
+2026-11-08,BOM,IndiGo,Kanpur,6E 6084,16:35,16:32,-3,Arrived
+2026-11-08,BOM,IndiGo,Bangkok,6E 1089,16:20,16:35,15,Arrived
+2026-11-08,BOM,Air India,Port Louis,AI 2242,17:10,16:38,-32,Arrived
+2026-11-08,BOM,IndiGo,Bangalore,6E 5351,17:40,16:41,-59,Arrived
+2026-11-08,BOM,Starlight Airline,Mopa,QP 1106,17:05,16:44,-21,Arrived
+2026-11-08,BOM,Air India,Chandigarh,AI 2682,16:55,16:46,-9,Arrived
