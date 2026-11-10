@@ -13787,3 +13787,14 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-09,BOM,Qatar,Doha,QR 556,02:35,02:24,-11,Arrived
 2026-11-09,BOM,IndiGo,Amsterdam,6E 22,02:30,02:27,-3,Arrived
 2026-11-09,BOM,Etihad,Abu Dhabi,EY 206,02:05,02:30,25,Arrived
+2026-11-10,BOM,Air India,Dubai,AI 984,04:30,04:27,-3,Arrived
+2026-11-10,BOM,IndiGo,Bangalore,6E 5205,05:05,04:33,-32,Arrived
+2026-11-10,BOM,Gulf Air,Manama,GF 56,05:10,04:41,-29,Arrived
+2026-11-10,BOM,Air Arabia,Sharjah,G9 405,04:15,04:44,29,Arrived
+2026-11-10,BOM,IndiGo,Ras Al Khaimah,6E 1492,05:15,04:48,-27,Arrived
+2026-11-10,BOM,IndiGo,New Delhi,6E 353,05:55,05:02,-53,Arrived
+2026-11-10,BOM,Turkish,Istanbul,TK 720,05:20,05:15,-5,Arrived
+2026-11-10,BOM,IndiGo,Manama,6E 1202,05:45,05:35,-10,Arrived
+2026-11-10,BOM,Air India Express,Abu Dhabi,IX 262,05:55,05:39,-16,Arrived
+2026-11-10,BOM,British,London,BA 135,05:40,05:53,13,Arrived
+2026-11-10,BOM,IndiGo,Bangalore,6E 5089,06:40,05:56,-44,Arrived
