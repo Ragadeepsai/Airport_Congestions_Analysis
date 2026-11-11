@@ -7301,3 +7301,31 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-11,MAA,Air Arabia,Sharjah,G90471,03:00,02:55,-5,Arrived
 2026-11-11,MAA,IndiGo,Pune,6E0914,03:55,03:53,-2,Arrived
 2026-11-11,MAA,IndiGo,Colombo,6E1172,04:25,04:06,-19,Arrived
+2026-11-11,MAA,Gulf Air,Bahrain,GF0068,04:45,04:17,-28,Arrived
+2026-11-11,MAA,IndiGo,Delhi,6E0933,05:00,04:21,-39,Arrived
+2026-11-11,MAA,Air Arabia Abu Dhabi,Abu Dhabi,3L0141,04:10,04:24,14,Arrived
+2026-11-11,MAA,IndiGo,Pune,6E2508,05:15,05:03,-12,Arrived
+2026-11-11,MAA,British Airways,London Heathrow,BA0035,05:35,05:06,-29,Arrived
+2026-11-11,MAA,IndiGo,Mumbai,6E0136,06:15,05:43,-32,Arrived
+2026-11-11,MAA,Oman Air,Muscat,WY0251,06:25,06:14,-11,Arrived
+2026-11-11,MAA,IndiGo,Kuala Lumpur,6E1032,07:05,06:55,-10,Arrived
+2026-11-11,MAA,Akasa Air,Mumbai,QP1145,07:00,06:58,-2,Arrived
+2026-11-11,MAA,IndiGo,Kolkata,6E0344,07:25,07:09,-16,Arrived
+2026-11-11,MAA,Airasia,Kuala Lumpur,AK0011,07:25,07:38,13,Arrived
+2026-11-11,MAA,IndiGo,Bengaluru,6E6269,08:15,07:46,-29,Arrived
+2026-11-11,MAA,IndiGo,Delhi,6E0976,08:20,07:53,-27,Arrived
+2026-11-11,MAA,Etihad Airways,Abu Dhabi,EY0342,08:05,08:05,0,Arrived
+2026-11-11,MAA,IndiGo,Hyderabad,6E0243,08:30,08:09,-21,Arrived
+2026-11-11,MAA,Emirates,Dubai,EK0544,08:15,08:18,3,Arrived
+2026-11-11,MAA,Air India,Delhi,AI2525,08:55,08:21,-34,Arrived
+2026-11-11,MAA,Air India Express,Bengaluru,IX2786,08:55,08:25,-30,Arrived
+2026-11-11,MAA,Sri Lankan Airlines,Colombo,UL0121,08:45,08:35,-10,Arrived
+2026-11-11,MAA,Singapore Airlines,Singapore,SQ0524,08:45,08:39,-6,Arrived
+2026-11-11,MAA,Air India,Mumbai,AI2821,08:40,08:42,2,Arrived
+2026-11-11,MAA,Air India Express,Kolkata,IX1254,09:10,08:45,-25,Arrived
+2026-11-11,MAA,IndiGo,Penang International Airport,6E1046,09:05,08:50,-15,Arrived
+2026-11-11,MAA,IndiGo,Navi Mumbai,6E2128,09:05,08:53,-12,Arrived
+2026-11-11,MAA,IndiGo,Visakhapatnam,6E0845,09:35,08:56,-39,Arrived
+2026-11-11,MAA,IndiGo,Mumbai,6E5188,09:15,08:59,-16,Arrived
+2026-11-11,MAA,IndiGo,Trivandrum,6E6603,09:15,09:01,-14,Arrived
+2026-11-11,MAA,IndiGo,Pune,6E0159,09:05,09:04,-1,Arrived

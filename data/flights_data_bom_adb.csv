@@ -13798,3 +13798,13 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-10,BOM,Air India Express,Abu Dhabi,IX 262,05:55,05:39,-16,Arrived
 2026-11-10,BOM,British,London,BA 135,05:40,05:53,13,Arrived
 2026-11-10,BOM,IndiGo,Bangalore,6E 5089,06:40,05:56,-44,Arrived
+2026-11-11,BOM,IndiGo,Fujairah,6E 1502,08:05,07:05,-60,Arrived
+2026-11-11,BOM,IndiGo,Doha,6E 1342,07:40,07:08,-32,Arrived
+2026-11-11,BOM,IndiGo,Vasco da Gama,6E 2175,07:40,07:17,-23,Arrived
+2026-11-11,BOM,Starlight Airline,Kolkata,QP 1251,07:55,07:22,-33,Arrived
+2026-11-11,BOM,British,London,BA 135,05:40,07:26,106,Arrived
+2026-11-11,BOM,Air India,New Delhi,AI 2573,07:55,07:30,-25,Arrived
+2026-11-11,BOM,IndiGo,Indore,6E 6184,08:10,07:32,-38,Arrived
+2026-11-11,BOM,Kuwait,Kuwait City,KU 303,08:05,07:36,-29,Arrived
+2026-11-11,BOM,Royal Jordanian,Amman,RJ 192,07:45,07:40,-5,Arrived
+2026-11-11,BOM,IndiGo,Hyderabad,6E 6196,08:15,07:43,-32,Arrived
