@@ -13808,3 +13808,37 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-11,BOM,Kuwait,Kuwait City,KU 303,08:05,07:36,-29,Arrived
 2026-11-11,BOM,Royal Jordanian,Amman,RJ 192,07:45,07:40,-5,Arrived
 2026-11-11,BOM,IndiGo,Hyderabad,6E 6196,08:15,07:43,-32,Arrived
+2026-11-11,BOM,Air India,Patna,AI 2790,16:50,16:39,-11,Arrived
+2026-11-11,BOM,IndiGo,Srinagar,6E 5068,16:25,16:42,17,Arrived
+2026-11-11,BOM,IndiGo,Udaipur,6E 5324,17:05,16:44,-21,Arrived
+2026-11-11,BOM,IndiGo,Dubai,6E 1452,17:00,16:47,-13,Arrived
+2026-11-11,BOM,IndiGo,Bangkok,6E 1089,16:20,16:50,30,Arrived
+2026-11-11,BOM,IndiGo,New Delhi,6E 6318,17:20,16:52,-28,Arrived
+2026-11-11,BOM,Air India,Port Louis,AI 2242,17:10,17:02,-8,Arrived
+2026-11-11,BOM,Starlight Airline,Mopa,QP 1106,17:05,17:04,-1,Arrived
+2026-11-11,BOM,Air India,Bangalore,AI 2854,17:25,17:07,-18,Arrived
+2026-11-11,BOM,Air India,Lucknow,AI 2492,16:30,17:12,42,Arrived
+2026-11-11,BOM,Air India Express,Mangalore,IX 1070,17:05,17:14,9,Arrived
+2026-11-11,BOM,Air India Express,Varanasi,IX 2547,17:40,17:16,-24,Arrived
+2026-11-11,BOM,Air India,Chandigarh,AI 2682,16:55,17:19,24,Arrived
+2026-11-11,BOM,IndiGo,Bangalore,6E 5351,17:40,17:22,-18,Arrived
+2026-11-11,BOM,Air India,Indore,AI 2616,17:30,17:24,-6,Arrived
+2026-11-11,BOM,IndiGo,Kanpur,6E 6084,16:35,17:27,52,Arrived
+2026-11-11,BOM,Air India,New Delhi,AI 2933,17:45,17:29,-16,Arrived
+2026-11-11,BOM,Air India,Bangalore,AI 2483,16:50,17:31,41,Arrived
+2026-11-11,BOM,Starlight Airline,Siliguri,QP 1132,17:50,17:34,-16,Arrived
+2026-11-11,BOM,IndiGo,Kathmandu,6E 1916,17:35,17:37,2,Arrived
+2026-11-11,BOM,IndiGo,New Delhi,6E 864,18:00,17:39,-21,Arrived
+2026-11-11,BOM,IndiGo,Vasco da Gama,6E 5231,17:55,17:41,-14,Arrived
+2026-11-11,BOM,Emirates,Dubai,EK 502,17:50,17:44,-6,Arrived
+2026-11-11,BOM,IndiGo,Ranchi,6E 6088,16:35,17:47,72,Arrived
+2026-11-11,BOM,Air India,Udaipur,AI 2596,18:15,17:49,-26,Arrived
+2026-11-11,BOM,Air India,Dehradun,AI 432,17:25,17:52,27,Arrived
+2026-11-11,BOM,IndiGo,Jodhpur,6E 5155,17:05,18:00,55,Arrived
+2026-11-11,BOM,IndiGo,Kochi,6E 436,17:15,18:03,48,Arrived
+2026-11-11,BOM,IndiGo,Bangalore,6E 5031,18:10,18:06,-4,Arrived
+2026-11-11,BOM,Air India,Bangkok,AI 2353,17:50,18:08,18,Arrived
+2026-11-11,BOM,IndiGo,Indore,6E 2389,18:05,18:12,7,Arrived
+2026-11-11,BOM,IndiGo,Chennai,6E 2125,18:05,18:16,11,Arrived
+2026-11-11,BOM,Air India,Bangalore,AI 2622,18:30,18:19,-11,Arrived
+2026-11-11,BOM,IndiGo,Patna,6E 2167,18:25,18:20,-5,Arrived
