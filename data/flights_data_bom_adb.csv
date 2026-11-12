@@ -13906,3 +13906,8 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-12,BOM,Air India Express,Jaipur,IX 1218,19:35,19:06,-29,Arrived
 2026-11-12,BOM,IndiGo,Hyderabad,6E 5259,18:55,19:09,14,Arrived
 2026-11-12,BOM,Etihad,Abu Dhabi,EY 204,19:00,19:11,11,Arrived
+2026-11-13,BOM,IndiGo,Vasco da Gama,6E 5210,02:40,02:32,-8,Arrived
+2026-11-13,BOM,flynas,Riyadh,XY 321,03:05,02:40,-25,Arrived
+2026-11-13,BOM,Air France,Paris,AF 206,03:05,02:42,-23,Arrived
+2026-11-13,BOM,IndiGo,Abu Dhabi,6E 1402,03:00,02:45,-15,Arrived
+2026-11-13,BOM,IndiGo,Doha,6E 1306,02:50,02:48,-2,Arrived
