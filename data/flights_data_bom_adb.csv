@@ -13873,3 +13873,36 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-12,BOM,Air India Express,Kochi,IX 2207,10:15,09:39,-36,Arrived
 2026-11-12,BOM,Air India,Ahmedabad,AI 494,09:50,09:42,-8,Arrived
 2026-11-12,BOM,IndiGo,Bangalore,6E 5051,10:10,09:45,-25,Arrived
+2026-11-12,BOM,Emirates,Dubai,EK 502,17:50,17:41,-9,Arrived
+2026-11-12,BOM,IndiGo,Allahabad,6E 6938,17:45,17:43,-2,Arrived
+2026-11-12,BOM,IndiGo,Kathmandu,6E 1916,17:35,17:46,11,Arrived
+2026-11-12,BOM,IndiGo,Vasco da Gama,6E 5231,17:55,17:49,-6,Arrived
+2026-11-12,BOM,Air India,Dehradun,AI 432,17:25,17:52,27,Arrived
+2026-11-12,BOM,IndiGo,Chennai,6E 2125,18:05,17:55,-10,Arrived
+2026-11-12,BOM,Air India,Bangkok,AI 2353,18:15,17:57,-18,Arrived
+2026-11-12,BOM,IndiGo,Bangalore,6E 5031,18:10,18:00,-10,Arrived
+2026-11-12,BOM,IndiGo,Jodhpur,6E 5155,17:05,18:03,58,Arrived
+2026-11-12,BOM,IndiGo,Ranchi,6E 6088,16:35,18:04,89,Arrived
+2026-11-12,BOM,Air India,Tokyo,AI 355,17:50,18:06,16,Arrived
+2026-11-12,BOM,IndiGo,Indore,6E 2389,18:05,18:09,4,Arrived
+2026-11-12,BOM,ANA,Tokyo,NH 829,18:35,18:11,-24,Arrived
+2026-11-12,BOM,IndiGo,New Delhi,6E 327,18:40,18:14,-26,Arrived
+2026-11-12,BOM,Air India,Dubai,AI 910,18:25,18:16,-9,Arrived
+2026-11-12,BOM,IndiGo,Patna,6E 2167,18:25,18:19,-6,Arrived
+2026-11-12,BOM,Air India Express,Mopa,IX 1293,18:40,18:22,-18,Arrived
+2026-11-12,BOM,Air India,Bangalore,AI 2622,18:30,18:25,-5,Arrived
+2026-11-12,BOM,Air India,New Delhi,AI 2941,18:55,18:31,-24,Arrived
+2026-11-12,BOM,IndiGo,Coimbatore,6E 5113,19:05,18:35,-30,Arrived
+2026-11-12,BOM,Air India,Kochi,AI 2856,18:45,18:41,-4,Arrived
+2026-11-12,BOM,Air India,Colombo,AI 2275,18:50,18:44,-6,Arrived
+2026-11-12,BOM,Air India Express,Ranchi,IX 1238,18:25,18:46,21,Arrived
+2026-11-12,BOM,Starlight Airline,New Delhi,QP 1114,18:45,18:48,3,Arrived
+2026-11-12,BOM,Air India,Lucknow,AI 3324,18:55,18:51,-4,Arrived
+2026-11-12,BOM,Air India,New Delhi,AI 441,19:25,18:53,-32,Arrived
+2026-11-12,BOM,Starlight Airline,Varanasi,QP 1428,18:45,18:56,11,Arrived
+2026-11-12,BOM,Air India,Bhuj,AI 2754,18:25,18:59,34,Arrived
+2026-11-12,BOM,IndiGo,Chennai,6E 5104,19:20,19:01,-19,Arrived
+2026-11-12,BOM,Air India,Ahmedabad,AI 2446,19:05,19:04,-1,Arrived
+2026-11-12,BOM,Air India Express,Jaipur,IX 1218,19:35,19:06,-29,Arrived
+2026-11-12,BOM,IndiGo,Hyderabad,6E 5259,18:55,19:09,14,Arrived
+2026-11-12,BOM,Etihad,Abu Dhabi,EY 204,19:00,19:11,11,Arrived
