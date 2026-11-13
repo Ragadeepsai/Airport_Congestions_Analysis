@@ -13980,3 +13980,19 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-13,BOM,Etihad,Abu Dhabi,EY 204,19:00,18:51,-9,Arrived
 2026-11-13,BOM,IndiGo,Chennai,6E 5104,19:20,18:54,-26,Arrived
 2026-11-13,BOM,IndiGo,Coimbatore,6E 5113,19:05,18:57,-8,Arrived
+2026-11-14,BOM,Etihad,Abu Dhabi,EY 206,02:05,02:28,23,Arrived
+2026-11-14,BOM,IndiGo,Doha,6E 1306,02:50,02:34,-16,Arrived
+2026-11-14,BOM,Emirates,Dubai,EK 500,02:15,02:45,30,Arrived
+2026-11-13,BOM,Air India Express,New Delhi,IX 1235,23:10,02:49,219,Arrived
+2026-11-14,BOM,Qatar,Doha,QR 556,02:35,02:51,16,Arrived
+2026-11-14,BOM,Virgin Atlantic,London,VS 358,02:55,02:54,-1,Arrived
+2026-11-14,BOM,Ethiopian,Addis Ababa,ET 640,02:35,03:01,26,Arrived
+2026-11-14,BOM,IndiGo,Abu Dhabi,6E 1402,03:00,03:07,7,Arrived
+2026-11-14,BOM,Air France,Paris,AF 206,03:05,03:10,5,Arrived
+2026-11-14,BOM,flynas,Riyadh,XY 321,03:05,03:19,14,Arrived
+2026-11-14,BOM,SriLankan,Colombo,UL 141,02:10,03:25,75,Arrived
+2026-11-14,BOM,Royal Jordanian,Amman,RJ 190,04:00,03:33,-27,Arrived
+2026-11-14,BOM,Air India,Doha,AI 2290,04:30,03:44,-46,Arrived
+2026-11-14,BOM,Air India,London,AI 128,04:40,03:46,-54,Arrived
+2026-11-14,BOM,I A W,Baghdad,IA 441,04:00,03:52,-8,Arrived
+2026-11-14,BOM,Air India Express,Muscat,IX 314,04:25,03:55,-30,Arrived
