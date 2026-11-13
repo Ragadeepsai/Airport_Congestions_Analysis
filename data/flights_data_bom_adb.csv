@@ -13911,3 +13911,30 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-13,BOM,Air France,Paris,AF 206,03:05,02:42,-23,Arrived
 2026-11-13,BOM,IndiGo,Abu Dhabi,6E 1402,03:00,02:45,-15,Arrived
 2026-11-13,BOM,IndiGo,Doha,6E 1306,02:50,02:48,-2,Arrived
+2026-11-13,BOM,IndiGo,Doha,6E 1342,07:40,07:27,-13,Arrived
+2026-11-13,BOM,Starlight Airline,Kolkata,QP 1251,07:55,07:33,-22,Arrived
+2026-11-13,BOM,Etihad,Abu Dhabi,EY 200,07:00,07:37,37,Arrived
+2026-11-13,BOM,IndiGo,Hyderabad,6E 6196,08:15,07:45,-30,Arrived
+2026-11-13,BOM,Kuwait,Kuwait City,KU 303,08:05,07:47,-18,Arrived
+2026-11-13,BOM,IndiGo,Indore,6E 6184,08:10,07:50,-20,Arrived
+2026-11-13,BOM,IndiGo,Ahmedabad,6E 6285,08:25,07:54,-31,Arrived
+2026-11-13,BOM,Air India,Vasco da Gama,AI 604,08:30,07:57,-33,Arrived
+2026-11-13,BOM,IndiGo,Chandigarh,6E 6382,08:35,07:59,-36,Arrived
+2026-11-13,BOM,IndiGo,Coimbatore,6E 5108,08:40,08:02,-38,Arrived
+2026-11-13,BOM,IndiGo,Naqpur,6E 6025,08:35,08:07,-28,Arrived
+2026-11-13,BOM,IndiGo,New Delhi,6E 6218,08:25,08:10,-15,Arrived
+2026-11-13,BOM,Air India,Jaipur,AI 414,08:55,08:18,-37,Arrived
+2026-11-13,BOM,IndiGo,Bangalore,6E 5216,08:55,08:25,-30,Arrived
+2026-11-13,BOM,IndiGo,Aurangabad,6E 2153,08:45,08:30,-15,Arrived
+2026-11-13,BOM,Air India,Chennai,AI 2779,09:05,08:33,-32,Arrived
+2026-11-13,BOM,IndiGo,Chennai,6E 5314,09:00,08:35,-25,Arrived
+2026-11-13,BOM,IndiGo,New Delhi,6E 6814,09:25,08:38,-47,Arrived
+2026-11-13,BOM,Virgin Atlantic,London,VS 354,08:50,08:41,-9,Arrived
+2026-11-13,BOM,Air India Express,Mopa,IX 2368,08:45,08:44,-1,Arrived
+2026-11-13,BOM,Air India,New Delhi,AI 2429,09:20,08:47,-33,Arrived
+2026-11-13,BOM,IndiGo,Kolkata,6E 5194,09:30,08:49,-41,Arrived
+2026-11-13,BOM,Air India,Frankfurt-am-Main,AI 2028,09:25,08:52,-33,Arrived
+2026-11-13,BOM,IndiGo,Hyderabad,6E 5213,09:30,08:55,-35,Arrived
+2026-11-13,BOM,Air India,Hyderabad,AI 2626,09:10,08:58,-12,Arrived
+2026-11-13,BOM,Air India,Indore,AI 2592,09:40,09:01,-39,Arrived
+2026-11-13,BOM,Air India,Bangalore,AI 2402,09:05,09:03,-2,Arrived
