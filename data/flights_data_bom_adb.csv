@@ -14008,3 +14008,9 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-14,BOM,IndiGo,Chandigarh,6E 6382,08:35,08:01,-34,Arrived
 2026-11-14,BOM,IndiGo,Naqpur,6E 6025,08:35,08:04,-31,Arrived
 2026-11-14,BOM,Air India,Hyderabad,AI 2872,07:25,08:07,42,Arrived
+2026-11-14,BOM,IndiGo,Tiruchirappally,6E 2017,15:50,16:10,20,Arrived
+2026-11-14,BOM,IndiGo,Bangkok,6E 1089,16:20,16:13,-7,Arrived
+2026-11-14,BOM,IndiGo,New Delhi,6E 6022,16:25,16:18,-7,Arrived
+2026-11-14,BOM,IndiGo,Kolkata,6E 5227,16:50,16:21,-29,Arrived
+2026-11-14,BOM,Air India,Patna,AI 2790,16:50,16:24,-26,Arrived
+2026-11-14,BOM,IndiGo,Srinagar,6E 5068,16:25,16:27,2,Arrived
