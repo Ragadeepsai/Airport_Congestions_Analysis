@@ -14040,3 +14040,8 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-15,BOM,IndiGo,Aurangabad,6E 2153,08:45,08:35,-10,Arrived
 2026-11-15,BOM,Air India,Jaipur,AI 414,08:55,08:39,-16,Arrived
 2026-11-15,BOM,IndiGo,Chennai,6E 5314,09:00,08:41,-19,Arrived
+2026-11-15,BOM,IndiGo,Dubai,6E 1452,17:00,16:35,-25,Arrived
+2026-11-15,BOM,Air India,Chandigarh,AI 2682,16:55,16:38,-17,Arrived
+2026-11-15,BOM,Air India,Bangalore,AI 2483,16:50,16:41,-9,Arrived
+2026-11-15,BOM,Nepal,Kathmandu,RA 201,16:30,16:43,13,Arrived
+2026-11-15,BOM,Air India,Patna,AI 2790,16:50,16:46,-4,Arrived
