@@ -14064,3 +14064,21 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-16,BOM,Air France,Paris,AF 206,03:05,02:49,-16,Arrived
 2026-11-16,BOM,flynas,Riyadh,XY 321,03:05,03:09,4,Arrived
 2026-11-16,BOM,IndiGo,Abu Dhabi,6E 1402,03:00,03:22,22,Arrived
+2026-11-16,BOM,Air India,New Delhi,AI 2933,17:45,17:43,-2,Arrived
+2026-11-16,BOM,Air India,Lucknow,AI 2492,16:30,17:45,75,Arrived
+2026-11-16,BOM,Air India,Bangkok,AI 2353,17:50,17:49,-1,Arrived
+2026-11-16,BOM,Starlight Airline,Siliguri,QP 1132,17:50,17:53,3,Arrived
+2026-11-16,BOM,Air India,Tokyo,AI 355,18:00,17:56,-4,Arrived
+2026-11-16,BOM,Air India,Dubai,AI 910,18:25,17:59,-26,Arrived
+2026-11-16,BOM,Alliance Air,Jalgaon,9I 602,17:00,18:02,62,Arrived
+2026-11-16,BOM,IndiGo,Allahabad,6E 6938,17:45,18:05,20,Arrived
+2026-11-16,BOM,IndiGo,Vasco da Gama,6E 5231,17:55,18:07,12,Arrived
+2026-11-16,BOM,Starlight Airline,Udaipur,QP 1156,16:10,18:09,119,Arrived
+2026-11-16,BOM,Air India,Dehradun,AI 432,17:25,18:12,47,Arrived
+2026-11-16,BOM,IndiGo,Bangalore,6E 5031,18:10,18:14,4,Arrived
+2026-11-16,BOM,ANA,Tokyo,NH 829,18:35,18:17,-18,Arrived
+2026-11-16,BOM,IndiGo,Indore,6E 2389,18:05,18:20,15,Arrived
+2026-11-16,BOM,IndiGo,Kochi,6E 436,17:15,18:23,68,Arrived
+2026-11-16,BOM,IndiGo,New Delhi,6E 864,18:00,18:25,25,Arrived
+2026-11-16,BOM,IndiGo,Patna,6E 2167,18:25,18:28,3,Arrived
+2026-11-16,BOM,IndiGo,Jodhpur,6E 5155,17:05,18:32,87,Arrived
