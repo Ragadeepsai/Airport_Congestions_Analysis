@@ -14082,3 +14082,5 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-16,BOM,IndiGo,New Delhi,6E 864,18:00,18:25,25,Arrived
 2026-11-16,BOM,IndiGo,Patna,6E 2167,18:25,18:28,3,Arrived
 2026-11-16,BOM,IndiGo,Jodhpur,6E 5155,17:05,18:32,87,Arrived
+2026-11-17,BOM,Gulf Air,Manama,GF 56,05:10,04:44,-26,Arrived
+2026-11-17,BOM,Air Arabia,Sharjah,G9 405,04:15,04:47,32,Arrived
