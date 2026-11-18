@@ -14177,3 +14177,15 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-18,BOM,IndiGo,New Delhi,6E 328,20:10,20:01,-9,Arrived
 2026-11-18,BOM,Air India,Chennai,AI 2740,20:20,20:02,-18,Arrived
 2026-11-18,BOM,Air India Express,Vasco da Gama,IX 1362,20:05,20:05,0,Arrived
+2026-11-19,BOM,IndiGo,Abu Dhabi,6E 1402,03:00,03:20,20,Arrived
+2026-11-19,BOM,I A W,Baghdad,IA 441,04:00,04:07,7,Arrived
+2026-11-19,BOM,IndiGo,Muscat,6E 1268,04:20,04:09,-11,Arrived
+2026-11-19,BOM,Air India,London,AI 128,04:20,04:14,-6,Arrived
+2026-11-19,BOM,Air India Express,Muscat,IX 314,04:10,04:18,8,Arrived
+2026-11-19,BOM,IndiGo,Kolkata,6E 5243,04:45,04:21,-24,Arrived
+2026-11-19,BOM,Air Mauritius,Port Louis,MK 744,04:20,04:25,5,Arrived
+2026-11-19,BOM,SalamAir,Muscat,OV 761,04:35,04:31,-4,Arrived
+2026-11-19,BOM,Air India,Doha,AI 2290,04:30,04:38,8,Arrived
+2026-11-19,BOM,Gulf Air,Manama,GF 56,05:10,04:43,-27,Arrived
+2026-11-19,BOM,IndiGo,Bangalore,6E 5205,05:05,04:51,-14,Arrived
+2026-11-19,BOM,Air Arabia,Sharjah,G9 405,04:15,04:54,39,Arrived
