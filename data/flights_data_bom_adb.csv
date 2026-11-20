@@ -14239,3 +14239,12 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-20,BOM,Air India,Bangalore,AI 2622,18:30,18:54,24,Arrived
 2026-11-20,BOM,Air India,Tokyo,AI 355,17:55,18:56,61,Arrived
 2026-11-20,BOM,Air India Express,Bangalore,IX 1548,18:40,18:59,19,Arrived
+2026-11-21,BOM,flynas,Riyadh,XY 321,03:05,03:10,5,Arrived
+2026-11-21,BOM,IndiGo,Abu Dhabi,6E 1402,03:00,03:12,12,Arrived
+2026-11-21,BOM,I A W,Baghdad,IA 441,04:00,03:14,-46,Arrived
+2026-11-21,BOM,Air India,London,AI 128,04:20,03:28,-52,Arrived
+2026-11-21,BOM,Royal Jordanian,Amman,RJ 190,04:00,03:34,-26,Arrived
+2026-11-21,BOM,AZAL Azerbaijan,Baku,J2 59,04:05,03:42,-23,Arrived
+2026-11-21,BOM,Air India,Doha,AI 2290,04:30,03:53,-37,Arrived
+2026-11-21,BOM,Air India Express,Muscat,IX 314,04:25,03:58,-27,Arrived
+2026-11-21,BOM,Air India,Bangalore,AI 3306,04:25,04:06,-19,Arrived
