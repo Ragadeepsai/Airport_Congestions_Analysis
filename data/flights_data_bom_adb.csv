@@ -14256,3 +14256,24 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-21,BOM,IndiGo,Coimbatore,6E 5108,08:40,08:27,-13,Arrived
 2026-11-21,BOM,IndiGo,Bangalore,6E 5216,08:55,08:30,-25,Arrived
 2026-11-21,BOM,Emirates,Dubai,EK 504,08:30,08:33,3,Arrived
+2026-11-21,BOM,IndiGo,Kochi,6E 436,17:15,17:20,5,Arrived
+2026-11-21,BOM,IndiGo,Jaipur,6E 5324,17:05,17:23,18,Arrived
+2026-11-21,BOM,IndiGo,Jammu,6E 604,17:35,17:25,-10,Arrived
+2026-11-21,BOM,Starlight Airline,Siliguri,QP 1132,17:50,17:28,-22,Arrived
+2026-11-21,BOM,IndiGo,Vasco da Gama,6E 5231,17:55,17:31,-24,Arrived
+2026-11-21,BOM,Air India Express,Varanasi,IX 2547,17:40,17:33,-7,Arrived
+2026-11-21,BOM,Air India,New Delhi,AI 2951,15:55,17:36,101,Arrived
+2026-11-21,BOM,Emirates,Dubai,EK 502,17:50,17:39,-11,Arrived
+2026-11-21,BOM,IndiGo,Kathmandu,6E 1916,17:35,17:42,7,Arrived
+2026-11-21,BOM,Air India,Dubai,AI 910,18:05,17:44,-21,Arrived
+2026-11-21,BOM,Air India,New Delhi,AI 2933,17:45,17:47,2,Arrived
+2026-11-21,BOM,IndiGo,Bangalore,6E 5031,18:10,17:50,-20,Arrived
+2026-11-21,BOM,Air India,Dehradun,AI 432,17:25,17:53,28,Arrived
+2026-11-21,BOM,IndiGo,Chennai,6E 2125,18:05,17:55,-10,Arrived
+2026-11-21,BOM,Air India,Bangkok,AI 2353,17:50,17:58,8,Arrived
+2026-11-21,BOM,Air India,Udaipur,AI 2596,18:15,18:01,-14,Arrived
+2026-11-21,BOM,IndiGo,New Delhi,6E 864,18:00,18:03,3,Arrived
+2026-11-21,BOM,IndiGo,Indore,6E 2389,18:05,18:05,0,Arrived
+2026-11-21,BOM,Air India Express,Mopa,IX 1293,18:40,18:07,-33,Arrived
+2026-11-21,BOM,IndiGo,Lucknow,6E 6938,17:45,18:09,24,Arrived
+2026-11-21,BOM,IndiGo,New Delhi,6E 327,18:40,18:19,-21,Arrived
