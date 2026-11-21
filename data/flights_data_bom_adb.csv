@@ -14248,3 +14248,11 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-21,BOM,Air India,Doha,AI 2290,04:30,03:53,-37,Arrived
 2026-11-21,BOM,Air India Express,Muscat,IX 314,04:25,03:58,-27,Arrived
 2026-11-21,BOM,Air India,Bangalore,AI 3306,04:25,04:06,-19,Arrived
+2026-11-21,BOM,IndiGo,Chandigarh,6E 6382,08:35,08:12,-23,Arrived
+2026-11-21,BOM,Air India,New Delhi,AI 2975,08:55,08:16,-39,Arrived
+2026-11-21,BOM,Air India,Vasco da Gama,AI 604,08:25,08:19,-6,Arrived
+2026-11-21,BOM,IndiGo,Naqpur,6E 6025,08:35,08:22,-13,Arrived
+2026-11-21,BOM,IndiGo,Abu Dhabi,6E 1414,08:30,08:25,-5,Arrived
+2026-11-21,BOM,IndiGo,Coimbatore,6E 5108,08:40,08:27,-13,Arrived
+2026-11-21,BOM,IndiGo,Bangalore,6E 5216,08:55,08:30,-25,Arrived
+2026-11-21,BOM,Emirates,Dubai,EK 504,08:30,08:33,3,Arrived
