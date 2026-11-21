@@ -14277,3 +14277,15 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-21,BOM,Air India Express,Mopa,IX 1293,18:40,18:07,-33,Arrived
 2026-11-21,BOM,IndiGo,Lucknow,6E 6938,17:45,18:09,24,Arrived
 2026-11-21,BOM,IndiGo,New Delhi,6E 327,18:40,18:19,-21,Arrived
+2026-11-22,BOM,IndiGo,Vasco da Gama,6E 5210,02:40,02:01,-39,Arrived
+2026-11-22,BOM,Ethiopian,Addis Ababa,ET 640,02:35,02:13,-22,Arrived
+2026-11-22,BOM,Air India,Kochi,AI 2652,02:45,02:17,-28,Arrived
+2026-11-22,BOM,Qatar,Doha,QR 556,02:35,02:25,-10,Arrived
+2026-11-22,BOM,Virgin Atlantic,London,VS 358,02:55,02:27,-28,Arrived
+2026-11-21,BOM,Malindo Air,Kuala Lumpur,OD 215,22:20,02:31,251,Arrived
+2026-11-22,BOM,IndiGo,Doha,6E 1306,02:50,02:34,-16,Arrived
+2026-11-22,BOM,Air France,Paris,AF 206,03:05,02:36,-29,Arrived
+2026-11-22,BOM,Emirates,Dubai,EK 500,02:15,02:39,24,Arrived
+2026-11-22,BOM,IndiGo,Abu Dhabi,6E 1402,03:00,02:42,-18,Arrived
+2026-11-22,BOM,IndiGo,Amsterdam,6E 22,02:30,02:48,18,Arrived
+2026-11-22,BOM,flynas,Riyadh,XY 321,03:05,03:10,5,Arrived
