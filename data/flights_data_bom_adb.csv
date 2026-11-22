@@ -14314,3 +14314,7 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-22,BOM,Air India,Frankfurt-am-Main,AI 2028,09:25,08:43,-42,Arrived
 2026-11-22,BOM,Emirates,Dubai,EK 504,08:30,08:46,16,Arrived
 2026-11-22,BOM,Air India,Chennai,AI 2779,09:05,08:50,-15,Arrived
+2026-11-23,BOM,Emirates,Dubai,EK 500,02:15,02:27,12,Arrived
+2026-11-23,BOM,IndiGo,Doha,6E 1306,02:50,02:34,-16,Arrived
+2026-11-23,BOM,AZAL Azerbaijan,Baku,J2 59,03:00,03:01,1,Arrived
+2026-11-23,BOM,IndiGo,Abu Dhabi,6E 1402,03:00,03:03,3,Arrived
