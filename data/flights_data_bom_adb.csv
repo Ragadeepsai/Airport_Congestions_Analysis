@@ -14472,3 +14472,10 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-25,BOM,IndiGo,Gorakhpur,6E 6951,20:35,21:27,52,Arrived
 2026-11-25,BOM,IndiGo,Ahmedabad,6E 793,21:05,21:29,24,Arrived
 2026-11-25,BOM,IndiGo,Bhubaneswar,6E 459,20:40,21:31,51,Arrived
+2026-11-26,BOM,Air India,Dubai,AI 984,04:30,04:45,15,Arrived
+2026-11-26,BOM,Kenya,Nairobi,KQ 202,01:30,04:48,198,Arrived
+2026-11-26,BOM,IndiGo,Bangalore,6E 5205,05:05,04:53,-12,Arrived
+2026-11-26,BOM,Turkish,Istanbul,TK 720,05:20,05:07,-13,Arrived
+2026-11-26,BOM,IndiGo,New Delhi,6E 353,05:55,05:11,-44,Arrived
+2026-11-26,BOM,Air India Express,Abu Dhabi,IX 262,05:55,05:20,-35,Arrived
+2026-11-26,BOM,IndiGo,Ras Al Khaimah,6E 1492,05:15,05:41,26,Arrived
