@@ -8011,3 +8011,27 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-27,MAA,British Airways,London Heathrow,BA0035,05:35,05:35,0,Arrived
 2026-11-27,MAA,IndiGo,Mumbai,6E0136,06:15,05:43,-32,Arrived
 2026-11-27,MAA,Oman Air,Muscat,WY0251,06:25,06:05,-20,Arrived
+2026-11-27,MAA,IndiGo,Visakhapatnam,6E0845,09:35,09:19,-16,Arrived
+2026-11-27,MAA,IndiGo,Port Blair,6E0581,09:40,09:23,-17,Arrived
+2026-11-27,MAA,IndiGo,Bengaluru,6E0904,10:00,09:39,-21,Arrived
+2026-11-27,MAA,IndiGo,Coimbatore,6E0781,09:45,09:42,-3,Arrived
+2026-11-27,MAA,IndiGo,Madurai,6E2494,10:05,09:46,-19,Arrived
+2026-11-27,MAA,IndiGo,Cochin/Kochi,6E0539,10:15,09:52,-23,Arrived
+2026-11-27,MAA,IndiGo,Mumbai,6E5204,10:35,10:01,-34,Arrived
+2026-11-27,MAA,IndiGo,Thoothukudi,6E7320,10:30,10:05,-25,Arrived
+2026-11-27,MAA,IndiGo,Guwahati,6E0927,10:20,10:08,-12,Arrived
+2026-11-27,MAA,IndiGo,Colombo,6E1174,10:40,10:12,-28,Arrived
+2026-11-27,MAA,IndiGo,Hyderabad,6E6151,10:30,10:18,-12,Arrived
+2026-11-27,MAA,IndiGo,Trichy,6E7354,10:30,10:23,-7,Arrived
+2026-11-27,MAA,IndiGo,Bhubaneswar,6E0141,11:00,10:28,-32,Arrived
+2026-11-27,MAA,Air India,Delhi,AI2833,10:20,10:34,14,Arrived
+2026-11-27,MAA,Malaysia Airlines,Kuala Lumpur,MH0182,10:45,10:39,-6,Arrived
+2026-11-27,MAA,IndiGo,Mangalore,6E7345,10:55,10:45,-10,Arrived
+2026-11-27,MAA,IndiGo,Ahmedabad,6E6078,11:25,11:06,-19,Arrived
+2026-11-27,MAA,IndiGo,Delhi,6E2201,11:20,11:11,-9,Arrived
+2026-11-27,MAA,IndiGo,Kolkata,6E0563,11:25,11:14,-11,Arrived
+2026-11-27,MAA,Air India,Delhi,AI2523,11:40,11:17,-23,Arrived
+2026-11-27,MAA,IndiGo,Abu Dhabi,6E1412,11:55,11:21,-34,Arrived
+2026-11-27,MAA,IndiGo,Bengaluru,6E0575,11:55,11:29,-26,Arrived
+2026-11-27,MAA,Air India Express,Singapore,IX0627,11:35,11:34,-1,Arrived
+2026-11-27,MAA,IndiGo,Mumbai,6E5313,12:15,11:44,-31,Arrived
