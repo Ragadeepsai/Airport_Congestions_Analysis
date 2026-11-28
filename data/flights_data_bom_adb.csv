@@ -14498,3 +14498,15 @@ date,airport_code,airline,origin_city,flight_number,scheduled_time,actual_time,d
 2026-11-26,BOM,Air India,Chennai,AI 2740,20:20,20:21,1,Arrived
 2026-11-26,BOM,Gulf Air,Manama,GF 64,20:30,20:24,-6,Arrived
 2026-11-26,BOM,Starlight Airline,Bangalore,QP 1333,19:55,20:29,34,Arrived
+2026-11-28,BOM,SalamAir,Muscat,OV 761,04:35,04:24,-11,Arrived
+2026-11-28,BOM,SAS,Copenhagen,SK 969,04:30,04:31,1,Arrived
+2026-11-28,BOM,Air India,Dubai,AI 984,04:30,04:34,4,Arrived
+2026-11-28,BOM,IndiGo,Bangalore,6E 5205,05:05,04:43,-22,Arrived
+2026-11-28,BOM,Gulf Air,Manama,GF 56,05:10,04:48,-22,Arrived
+2026-11-28,BOM,Air Arabia,Sharjah,G9 405,04:15,04:52,37,Arrived
+2026-11-28,BOM,IndiGo,New Delhi,6E 353,05:55,05:15,-40,Arrived
+2026-11-28,BOM,Turkish,Istanbul,TK 720,05:20,05:18,-2,Arrived
+2026-11-28,BOM,IndiGo,Ras Al Khaimah,6E 1492,05:15,05:35,20,Arrived
+2026-11-28,BOM,IndiGo,Manama,6E 1202,05:45,05:43,-2,Arrived
+2026-11-28,BOM,Air India Express,Abu Dhabi,IX 262,05:55,05:45,-10,Arrived
+2026-11-28,BOM,British,London,BA 135,05:40,05:51,11,Arrived
